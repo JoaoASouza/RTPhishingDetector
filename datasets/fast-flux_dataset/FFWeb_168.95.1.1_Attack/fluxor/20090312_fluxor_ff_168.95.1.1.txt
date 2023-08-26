@@ -1,0 +1,298 @@
+
+; <<>> DiG 9.3.2rc1 <<>> ourrow.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 913
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ourrow.com.			IN	A
+
+;; ANSWER SECTION:
+ourrow.com.		3600	IN	A	60.29.240.87
+ourrow.com.		3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+ourrow.com.		172800	IN	NS	dns5.expirenotification.com.
+ourrow.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 1167 IN	A	124.42.34.163
+dns6.expirenotification.com. 118370 IN	A	124.42.34.163
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:27 2009
+;; MSG SIZE  rcvd: 159
+
+; <<>> DiG 9.3.2rc1 <<>> severalelement.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 984
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;severalelement.com.		IN	A
+
+;; ANSWER SECTION:
+severalelement.com.	3600	IN	A	60.29.240.87
+severalelement.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+severalelement.com.	172800	IN	NS	dns5.expirenotification.com.
+severalelement.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 123828 IN	A	124.42.34.163
+dns6.expirenotification.com. 123828 IN	A	124.42.34.163
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:28 2009
+;; MSG SIZE  rcvd: 175
+
+; <<>> DiG 9.3.2rc1 <<>> jjh1.li
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1854
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;jjh1.li.			IN	A
+
+;; AUTHORITY SECTION:
+li.			3600	IN	SOA	domreg.nic.ch. helpdesk.nic.li. 2009031216 3600 900 2592000 3600
+
+;; Query time: 203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:28 2009
+;; MSG SIZE  rcvd: 89
+
+; <<>> DiG 9.3.2rc1 <<>> jjil1.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1036
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;jjil1.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1236872003 1800 900 604800 900
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:28 2009
+;; MSG SIZE  rcvd: 103
+
+; <<>> DiG 9.3.2rc1 <<>> ilj1.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1085
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ilj1.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1236872003 1800 900 604800 900
+
+;; Query time: 31 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:28 2009
+;; MSG SIZE  rcvd: 102
+
+; <<>> DiG 9.3.2rc1 <<>> centredownloadpatch.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 274
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;centredownloadpatch.com.	IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1236872003 1800 900 604800 900
+
+;; Query time: 156 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:28 2009
+;; MSG SIZE  rcvd: 117
+
+; <<>> DiG 9.3.2rc1 <<>> castingpink.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 540
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;castingpink.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1236872003 1800 900 604800 900
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:29 2009
+;; MSG SIZE  rcvd: 109
+
+; <<>> DiG 9.3.2rc1 <<>> jjll.ch
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1090
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;jjll.ch.			IN	A
+
+;; AUTHORITY SECTION:
+ch.			3600	IN	SOA	domreg.nic.ch. helpdesk.nic.ch. 2009031216 3600 900 2592000 3600
+
+;; Query time: 171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:29 2009
+;; MSG SIZE  rcvd: 83
+
+; <<>> DiG 9.3.2rc1 <<>> jjhf.li
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1301
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;jjhf.li.			IN	A
+
+;; AUTHORITY SECTION:
+li.			3600	IN	SOA	domreg.nic.ch. helpdesk.nic.li. 2009031216 3600 900 2592000 3600
+
+;; Query time: 93 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:29 2009
+;; MSG SIZE  rcvd: 89
+
+; <<>> DiG 9.3.2rc1 <<>> ilj1.net
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1316
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ilj1.net.			IN	A
+
+;; AUTHORITY SECTION:
+net.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1236872003 1800 900 604800 900
+
+;; Query time: 140 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:29 2009
+;; MSG SIZE  rcvd: 102
+
+; <<>> DiG 9.3.2rc1 <<>> 1jhj.net
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1597
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;1jhj.net.			IN	A
+
+;; AUTHORITY SECTION:
+net.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1236872003 1800 900 604800 900
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:29 2009
+;; MSG SIZE  rcvd: 102
+
+; <<>> DiG 9.3.2rc1 <<>> hhj1.net
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1298
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;hhj1.net.			IN	A
+
+;; AUTHORITY SECTION:
+net.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1236872003 1800 900 604800 900
+
+;; Query time: 109 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:29 2009
+;; MSG SIZE  rcvd: 102
+
+; <<>> DiG 9.3.2rc1 <<>> best-rx-onlinestore.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1576
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	69.198.5.210
+best-rx-onlinestore.com. 300	IN	A	201.6.245.234
+best-rx-onlinestore.com. 300	IN	A	209.41.200.129
+best-rx-onlinestore.com. 300	IN	A	64.238.223.93
+best-rx-onlinestore.com. 300	IN	A	66.240.84.56
+best-rx-onlinestore.com. 300	IN	A	68.236.210.184
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	148183	IN	A	75.41.185.57
+ns3.splendidfindings.com. 148183 IN	A	64.207.235.135
+ns4.magnifindings.com.	172800	IN	A	216.241.132.134
+ns1.verity-fresh.com.	148183	IN	A	72.254.80.121
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:30 2009
+;; MSG SIZE  rcvd: 352
+
+; <<>> DiG 9.3.2rc1 <<>> educationprovider.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 235
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;educationprovider.com.		IN	A
+
+;; ANSWER SECTION:
+educationprovider.com.	60	IN	A	67.109.145.54
+educationprovider.com.	60	IN	A	209.167.6.200
+educationprovider.com.	60	IN	A	209.167.6.17
+
+;; AUTHORITY SECTION:
+educationprovider.com.	86400	IN	NS	udns2.ultradns.net.
+educationprovider.com.	86400	IN	NS	udns1.ultradns.net.
+
+;; ADDITIONAL SECTION:
+udns2.ultradns.net.	35494	IN	A	204.74.101.1
+udns1.ultradns.net.	35494	IN	A	204.69.234.1
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:30 2009
+;; MSG SIZE  rcvd: 192
+
+; <<>> DiG 9.3.2rc1 <<>> findromance.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1594
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;findromance.com.		IN	A
+
+;; ANSWER SECTION:
+findromance.com.	60	IN	A	209.167.6.17
+findromance.com.	60	IN	A	67.109.145.54
+findromance.com.	60	IN	A	209.167.6.200
+
+;; AUTHORITY SECTION:
+findromance.com.	86400	IN	NS	udns2.ultradns.net.
+findromance.com.	86400	IN	NS	udns1.ultradns.net.
+
+;; ADDITIONAL SECTION:
+udns2.ultradns.net.	41074	IN	A	204.74.101.1
+udns1.ultradns.net.	41074	IN	A	204.69.234.1
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Mar 12 23:33:31 2009
+;; MSG SIZE  rcvd: 180
+

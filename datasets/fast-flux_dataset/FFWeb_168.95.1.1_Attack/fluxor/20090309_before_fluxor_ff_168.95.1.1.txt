@@ -1,0 +1,2293 @@
+
+; <<>> DiG 9.3.2rc1 <<>> geotmoviesnow.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+; <<>> DiG 9.3.2rc1 <<>> getmgoviesnow.cn
+;; connection timed out; no servers could be reached
+; <<>> DiG 9.3.2rc1 <<>> getmhoviesnow.cn
+;; connection timed out; no servers could be reached
+; <<>> DiG 9.3.2rc1 <<>> getmloviesnow.cn
+;; connection timed out; no servers could be reached
+; <<>> DiG 9.3.2rc1 <<>> getmobviesnow.cn
+;; connection timed out; no servers could be reached
+; <<>> DiG 9.3.2rc1 <<>> getrmoviesnow.cn
+;; connection timed out; no servers could be reached
+; <<>> DiG 9.3.2rc1 <<>> lzuvgo.teamgold.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 392
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;lzuvgo.teamgold.cn.		IN	A
+
+;; ANSWER SECTION:
+lzuvgo.teamgold.cn.	36000	IN	A	218.61.204.214
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:09 2009
+;; MSG SIZE  rcvd: 52
+
+; <<>> DiG 9.3.2rc1 <<>> www.fastvidlos.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1811
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;www.fastvidlos.cn.		IN	A
+
+;; ANSWER SECTION:
+www.fastvidlos.cn.	600	IN	A	205.209.137.110
+
+;; AUTHORITY SECTION:
+fastvidlos.cn.		21600	IN	NS	ns2.pending-renewal-domain.com.
+fastvidlos.cn.		21600	IN	NS	ns1.pending-renewal-domain.com.
+
+;; ADDITIONAL SECTION:
+ns2.pending-renewal-domain.com.	115581 IN A	61.151.252.236
+ns1.pending-renewal-domain.com.	115581 IN A	61.151.252.236
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:09 2009
+;; MSG SIZE  rcvd: 162
+
+; <<>> DiG 9.3.2rc1 <<>> agemiddle.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2035
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;agemiddle.com.			IN	A
+
+;; ANSWER SECTION:
+agemiddle.com.		3600	IN	A	118.102.24.109
+agemiddle.com.		3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+agemiddle.com.		172800	IN	NS	dns5.expirenotification.com.
+agemiddle.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 111827 IN	A	124.42.34.163
+dns6.expirenotification.com. 300 IN	A	124.42.34.163
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:10 2009
+;; MSG SIZE  rcvd: 165
+
+; <<>> DiG 9.3.2rc1 <<>> www.strutsfootwearprestiges.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 235
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;www.strutsfootwearprestiges.com. IN	A
+
+;; ANSWER SECTION:
+www.strutsfootwearprestiges.com. 3600 IN A	60.29.240.87
+www.strutsfootwearprestiges.com. 3600 IN A	118.102.24.109
+
+;; AUTHORITY SECTION:
+strutsfootwearprestiges.com. 172799 IN	NS	dns5.expirenotification.com.
+strutsfootwearprestiges.com. 172799 IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 3155 IN	A	124.42.34.163
+dns6.expirenotification.com. 2758 IN	A	124.42.34.163
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:10 2009
+;; MSG SIZE  rcvd: 201
+
+; <<>> DiG 9.3.2rc1 <<>> hitwebplaying.net
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 347
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;hitwebplaying.net.		IN	A
+
+;; ANSWER SECTION:
+hitwebplaying.net.	600	IN	A	208.73.210.50
+
+;; AUTHORITY SECTION:
+hitwebplaying.net.	21600	IN	NS	ns4.moniker.com.
+hitwebplaying.net.	21600	IN	NS	ns3.moniker.com.
+
+;; ADDITIONAL SECTION:
+ns4.moniker.com.	112503	IN	A	208.73.211.44
+ns3.moniker.com.	112503	IN	A	208.73.210.43
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:10 2009
+;; MSG SIZE  rcvd: 147
+
+; <<>> DiG 9.3.2rc1 <<>> hitwebplaying.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1414
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;hitwebplaying.com.		IN	A
+
+;; ANSWER SECTION:
+hitwebplaying.com.	600	IN	A	208.73.210.50
+
+;; AUTHORITY SECTION:
+hitwebplaying.com.	21600	IN	NS	ns4.moniker.com.
+hitwebplaying.com.	21600	IN	NS	ns3.moniker.com.
+
+;; ADDITIONAL SECTION:
+ns4.moniker.com.	134804	IN	A	208.73.211.44
+ns3.moniker.com.	134804	IN	A	208.73.210.43
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:10 2009
+;; MSG SIZE  rcvd: 144
+
+; <<>> DiG 9.3.2rc1 <<>> twt.vcdoesnot.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1873
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;twt.vcdoesnot.com.		IN	A
+
+;; ANSWER SECTION:
+twt.vcdoesnot.com.	3600	IN	A	118.102.24.109
+twt.vcdoesnot.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+vcdoesnot.com.		172800	IN	NS	dns5.expirenotification.com.
+vcdoesnot.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 143708 IN	A	124.42.34.163
+dns6.expirenotification.com. 143708 IN	A	124.42.34.163
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:11 2009
+;; MSG SIZE  rcvd: 173
+
+; <<>> DiG 9.3.2rc1 <<>> twp.vabutthe.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 371
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;twp.vabutthe.com.		IN	A
+
+;; ANSWER SECTION:
+twp.vabutthe.com.	3600	IN	A	118.102.24.109
+twp.vabutthe.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+vabutthe.com.		172800	IN	NS	dns5.expirenotification.com.
+vabutthe.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 141517 IN	A	124.42.34.163
+dns6.expirenotification.com. 855 IN	A	124.42.34.163
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:11 2009
+;; MSG SIZE  rcvd: 171
+
+; <<>> DiG 9.3.2rc1 <<>> capubpol.net
+;; connection timed out; no servers could be reached
+; <<>> DiG 9.3.2rc1 <<>> goldcashgame.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1869
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;goldcashgame.com.		IN	A
+
+;; ANSWER SECTION:
+goldcashgame.com.	3600	IN	A	68.178.232.99
+
+;; AUTHORITY SECTION:
+goldcashgame.com.	3600	IN	NS	ns07.domaincontrol.com.
+goldcashgame.com.	3600	IN	NS	ns08.domaincontrol.com.
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:26 2009
+;; MSG SIZE  rcvd: 102
+
+; <<>> DiG 9.3.2rc1 <<>> operu.ageknew.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 964
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;operu.ageknew.com.		IN	A
+
+;; ANSWER SECTION:
+operu.ageknew.com.	3600	IN	A	118.102.24.109
+operu.ageknew.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+ageknew.com.		172800	IN	NS	dns5.expirenotification.com.
+ageknew.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 145433 IN	A	124.42.34.163
+dns6.expirenotification.com. 145433 IN	A	124.42.34.163
+
+;; Query time: 93 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:27 2009
+;; MSG SIZE  rcvd: 173
+
+; <<>> DiG 9.3.2rc1 <<>> tirunuami.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 912
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;tirunuami.com.			IN	A
+
+;; ANSWER SECTION:
+tirunuami.com.		3600	IN	A	118.102.24.109
+tirunuami.com.		3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+tirunuami.com.		172800	IN	NS	dns5.expirenotification.com.
+tirunuami.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 2825 IN	A	124.42.34.163
+dns6.expirenotification.com. 24	IN	A	124.42.34.163
+
+;; Query time: 140 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:27 2009
+;; MSG SIZE  rcvd: 165
+
+; <<>> DiG 9.3.2rc1 <<>> ruzuy.fallbroad.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1527
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ruzuy.fallbroad.com.		IN	A
+
+;; ANSWER SECTION:
+ruzuy.fallbroad.com.	3600	IN	A	118.102.24.109
+ruzuy.fallbroad.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+fallbroad.com.		172800	IN	NS	dns5.expirenotification.com.
+fallbroad.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 146623 IN	A	124.42.34.163
+dns6.expirenotification.com. 146623 IN	A	124.42.34.163
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:27 2009
+;; MSG SIZE  rcvd: 177
+
+; <<>> DiG 9.3.2rc1 <<>> eru.ageknew.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1724
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;eru.ageknew.com.		IN	A
+
+;; ANSWER SECTION:
+eru.ageknew.com.	3600	IN	A	118.102.24.109
+eru.ageknew.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+ageknew.com.		172800	IN	NS	dns5.expirenotification.com.
+ageknew.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 131387 IN	A	124.42.34.163
+dns6.expirenotification.com. 131387 IN	A	124.42.34.163
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:27 2009
+;; MSG SIZE  rcvd: 169
+
+; <<>> DiG 9.3.2rc1 <<>> www.kijuruir.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1541
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;www.kijuruir.com.		IN	A
+
+;; ANSWER SECTION:
+www.kijuruir.com.	3600	IN	A	60.29.240.87
+www.kijuruir.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+kijuruir.com.		172800	IN	NS	dns5.expirenotification.com.
+kijuruir.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 141663 IN	A	124.42.34.163
+dns6.expirenotification.com. 141663 IN	A	124.42.34.163
+
+;; Query time: 187 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:28 2009
+;; MSG SIZE  rcvd: 171
+
+; <<>> DiG 9.3.2rc1 <<>> dru.speakplant.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;dru.speakplant.com.		IN	A
+
+;; ANSWER SECTION:
+dru.speakplant.com.	3600	IN	A	118.102.24.109
+dru.speakplant.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+speakplant.com.		172800	IN	NS	dns5.expirenotification.com.
+speakplant.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 113295 IN	A	124.42.34.163
+dns6.expirenotification.com. 113295 IN	A	124.42.34.163
+
+;; Query time: 171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:28 2009
+;; MSG SIZE  rcvd: 175
+
+; <<>> DiG 9.3.2rc1 <<>> abovetruck.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;abovetruck.com.			IN	A
+
+;; ANSWER SECTION:
+abovetruck.com.		3600	IN	A	118.102.24.109
+abovetruck.com.		3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+abovetruck.com.		172800	IN	NS	dns5.expirenotification.com.
+abovetruck.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 2007 IN	A	124.42.34.163
+dns6.expirenotification.com. 115373 IN	A	124.42.34.163
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:28 2009
+;; MSG SIZE  rcvd: 167
+
+; <<>> DiG 9.3.2rc1 <<>> rue.wonderright.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1862
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;rue.wonderright.com.		IN	A
+
+;; ANSWER SECTION:
+rue.wonderright.com.	3600	IN	A	60.29.240.87
+rue.wonderright.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+wonderright.com.	172800	IN	NS	dns5.expirenotification.com.
+wonderright.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 145431 IN	A	124.42.34.163
+dns6.expirenotification.com. 145431 IN	A	124.42.34.163
+
+;; Query time: 93 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:28 2009
+;; MSG SIZE  rcvd: 177
+
+; <<>> DiG 9.3.2rc1 <<>> FGB8Z.chordorder.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 744
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;FGB8Z.chordorder.com.		IN	A
+
+;; ANSWER SECTION:
+FGB8Z.chordorder.com.	3600	IN	A	60.29.240.87
+FGB8Z.chordorder.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+chordorder.com.		172800	IN	NS	dns5.expirenotification.com.
+chordorder.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 139751 IN	A	124.42.34.163
+dns6.expirenotification.com. 2176 IN	A	124.42.34.163
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:34 2009
+;; MSG SIZE  rcvd: 179
+
+; <<>> DiG 9.3.2rc1 <<>> gbn.vfasthere.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1745
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;gbn.vfasthere.com.		IN	A
+
+;; ANSWER SECTION:
+gbn.vfasthere.com.	3600	IN	A	60.29.240.87
+gbn.vfasthere.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+vfasthere.com.		172800	IN	NS	dns5.expirenotification.com.
+vfasthere.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 669 IN	A	124.42.34.163
+dns6.expirenotification.com. 1738 IN	A	124.42.34.163
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:34 2009
+;; MSG SIZE  rcvd: 173
+
+; <<>> DiG 9.3.2rc1 <<>> wmgbja.ageknew.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 90
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;wmgbja.ageknew.com.		IN	A
+
+;; ANSWER SECTION:
+wmgbja.ageknew.com.	3600	IN	A	118.102.24.109
+wmgbja.ageknew.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+ageknew.com.		172800	IN	NS	dns5.expirenotification.com.
+ageknew.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 116542 IN	A	124.42.34.163
+dns6.expirenotification.com. 116542 IN	A	124.42.34.163
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:34 2009
+;; MSG SIZE  rcvd: 175
+
+; <<>> DiG 9.3.2rc1 <<>> gbs.vgisstill.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1602
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;gbs.vgisstill.com.		IN	A
+
+;; ANSWER SECTION:
+gbs.vgisstill.com.	3600	IN	A	118.102.24.109
+gbs.vgisstill.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+vgisstill.com.		172800	IN	NS	dns5.expirenotification.com.
+vgisstill.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 3132 IN	A	124.42.34.163
+dns6.expirenotification.com. 626 IN	A	124.42.34.163
+
+;; Query time: 203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:35 2009
+;; MSG SIZE  rcvd: 173
+
+; <<>> DiG 9.3.2rc1 <<>> gbe.vjthatis.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 609
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;gbe.vjthatis.com.		IN	A
+
+;; ANSWER SECTION:
+gbe.vjthatis.com.	3600	IN	A	118.102.24.109
+gbe.vjthatis.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+vjthatis.com.		172800	IN	NS	dns5.expirenotification.com.
+vjthatis.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 114525 IN	A	124.42.34.163
+dns6.expirenotification.com. 114525 IN	A	124.42.34.163
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:35 2009
+;; MSG SIZE  rcvd: 171
+
+; <<>> DiG 9.3.2rc1 <<>> nmgbo.arrangerope.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1434
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;nmgbo.arrangerope.com.		IN	A
+
+;; ANSWER SECTION:
+nmgbo.arrangerope.com.	3600	IN	A	118.102.24.109
+nmgbo.arrangerope.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+arrangerope.com.	172800	IN	NS	dns5.expirenotification.com.
+arrangerope.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 1381 IN	A	124.42.34.163
+dns6.expirenotification.com. 1381 IN	A	124.42.34.163
+
+;; Query time: 156 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:35 2009
+;; MSG SIZE  rcvd: 181
+
+; <<>> DiG 9.3.2rc1 <<>> eyagb.familyprobable.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1115
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;eyagb.familyprobable.com.	IN	A
+
+;; ANSWER SECTION:
+eyagb.familyprobable.com. 3093	IN	A	118.102.24.109
+eyagb.familyprobable.com. 3093	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+familyprobable.com.	172293	IN	NS	dns5.expirenotification.com.
+familyprobable.com.	172293	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 151432 IN	A	124.42.34.163
+dns6.expirenotification.com. 971 IN	A	124.42.34.163
+
+;; Query time: 0 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:35 2009
+;; MSG SIZE  rcvd: 163
+
+; <<>> DiG 9.3.2rc1 <<>> kgboe.familyprobable.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 186
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;kgboe.familyprobable.com.	IN	A
+
+;; ANSWER SECTION:
+kgboe.familyprobable.com. 3600	IN	A	118.102.24.109
+kgboe.familyprobable.com. 3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+familyprobable.com.	172800	IN	NS	dns5.expirenotification.com.
+familyprobable.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 109772 IN	A	124.42.34.163
+dns6.expirenotification.com. 109772 IN	A	124.42.34.163
+
+;; Query time: 171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:35 2009
+;; MSG SIZE  rcvd: 187
+
+; <<>> DiG 9.3.2rc1 <<>> gbry.dqshave.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 910
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;gbry.dqshave.com.		IN	A
+
+;; ANSWER SECTION:
+gbry.dqshave.com.	3600	IN	A	222.186.12.137
+
+;; AUTHORITY SECTION:
+dqshave.com.		172800	IN	NS	ns1.dnbiz.com.
+dqshave.com.		172800	IN	NS	ns2.dnbiz.com.
+
+;; ADDITIONAL SECTION:
+ns1.dnbiz.com.		134248	IN	A	61.151.253.89
+ns2.dnbiz.com.		134248	IN	A	61.151.253.89
+
+;; Query time: 171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:35 2009
+;; MSG SIZE  rcvd: 140
+
+; <<>> DiG 9.3.2rc1 <<>> gbn.vpmostof.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1234
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;gbn.vpmostof.com.		IN	A
+
+;; ANSWER SECTION:
+gbn.vpmostof.com.	3600	IN	A	118.102.24.109
+gbn.vpmostof.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+vpmostof.com.		172800	IN	NS	dns5.expirenotification.com.
+vpmostof.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 140826 IN	A	124.42.34.163
+dns6.expirenotification.com. 2826 IN	A	124.42.34.163
+
+;; Query time: 156 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:36 2009
+;; MSG SIZE  rcvd: 171
+
+; <<>> DiG 9.3.2rc1 <<>> froit.wonderright.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 575
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;froit.wonderright.com.		IN	A
+
+;; ANSWER SECTION:
+froit.wonderright.com.	3600	IN	A	60.29.240.87
+froit.wonderright.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+wonderright.com.	172799	IN	NS	dns5.expirenotification.com.
+wonderright.com.	172799	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 158572 IN	A	124.42.34.163
+dns6.expirenotification.com. 158572 IN	A	124.42.34.163
+
+;; Query time: 93 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:36 2009
+;; MSG SIZE  rcvd: 181
+
+; <<>> DiG 9.3.2rc1 <<>> fernsfrequentchi.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1582
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;fernsfrequentchi.com.		IN	A
+
+;; ANSWER SECTION:
+fernsfrequentchi.com.	3600	IN	A	118.102.24.109
+fernsfrequentchi.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+fernsfrequentchi.com.	172800	IN	NS	dns5.expirenotification.com.
+fernsfrequentchi.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 114580 IN	A	124.42.34.163
+dns6.expirenotification.com. 114580 IN	A	124.42.34.163
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:36 2009
+;; MSG SIZE  rcvd: 179
+
+; <<>> DiG 9.3.2rc1 <<>> www.fraesdoer.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1470
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;www.fraesdoer.com.		IN	A
+
+;; ANSWER SECTION:
+www.fraesdoer.com.	3600	IN	A	118.102.24.109
+www.fraesdoer.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+fraesdoer.com.		172800	IN	NS	dns5.expirenotification.com.
+fraesdoer.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 147693 IN	A	124.42.34.163
+dns6.expirenotification.com. 147693 IN	A	124.42.34.163
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:36 2009
+;; MSG SIZE  rcvd: 173
+
+; <<>> DiG 9.3.2rc1 <<>> formfruit.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 143
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;formfruit.com.			IN	A
+
+;; ANSWER SECTION:
+formfruit.com.		3600	IN	A	60.29.240.87
+formfruit.com.		3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+formfruit.com.		172799	IN	NS	dns5.expirenotification.com.
+formfruit.com.		172799	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 115582 IN	A	124.42.34.163
+dns6.expirenotification.com. 115582 IN	A	124.42.34.163
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:37 2009
+;; MSG SIZE  rcvd: 165
+
+; <<>> DiG 9.3.2rc1 <<>> frace-chase.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 928
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;frace-chase.com.		IN	A
+
+;; ANSWER SECTION:
+frace-chase.com.	1800	IN	A	69.64.155.14
+
+;; AUTHORITY SECTION:
+frace-chase.com.	3600	IN	NS	dns1.name-services.com.
+frace-chase.com.	3600	IN	NS	dns2.name-services.com.
+frace-chase.com.	3600	IN	NS	dns3.name-services.com.
+frace-chase.com.	3600	IN	NS	dns4.name-services.com.
+frace-chase.com.	3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	134189	IN	A	98.124.192.1
+dns2.name-services.com.	116052	IN	A	216.52.184.248
+dns3.name-services.com.	141466	IN	A	98.124.193.1
+dns4.name-services.com.	126931	IN	A	69.64.145.225
+dns5.name-services.com.	137829	IN	A	70.42.37.7
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:37 2009
+;; MSG SIZE  rcvd: 253
+
+; <<>> DiG 9.3.2rc1 <<>> www.wildhuge.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 93
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;www.wildhuge.com.		IN	A
+
+;; ANSWER SECTION:
+www.wildhuge.com.	1800	IN	A	69.64.155.120
+
+;; AUTHORITY SECTION:
+wildhuge.com.		3600	IN	NS	dns1.name-services.com.
+wildhuge.com.		3600	IN	NS	dns2.name-services.com.
+wildhuge.com.		3600	IN	NS	dns3.name-services.com.
+wildhuge.com.		3600	IN	NS	dns4.name-services.com.
+wildhuge.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	125911	IN	A	98.124.192.1
+dns2.name-services.com.	125911	IN	A	216.52.184.248
+dns3.name-services.com.	125911	IN	A	98.124.193.1
+dns4.name-services.com.	125911	IN	A	69.64.145.225
+dns5.name-services.com.	125911	IN	A	70.42.37.7
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:38 2009
+;; MSG SIZE  rcvd: 255
+
+; <<>> DiG 9.3.2rc1 <<>> nizjhu.picksuch.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1656
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;nizjhu.picksuch.com.		IN	A
+
+;; ANSWER SECTION:
+nizjhu.picksuch.com.	3600	IN	A	118.102.24.109
+nizjhu.picksuch.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+picksuch.com.		172800	IN	NS	dns5.expirenotification.com.
+picksuch.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 1997 IN	A	124.42.34.163
+dns6.expirenotification.com. 115363 IN	A	124.42.34.163
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:38 2009
+;; MSG SIZE  rcvd: 177
+
+; <<>> DiG 9.3.2rc1 <<>> zjhuzv.meatmillion.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1771
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;zjhuzv.meatmillion.com.		IN	A
+
+;; ANSWER SECTION:
+zjhuzv.meatmillion.com.	3600	IN	A	118.102.24.109
+zjhuzv.meatmillion.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+meatmillion.com.	172800	IN	NS	dns5.expirenotification.com.
+meatmillion.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 109036 IN	A	124.42.34.163
+dns6.expirenotification.com. 109036 IN	A	124.42.34.163
+
+;; Query time: 125 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:38 2009
+;; MSG SIZE  rcvd: 183
+
+; <<>> DiG 9.3.2rc1 <<>> izjhu.meatmillion.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1590
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;izjhu.meatmillion.com.		IN	A
+
+;; ANSWER SECTION:
+izjhu.meatmillion.com.	3600	IN	A	118.102.24.109
+izjhu.meatmillion.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+meatmillion.com.	172800	IN	NS	dns5.expirenotification.com.
+meatmillion.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 148291 IN	A	124.42.34.163
+dns6.expirenotification.com. 148291 IN	A	124.42.34.163
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:39 2009
+;; MSG SIZE  rcvd: 181
+
+; <<>> DiG 9.3.2rc1 <<>> huoqlg.ranglad.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;huoqlg.ranglad.com.		IN	A
+
+;; ANSWER SECTION:
+huoqlg.ranglad.com.	3600	IN	A	118.102.24.109
+huoqlg.ranglad.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+ranglad.com.		172800	IN	NS	dns5.expirenotification.com.
+ranglad.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 144835 IN	A	124.42.34.163
+dns6.expirenotification.com. 144835 IN	A	124.42.34.163
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:39 2009
+;; MSG SIZE  rcvd: 175
+
+; <<>> DiG 9.3.2rc1 <<>> www.marchukot.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1159
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;www.marchukot.com.		IN	A
+
+;; ANSWER SECTION:
+www.marchukot.com.	3600	IN	A	60.29.240.87
+www.marchukot.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+marchukot.com.		172800	IN	NS	dns5.expirenotification.com.
+marchukot.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 140201 IN	A	124.42.34.163
+dns6.expirenotification.com. 140201 IN	A	124.42.34.163
+
+;; Query time: 171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:39 2009
+;; MSG SIZE  rcvd: 173
+
+; <<>> DiG 9.3.2rc1 <<>> humandepend.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 842
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;humandepend.com.		IN	A
+
+;; ANSWER SECTION:
+humandepend.com.	3600	IN	A	118.102.24.109
+humandepend.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+humandepend.com.	172800	IN	NS	dns5.expirenotification.com.
+humandepend.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 114521 IN	A	124.42.34.163
+dns6.expirenotification.com. 114521 IN	A	124.42.34.163
+
+;; Query time: 93 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:39 2009
+;; MSG SIZE  rcvd: 169
+
+; <<>> DiG 9.3.2rc1 <<>> jhuz.meatmillion.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 350
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;jhuz.meatmillion.com.		IN	A
+
+;; ANSWER SECTION:
+jhuz.meatmillion.com.	3600	IN	A	60.29.240.87
+jhuz.meatmillion.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+meatmillion.com.	172799	IN	NS	dns5.expirenotification.com.
+meatmillion.com.	172799	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 142129 IN	A	124.42.34.163
+dns6.expirenotification.com. 142129 IN	A	124.42.34.163
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:40 2009
+;; MSG SIZE  rcvd: 179
+
+; <<>> DiG 9.3.2rc1 <<>> www.seemhurry.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1749
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;www.seemhurry.com.		IN	A
+
+;; ANSWER SECTION:
+www.seemhurry.com.	3600	IN	A	60.29.240.87
+www.seemhurry.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+seemhurry.com.		172800	IN	NS	dns5.expirenotification.com.
+seemhurry.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 121380 IN	A	124.42.34.163
+dns6.expirenotification.com. 121380 IN	A	124.42.34.163
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:40 2009
+;; MSG SIZE  rcvd: 173
+
+; <<>> DiG 9.3.2rc1 <<>> mjvhu.arrangerope.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2044
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;mjvhu.arrangerope.com.		IN	A
+
+;; ANSWER SECTION:
+mjvhu.arrangerope.com.	3600	IN	A	60.29.240.87
+mjvhu.arrangerope.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+arrangerope.com.	172800	IN	NS	dns5.expirenotification.com.
+arrangerope.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 137622 IN	A	124.42.34.163
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:40 2009
+;; MSG SIZE  rcvd: 165
+
+; <<>> DiG 9.3.2rc1 <<>> hunjt.cropsegment.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1701
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;hunjt.cropsegment.com.		IN	A
+
+;; ANSWER SECTION:
+hunjt.cropsegment.com.	3600	IN	A	118.102.24.109
+hunjt.cropsegment.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+cropsegment.com.	172800	IN	NS	dns5.expirenotification.com.
+cropsegment.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 1376 IN	A	124.42.34.163
+dns6.expirenotification.com. 1376 IN	A	124.42.34.163
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:41 2009
+;; MSG SIZE  rcvd: 181
+
+; <<>> DiG 9.3.2rc1 <<>> boxofitemstogrowa.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 163
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;boxofitemstogrowa.com.		IN	A
+
+;; ANSWER SECTION:
+boxofitemstogrowa.com.	1800	IN	A	69.64.147.210
+
+;; AUTHORITY SECTION:
+boxofitemstogrowa.com.	3600	IN	NS	dns1.name-services.com.
+boxofitemstogrowa.com.	3600	IN	NS	dns2.name-services.com.
+boxofitemstogrowa.com.	3600	IN	NS	dns3.name-services.com.
+boxofitemstogrowa.com.	3600	IN	NS	dns4.name-services.com.
+boxofitemstogrowa.com.	3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	158292	IN	A	98.124.192.1
+dns2.name-services.com.	161929	IN	A	216.52.184.248
+dns3.name-services.com.	72	IN	A	98.124.193.1
+dns4.name-services.com.	297	IN	A	69.64.145.225
+dns5.name-services.com.	169165	IN	A	70.42.37.7
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:41 2009
+;; MSG SIZE  rcvd: 265
+
+; <<>> DiG 9.3.2rc1 <<>> royal-vipcasino.in
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1504
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;royal-vipcasino.in.		IN	A
+
+;; AUTHORITY SECTION:
+in.			0	IN	SOA	a0.cctld.afilias-nst.info. noc.afilias-nst.info. 2008228845 600 900 2592000 86400
+
+;; Query time: 156 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:41 2009
+;; MSG SIZE  rcvd: 103
+
+; <<>> DiG 9.3.2rc1 <<>> factequal.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1853
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;factequal.com.			IN	A
+
+;; ANSWER SECTION:
+factequal.com.		3600	IN	A	60.29.240.87
+factequal.com.		3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+factequal.com.		172800	IN	NS	dns5.expirenotification.com.
+factequal.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 3048 IN	A	124.42.34.163
+dns6.expirenotification.com. 1920 IN	A	124.42.34.163
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:42 2009
+;; MSG SIZE  rcvd: 165
+
+; <<>> DiG 9.3.2rc1 <<>> quaop.ageknew.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1232
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;quaop.ageknew.com.		IN	A
+
+;; ANSWER SECTION:
+quaop.ageknew.com.	3600	IN	A	60.29.240.87
+quaop.ageknew.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+ageknew.com.		172799	IN	NS	dns5.expirenotification.com.
+ageknew.com.		172799	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 148287 IN	A	124.42.34.163
+dns6.expirenotification.com. 148287 IN	A	124.42.34.163
+
+;; Query time: 187 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:42 2009
+;; MSG SIZE  rcvd: 173
+
+; <<>> DiG 9.3.2rc1 <<>> 6SUAG.chordorder.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 835
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;6SUAG.chordorder.com.		IN	A
+
+;; ANSWER SECTION:
+6SUAG.chordorder.com.	3600	IN	A	60.29.240.87
+6SUAG.chordorder.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+chordorder.com.		172800	IN	NS	dns5.expirenotification.com.
+chordorder.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 2715 IN	A	124.42.34.163
+dns6.expirenotification.com. 144694 IN	A	124.42.34.163
+
+;; Query time: 156 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:42 2009
+;; MSG SIZE  rcvd: 179
+
+; <<>> DiG 9.3.2rc1 <<>> ua.wonderright.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 443
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ua.wonderright.com.		IN	A
+
+;; ANSWER SECTION:
+ua.wonderright.com.	3600	IN	A	60.29.240.87
+ua.wonderright.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+wonderright.com.	172800	IN	NS	dns5.expirenotification.com.
+wonderright.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 1901 IN	A	124.42.34.163
+dns6.expirenotification.com. 154128 IN	A	124.42.34.163
+
+;; Query time: 203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:42 2009
+;; MSG SIZE  rcvd: 175
+
+; <<>> DiG 9.3.2rc1 <<>> vuaegisd.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 262
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;vuaegisd.com.			IN	A
+
+;; ANSWER SECTION:
+vuaegisd.com.		3600	IN	A	60.29.240.87
+vuaegisd.com.		3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+vuaegisd.com.		172800	IN	NS	dns5.expirenotification.com.
+vuaegisd.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 114574 IN	A	124.42.34.163
+dns6.expirenotification.com. 114574 IN	A	124.42.34.163
+
+;; Query time: 140 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:42 2009
+;; MSG SIZE  rcvd: 163
+
+; <<>> DiG 9.3.2rc1 <<>> datedebpol.biz
+;; connection timed out; no servers could be reached
+; <<>> DiG 9.3.2rc1 <<>> futposte.us
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 188
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;futposte.us.			IN	A
+
+;; ANSWER SECTION:
+futposte.us.		1800	IN	A	69.64.155.14
+
+;; AUTHORITY SECTION:
+futposte.us.		3600	IN	NS	dns1.name-services.com.
+futposte.us.		3600	IN	NS	dns2.name-services.com.
+futposte.us.		3600	IN	NS	dns3.name-services.com.
+futposte.us.		3600	IN	NS	dns4.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	122946	IN	A	98.124.192.1
+dns2.name-services.com.	126606	IN	A	216.52.184.248
+dns3.name-services.com.	133934	IN	A	98.124.193.1
+dns4.name-services.com.	130259	IN	A	69.64.145.225
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:58 2009
+;; MSG SIZE  rcvd: 213
+
+; <<>> DiG 9.3.2rc1 <<>> www.ssedu.org.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 793
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 1, ADDITIONAL: 1
+
+;; QUESTION SECTION:
+;www.ssedu.org.cn.		IN	A
+
+;; ANSWER SECTION:
+www.ssedu.org.cn.	600	IN	A	61.184.26.132
+
+;; AUTHORITY SECTION:
+ssedu.org.cn.		600	IN	NS	dns.cnmsn.net.
+
+;; ADDITIONAL SECTION:
+dns.cnmsn.net.		158110	IN	A	61.151.252.240
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:58 2009
+;; MSG SIZE  rcvd: 109
+
+; <<>> DiG 9.3.2rc1 <<>> www.wpedu.co.kr
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 886
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;www.wpedu.co.kr.		IN	A
+
+;; ANSWER SECTION:
+www.wpedu.co.kr.	3600	IN	A	211.236.187.109
+
+;; AUTHORITY SECTION:
+wpedu.co.kr.		86400	IN	NS	nsns.wephone.co.kr.
+wpedu.co.kr.		86400	IN	NS	ns4.ibi.net.
+
+;; ADDITIONAL SECTION:
+nsns.wephone.co.kr.	86400	IN	A	211.236.187.116
+ns4.ibi.net.		133252	IN	A	211.106.66.100
+
+;; Query time: 156 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:58 2009
+;; MSG SIZE  rcvd: 148
+
+; <<>> DiG 9.3.2rc1 <<>> katedugan.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 475
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;katedugan.com.			IN	A
+
+;; ANSWER SECTION:
+katedugan.com.		10800	IN	A	65.61.216.13
+
+;; AUTHORITY SECTION:
+katedugan.com.		10800	IN	NS	dns4.doteasy.com.
+katedugan.com.		10800	IN	NS	dns3.doteasy.com.
+
+;; ADDITIONAL SECTION:
+dns4.doteasy.com.	140918	IN	A	65.61.199.12
+dns3.doteasy.com.	140918	IN	A	65.61.198.12
+
+;; Query time: 687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:36:59 2009
+;; MSG SIZE  rcvd: 138
+
+; <<>> DiG 9.3.2rc1 <<>> images.cuhtedul.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 592
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;images.cuhtedul.cn.		IN	A
+
+;; ANSWER SECTION:
+images.cuhtedul.cn.	1200	IN	A	221.203.168.69
+
+;; AUTHORITY SECTION:
+cuhtedul.cn.		600	IN	NS	ns1.cuhtedul.cn.
+cuhtedul.cn.		600	IN	NS	ns2.cuhtedul.cn.
+
+;; ADDITIONAL SECTION:
+ns1.cuhtedul.cn.	600	IN	A	220.248.186.126
+ns2.cuhtedul.cn.	600	IN	A	220.248.186.126
+
+;; Query time: 234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:37:09 2009
+;; MSG SIZE  rcvd: 120
+
+; <<>> DiG 9.3.2rc1 <<>> images.tafceduz.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1182
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;images.tafceduz.cn.		IN	A
+
+;; ANSWER SECTION:
+images.tafceduz.cn.	1200	IN	A	221.203.168.69
+
+;; AUTHORITY SECTION:
+tafceduz.cn.		600	IN	NS	ns1.tafceduz.cn.
+tafceduz.cn.		600	IN	NS	ns2.tafceduz.cn.
+
+;; ADDITIONAL SECTION:
+ns1.tafceduz.cn.	600	IN	A	220.248.186.126
+ns2.tafceduz.cn.	600	IN	A	220.248.186.126
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:37:20 2009
+;; MSG SIZE  rcvd: 120
+
+; <<>> DiG 9.3.2rc1 <<>> images.fedunahog.cn
+;; connection timed out; no servers could be reached
+; <<>> DiG 9.3.2rc1 <<>> images.pazovedur.cn
+;; connection timed out; no servers could be reached
+; <<>> DiG 9.3.2rc1 <<>> hugeduring.com
+;; connection timed out; no servers could be reached
+; <<>> DiG 9.3.2rc1 <<>> ads.seduboyuf.cn
+;; connection timed out; no servers could be reached
+; <<>> DiG 9.3.2rc1 <<>> ads.reduyafom.cn
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1241
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;ads.reduyafom.cn.		IN	A
+
+;; ANSWER SECTION:
+ads.reduyafom.cn.	1200	IN	A	221.203.168.69
+
+;; AUTHORITY SECTION:
+reduyafom.cn.		600	IN	NS	ns1.reduyafom.cn.
+reduyafom.cn.		600	IN	NS	ns2.reduyafom.cn.
+
+;; ADDITIONAL SECTION:
+ns1.reduyafom.cn.	600	IN	A	220.248.186.126
+ns2.reduyafom.cn.	600	IN	A	220.248.186.126
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:20 2009
+;; MSG SIZE  rcvd: 118
+
+; <<>> DiG 9.3.2rc1 <<>> enviadati.com
+;; connection timed out; no servers could be reached
+; <<>> DiG 9.3.2rc1 <<>> liveactionladies.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 987
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;liveactionladies.com.		IN	A
+
+;; ANSWER SECTION:
+liveactionladies.com.	21600	IN	A	208.73.210.50
+
+;; AUTHORITY SECTION:
+liveactionladies.com.	21600	IN	NS	ns2.domainservice.com.
+liveactionladies.com.	21600	IN	NS	ns3.domainservice.com.
+liveactionladies.com.	21600	IN	NS	ns4.domainservice.com.
+liveactionladies.com.	21600	IN	NS	ns1.domainservice.com.
+
+;; ADDITIONAL SECTION:
+ns2.domainservice.com.	288	IN	A	208.73.211.42
+ns3.domainservice.com.	2541	IN	A	208.73.210.43
+ns4.domainservice.com.	3317	IN	A	208.73.211.44
+ns1.domainservice.com.	2541	IN	A	208.73.210.41
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:36 2009
+;; MSG SIZE  rcvd: 224
+
+; <<>> DiG 9.3.2rc1 <<>> uklenents.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 511
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;uklenents.com.			IN	A
+
+;; ANSWER SECTION:
+uklenents.com.		3600	IN	A	118.102.24.109
+uklenents.com.		3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+uklenents.com.		172799	IN	NS	dns5.expirenotification.com.
+uklenents.com.		172799	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 114460 IN	A	124.42.34.163
+dns6.expirenotification.com. 114460 IN	A	124.42.34.163
+
+;; Query time: 93 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:36 2009
+;; MSG SIZE  rcvd: 165
+
+; <<>> DiG 9.3.2rc1 <<>> JKL5U.chordorder.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 568
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;JKL5U.chordorder.com.		IN	A
+
+;; ANSWER SECTION:
+JKL5U.chordorder.com.	3600	IN	A	118.102.24.109
+JKL5U.chordorder.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+chordorder.com.		172800	IN	NS	dns5.expirenotification.com.
+chordorder.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 115942 IN	A	124.42.34.163
+dns6.expirenotification.com. 115942 IN	A	124.42.34.163
+
+;; Query time: 234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:36 2009
+;; MSG SIZE  rcvd: 179
+
+; <<>> DiG 9.3.2rc1 <<>> www.jeeklinost.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1821
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;www.jeeklinost.com.		IN	A
+
+;; ANSWER SECTION:
+www.jeeklinost.com.	3600	IN	A	118.102.24.109
+www.jeeklinost.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+jeeklinost.com.		172800	IN	NS	dns5.expirenotification.com.
+jeeklinost.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 147236 IN	A	124.42.34.163
+dns6.expirenotification.com. 147236 IN	A	124.42.34.163
+
+;; Query time: 234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:36 2009
+;; MSG SIZE  rcvd: 175
+
+; <<>> DiG 9.3.2rc1 <<>> klo.vslightis.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 760
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;klo.vslightis.com.		IN	A
+
+;; ANSWER SECTION:
+klo.vslightis.com.	3600	IN	A	60.29.240.87
+klo.vslightis.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+vslightis.com.		172800	IN	NS	dns5.expirenotification.com.
+vslightis.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 149285 IN	A	124.42.34.163
+dns6.expirenotification.com. 149285 IN	A	124.42.34.163
+
+;; Query time: 203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:36 2009
+;; MSG SIZE  rcvd: 173
+
+; <<>> DiG 9.3.2rc1 <<>> kly.vslightis.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1750
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;kly.vslightis.com.		IN	A
+
+;; ANSWER SECTION:
+kly.vslightis.com.	3600	IN	A	60.29.240.87
+kly.vslightis.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+vslightis.com.		172800	IN	NS	dns5.expirenotification.com.
+vslightis.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 153124 IN	A	124.42.34.163
+dns6.expirenotification.com. 2765 IN	A	124.42.34.163
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:37 2009
+;; MSG SIZE  rcvd: 173
+
+; <<>> DiG 9.3.2rc1 <<>> NMZKR.chordorder.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1572
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;NMZKR.chordorder.com.		IN	A
+
+;; ANSWER SECTION:
+NMZKR.chordorder.com.	3600	IN	A	118.102.24.109
+NMZKR.chordorder.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+chordorder.com.		172800	IN	NS	dns5.expirenotification.com.
+chordorder.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 2194 IN	A	124.42.34.163
+dns6.expirenotification.com. 136184 IN	A	124.42.34.163
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:37 2009
+;; MSG SIZE  rcvd: 179
+
+; <<>> DiG 9.3.2rc1 <<>> KRB7G.chordorder.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 996
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;KRB7G.chordorder.com.		IN	A
+
+;; ANSWER SECTION:
+KRB7G.chordorder.com.	3600	IN	A	118.102.24.109
+KRB7G.chordorder.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+chordorder.com.		172800	IN	NS	dns5.expirenotification.com.
+chordorder.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 150902 IN	A	124.42.34.163
+dns6.expirenotification.com. 150902 IN	A	124.42.34.163
+
+;; Query time: 125 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:37 2009
+;; MSG SIZE  rcvd: 179
+
+; <<>> DiG 9.3.2rc1 <<>> krenemonae.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 653
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;krenemonae.com.			IN	A
+
+;; ANSWER SECTION:
+krenemonae.com.		3600	IN	A	60.29.240.87
+krenemonae.com.		3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+krenemonae.com.		172800	IN	NS	dns5.expirenotification.com.
+krenemonae.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 150541 IN	A	124.42.34.163
+dns6.expirenotification.com. 150541 IN	A	124.42.34.163
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:38 2009
+;; MSG SIZE  rcvd: 167
+
+; <<>> DiG 9.3.2rc1 <<>> krn.meanspend.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1110
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;krn.meanspend.com.		IN	A
+
+;; ANSWER SECTION:
+krn.meanspend.com.	3600	IN	A	60.29.240.87
+krn.meanspend.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+meanspend.com.		172800	IN	NS	dns5.expirenotification.com.
+meanspend.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 148171 IN	A	124.42.34.163
+dns6.expirenotification.com. 148171 IN	A	124.42.34.163
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:38 2009
+;; MSG SIZE  rcvd: 173
+
+; <<>> DiG 9.3.2rc1 <<>> vwkre.branchrub.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1049
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;vwkre.branchrub.com.		IN	A
+
+;; ANSWER SECTION:
+vwkre.branchrub.com.	3600	IN	A	60.29.240.87
+vwkre.branchrub.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+branchrub.com.		172800	IN	NS	dns5.expirenotification.com.
+branchrub.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 144191 IN	A	124.42.34.163
+dns6.expirenotification.com. 144191 IN	A	124.42.34.163
+
+;; Query time: 93 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:38 2009
+;; MSG SIZE  rcvd: 177
+
+; <<>> DiG 9.3.2rc1 <<>> xskrp.familyprobable.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 991
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;xskrp.familyprobable.com.	IN	A
+
+;; ANSWER SECTION:
+xskrp.familyprobable.com. 3600	IN	A	118.102.24.109
+xskrp.familyprobable.com. 3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+familyprobable.com.	172800	IN	NS	dns5.expirenotification.com.
+familyprobable.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 144924 IN	A	124.42.34.163
+dns6.expirenotification.com. 144924 IN	A	124.42.34.163
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:39 2009
+;; MSG SIZE  rcvd: 187
+
+; <<>> DiG 9.3.2rc1 <<>> kridl.maincoat.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 686
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;kridl.maincoat.com.		IN	A
+
+;; ANSWER SECTION:
+kridl.maincoat.com.	3600	IN	A	118.102.24.109
+kridl.maincoat.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+maincoat.com.		172800	IN	NS	dns5.expirenotification.com.
+maincoat.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 1257 IN	A	124.42.34.163
+dns6.expirenotification.com. 1257 IN	A	124.42.34.163
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:39 2009
+;; MSG SIZE  rcvd: 175
+
+; <<>> DiG 9.3.2rc1 <<>> krb.vslightis.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1157
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;krb.vslightis.com.		IN	A
+
+;; ANSWER SECTION:
+krb.vslightis.com.	3600	IN	A	60.29.240.87
+krb.vslightis.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+vslightis.com.		172797	IN	NS	dns5.expirenotification.com.
+vslightis.com.		172797	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 149282 IN	A	124.42.34.163
+dns6.expirenotification.com. 149282 IN	A	124.42.34.163
+
+;; Query time: 62 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:39 2009
+;; MSG SIZE  rcvd: 173
+
+; <<>> DiG 9.3.2rc1 <<>> lkrl.friendedge.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 550
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;lkrl.friendedge.com.		IN	A
+
+;; ANSWER SECTION:
+lkrl.friendedge.com.	3600	IN	A	60.29.240.87
+lkrl.friendedge.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+friendedge.com.		172800	IN	NS	dns5.expirenotification.com.
+friendedge.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 114457 IN	A	124.42.34.163
+dns6.expirenotification.com. 114457 IN	A	124.42.34.163
+
+;; Query time: 187 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:39 2009
+;; MSG SIZE  rcvd: 177
+
+; <<>> DiG 9.3.2rc1 <<>> hjpoat.fallbroad.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2010
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;hjpoat.fallbroad.com.		IN	A
+
+;; ANSWER SECTION:
+hjpoat.fallbroad.com.	3600	IN	A	118.102.24.109
+hjpoat.fallbroad.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+fallbroad.com.		172800	IN	NS	dns5.expirenotification.com.
+fallbroad.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 153768 IN	A	124.42.34.163
+dns6.expirenotification.com. 2104 IN	A	124.42.34.163
+
+;; Query time: 93 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:39 2009
+;; MSG SIZE  rcvd: 179
+
+; <<>> DiG 9.3.2rc1 <<>> jpfsq.selectweek.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1893
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;jpfsq.selectweek.com.		IN	A
+
+;; ANSWER SECTION:
+jpfsq.selectweek.com.	3600	IN	A	60.29.240.87
+jpfsq.selectweek.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+selectweek.com.		172800	IN	NS	dns5.expirenotification.com.
+selectweek.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 134110 IN	A	124.42.34.163
+dns6.expirenotification.com. 134110 IN	A	124.42.34.163
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:40 2009
+;; MSG SIZE  rcvd: 179
+
+; <<>> DiG 9.3.2rc1 <<>> njpob.centurymix.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1803
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;njpob.centurymix.com.		IN	A
+
+;; ANSWER SECTION:
+njpob.centurymix.com.	3600	IN	A	60.29.240.87
+njpob.centurymix.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+centurymix.com.		172799	IN	NS	dns5.expirenotification.com.
+centurymix.com.		172799	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 144644 IN	A	124.42.34.163
+dns6.expirenotification.com. 144644 IN	A	124.42.34.163
+
+;; Query time: 156 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:40 2009
+;; MSG SIZE  rcvd: 179
+
+; <<>> DiG 9.3.2rc1 <<>> jpyqz.requirenumber.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 753
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;jpyqz.requirenumber.com.	IN	A
+
+;; ANSWER SECTION:
+jpyqz.requirenumber.com. 3600	IN	A	60.29.240.87
+jpyqz.requirenumber.com. 3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+requirenumber.com.	172800	IN	NS	dns5.expirenotification.com.
+requirenumber.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 116416 IN	A	124.42.34.163
+dns6.expirenotification.com. 116416 IN	A	124.42.34.163
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:40 2009
+;; MSG SIZE  rcvd: 185
+
+; <<>> DiG 9.3.2rc1 <<>> jpdn.friendedge.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1030
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;jpdn.friendedge.com.		IN	A
+
+;; ANSWER SECTION:
+jpdn.friendedge.com.	3600	IN	A	60.29.240.87
+jpdn.friendedge.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+friendedge.com.		172800	IN	NS	dns5.expirenotification.com.
+friendedge.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 144644 IN	A	124.42.34.163
+dns6.expirenotification.com. 144644 IN	A	124.42.34.163
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:40 2009
+;; MSG SIZE  rcvd: 177
+
+; <<>> DiG 9.3.2rc1 <<>> rjpgc.vtinthe.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1336
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;rjpgc.vtinthe.com.		IN	A
+
+;; ANSWER SECTION:
+rjpgc.vtinthe.com.	3600	IN	A	60.29.240.87
+rjpgc.vtinthe.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+vtinthe.com.		172800	IN	NS	dns5.expirenotification.com.
+vtinthe.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 116415 IN	A	124.42.34.163
+dns6.expirenotification.com. 116415 IN	A	124.42.34.163
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:41 2009
+;; MSG SIZE  rcvd: 173
+
+; <<>> DiG 9.3.2rc1 <<>> vkkfx.cropsegment.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 500
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;vkkfx.cropsegment.com.		IN	A
+
+;; ANSWER SECTION:
+vkkfx.cropsegment.com.	3600	IN	A	118.102.24.109
+vkkfx.cropsegment.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+cropsegment.com.	172800	IN	NS	dns5.expirenotification.com.
+cropsegment.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 139887 IN	A	124.42.34.163
+dns6.expirenotification.com. 2920 IN	A	124.42.34.163
+
+;; Query time: 171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:41 2009
+;; MSG SIZE  rcvd: 181
+
+; <<>> DiG 9.3.2rc1 <<>> hjkkq.cropsegment.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1220
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;hjkkq.cropsegment.com.		IN	A
+
+;; ANSWER SECTION:
+hjkkq.cropsegment.com.	3600	IN	A	60.29.240.87
+hjkkq.cropsegment.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+cropsegment.com.	172800	IN	NS	dns5.expirenotification.com.
+cropsegment.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 115530 IN	A	124.42.34.163
+dns6.expirenotification.com. 115530 IN	A	124.42.34.163
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:41 2009
+;; MSG SIZE  rcvd: 181
+
+; <<>> DiG 9.3.2rc1 <<>> gshkk.vqthis.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1856
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;gshkk.vqthis.com.		IN	A
+
+;; ANSWER SECTION:
+gshkk.vqthis.com.	3600	IN	A	60.29.240.87
+gshkk.vqthis.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+vqthis.com.		172800	IN	NS	dns5.expirenotification.com.
+vqthis.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 2928 IN	A	124.42.34.163
+dns6.expirenotification.com. 1800 IN	A	124.42.34.163
+
+;; Query time: 234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:41 2009
+;; MSG SIZE  rcvd: 171
+
+; <<>> DiG 9.3.2rc1 <<>> bkkc.vrrefracted.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 691
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;bkkc.vrrefracted.com.		IN	A
+
+;; ANSWER SECTION:
+bkkc.vrrefracted.com.	3600	IN	A	60.29.240.87
+bkkc.vrrefracted.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+vrrefracted.com.	172799	IN	NS	dns5.expirenotification.com.
+vrrefracted.com.	172799	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 115936 IN	A	124.42.34.163
+dns6.expirenotification.com. 115936 IN	A	124.42.34.163
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:42 2009
+;; MSG SIZE  rcvd: 179
+
+; <<>> DiG 9.3.2rc1 <<>> kktqf.friendedge.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1917
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;kktqf.friendedge.com.		IN	A
+
+;; ANSWER SECTION:
+kktqf.friendedge.com.	3600	IN	A	118.102.24.109
+kktqf.friendedge.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+friendedge.com.		172800	IN	NS	dns5.expirenotification.com.
+friendedge.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 3004 IN	A	124.42.34.163
+dns6.expirenotification.com. 498 IN	A	124.42.34.163
+
+;; Query time: 156 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:42 2009
+;; MSG SIZE  rcvd: 179
+
+; <<>> DiG 9.3.2rc1 <<>> kksi.deruns.cn
+;; connection timed out; no servers could be reached
+; <<>> DiG 9.3.2rc1 <<>> 4HK3W.chordorder.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1878
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;4HK3W.chordorder.com.		IN	A
+
+;; ANSWER SECTION:
+4HK3W.chordorder.com.	3600	IN	A	118.102.24.109
+4HK3W.chordorder.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+chordorder.com.		172800	IN	NS	dns5.expirenotification.com.
+chordorder.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 114383 IN	A	124.42.34.163
+dns6.expirenotification.com. 114383 IN	A	124.42.34.163
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:57 2009
+;; MSG SIZE  rcvd: 179
+
+; <<>> DiG 9.3.2rc1 <<>> hkgkd.centurymix.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1776
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;hkgkd.centurymix.com.		IN	A
+
+;; ANSWER SECTION:
+hkgkd.centurymix.com.	3600	IN	A	118.102.24.109
+hkgkd.centurymix.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+centurymix.com.		172800	IN	NS	dns5.expirenotification.com.
+centurymix.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 1239 IN	A	124.42.34.163
+dns6.expirenotification.com. 1239 IN	A	124.42.34.163
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:58 2009
+;; MSG SIZE  rcvd: 179
+
+; <<>> DiG 9.3.2rc1 <<>> hkccr.arrangerope.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 218
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;hkccr.arrangerope.com.		IN	A
+
+;; ANSWER SECTION:
+hkccr.arrangerope.com.	3600	IN	A	60.29.240.87
+hkccr.arrangerope.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+arrangerope.com.	172156	IN	NS	dns5.expirenotification.com.
+arrangerope.com.	172156	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 144904 IN	A	124.42.34.163
+dns6.expirenotification.com. 144904 IN	A	124.42.34.163
+
+;; Query time: 78 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:58 2009
+;; MSG SIZE  rcvd: 181
+
+; <<>> DiG 9.3.2rc1 <<>> hkcgd.cropsegment.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1015
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;hkcgd.cropsegment.com.		IN	A
+
+;; ANSWER SECTION:
+hkcgd.cropsegment.com.	3600	IN	A	60.29.240.87
+hkcgd.cropsegment.com.	3600	IN	A	118.102.24.109
+
+;; AUTHORITY SECTION:
+cropsegment.com.	172800	IN	NS	dns5.expirenotification.com.
+cropsegment.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 115920 IN	A	124.42.34.163
+dns6.expirenotification.com. 115920 IN	A	124.42.34.163
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:58 2009
+;; MSG SIZE  rcvd: 181
+
+; <<>> DiG 9.3.2rc1 <<>> rhk.vrrefracted.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 596
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;rhk.vrrefracted.com.		IN	A
+
+;; ANSWER SECTION:
+rhk.vrrefracted.com.	3600	IN	A	118.102.24.109
+rhk.vrrefracted.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+vrrefracted.com.	172800	IN	NS	dns5.expirenotification.com.
+vrrefracted.com.	172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 2951 IN	A	124.42.34.163
+dns6.expirenotification.com. 2106 IN	A	124.42.34.163
+
+;; Query time: 109 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:38:58 2009
+;; MSG SIZE  rcvd: 177
+
+; <<>> DiG 9.3.2rc1 <<>> ezyehkm.amtiny.cn
+;; connection timed out; no servers could be reached
+; <<>> DiG 9.3.2rc1 <<>> thk.vtinthe.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1534
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;thk.vtinthe.com.		IN	A
+
+;; ANSWER SECTION:
+thk.vtinthe.com.	3600	IN	A	118.102.24.109
+thk.vtinthe.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+vtinthe.com.		172800	IN	NS	dns5.expirenotification.com.
+vtinthe.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 168120 IN	A	124.42.34.163
+dns6.expirenotification.com. 168120 IN	A	124.42.34.163
+
+;; Query time: 109 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:39:13 2009
+;; MSG SIZE  rcvd: 169
+
+; <<>> DiG 9.3.2rc1 <<>> hkn.pluralgo.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1367
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;hkn.pluralgo.com.		IN	A
+
+;; ANSWER SECTION:
+hkn.pluralgo.com.	3600	IN	A	118.102.24.109
+hkn.pluralgo.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+pluralgo.com.		172800	IN	NS	dns5.expirenotification.com.
+pluralgo.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 139855 IN	A	124.42.34.163
+dns6.expirenotification.com. 2888 IN	A	124.42.34.163
+
+;; Query time: 187 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:39:14 2009
+;; MSG SIZE  rcvd: 171
+
+; <<>> DiG 9.3.2rc1 <<>> hk.provewould.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1222
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;hk.provewould.com.		IN	A
+
+;; ANSWER SECTION:
+hk.provewould.com.	3600	IN	A	118.102.24.109
+hk.provewould.com.	3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+provewould.com.		172800	IN	NS	dns5.expirenotification.com.
+provewould.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 141496 IN	A	124.42.34.163
+dns6.expirenotification.com. 141496 IN	A	124.42.34.163
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Tue Mar 10 02:39:14 2009
+;; MSG SIZE  rcvd: 173
+

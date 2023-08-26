@@ -1,0 +1,8 @@
+url,url_length,is_ip,url_has_at_char,number_of_dots,is_https,url_redirection,domain_has_dash_char,url_has_https_token,has_iframe,most_frequent_domain_in_anchor,most_frequent_domain_in_link,most_frequent_domain_in_source,common_page_rate,footer_common_page_rate,has_anchor_in_body,null_link_ratio,footer_null_link_ratio,
+https://www.google.com,22,False,False,2,True,False,False,False,False,True,True,True,0.05555555555555555,0,True,0.0,0,
+https://youtube.com,19,False,False,1,True,False,False,False,True,False,False,True,0.14285714285714285,0,True,0.0,0,
+https://www.blogger.com,23,False,False,2,True,False,False,False,False,True,True,True,0.1875,0.1111111111111111,True,0.0,0.0,
+https://apple.com,17,False,False,1,True,False,False,False,False,True,False,True,0.02727272727272727,0.02857142857142857,True,0.0,0.0,
+https://microsoft.com,21,False,False,1,True,False,False,False,False,False,True,True,1.0,0,True,0.0,0,
+https://play.google.com,23,False,False,2,True,False,False,False,False,True,True,True,0.02962962962962963,0.08333333333333333,True,0.0,0.0,
+https://support.google.com,26,False,False,2,True,False,False,False,False,True,False,True,0.011049723756906077,0.5,True,0.0,0.0,

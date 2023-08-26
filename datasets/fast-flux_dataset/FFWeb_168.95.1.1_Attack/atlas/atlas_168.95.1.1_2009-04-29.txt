@@ -1,0 +1,535 @@
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dssidgot.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 884
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dssidgot.cn.			IN	A
+
+;; ANSWER SECTION:
+dssidgot.cn.		180	IN	A	93.170.73.22
+dssidgot.cn.		180	IN	A	93.175.203.190
+dssidgot.cn.		180	IN	A	121.136.134.112
+dssidgot.cn.		180	IN	A	190.18.242.154
+dssidgot.cn.		180	IN	A	62.43.122.28
+dssidgot.cn.		180	IN	A	72.189.39.107
+dssidgot.cn.		180	IN	A	85.122.59.130
+dssidgot.cn.		180	IN	A	86.106.61.135
+
+;; AUTHORITY SECTION:
+dssidgot.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+dssidgot.cn.		180	IN	NS	ns4.bybwqdwq.com.
+dssidgot.cn.		180	IN	NS	ns1.bybwqdwq.com.
+dssidgot.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns3.bysfwqdwe.com.	138721	IN	A	84.3.80.3
+ns4.bybwqdwq.com.	138763	IN	A	123.237.143.202
+ns1.bybwqdwq.com.	138773	IN	A	219.91.213.122
+ns2.bysfwqdwe.com.	138762	IN	A	168.131.231.132
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:35:47 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 characteristicright.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1220
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;characteristicright.com.	IN	A
+
+;; ANSWER SECTION:
+characteristicright.com. 180	IN	A	68.44.234.224
+characteristicright.com. 180	IN	A	60.254.49.145
+characteristicright.com. 180	IN	A	92.84.74.204
+characteristicright.com. 180	IN	A	76.18.120.208
+characteristicright.com. 180	IN	A	24.90.230.129
+characteristicright.com. 180	IN	A	195.174.24.89
+characteristicright.com. 180	IN	A	92.244.234.80
+characteristicright.com. 180	IN	A	68.150.139.195
+characteristicright.com. 180	IN	A	138.238.175.109
+characteristicright.com. 180	IN	A	74.210.165.165
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:35:48 2009
+;; MSG SIZE  rcvd: 201
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 sdegdgrg.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 291
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;sdegdgrg.cn.			IN	A
+
+;; ANSWER SECTION:
+sdegdgrg.cn.		180	IN	A	190.18.242.154
+sdegdgrg.cn.		180	IN	A	62.43.122.28
+sdegdgrg.cn.		180	IN	A	72.189.39.107
+sdegdgrg.cn.		180	IN	A	85.122.59.130
+sdegdgrg.cn.		180	IN	A	86.106.61.135
+sdegdgrg.cn.		180	IN	A	93.170.73.22
+sdegdgrg.cn.		180	IN	A	93.175.203.190
+sdegdgrg.cn.		180	IN	A	121.136.134.112
+
+;; AUTHORITY SECTION:
+sdegdgrg.cn.		180	IN	NS	ns4.bybwqdwq.com.
+sdegdgrg.cn.		180	IN	NS	ns1.bybwqdwq.com.
+sdegdgrg.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+sdegdgrg.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns4.bybwqdwq.com.	137463	IN	A	128.134.125.183
+ns1.bybwqdwq.com.	137337	IN	A	219.91.213.122
+ns2.bysfwqdwe.com.	138361	IN	A	93.177.153.44
+ns3.bysfwqdwe.com.	137478	IN	A	123.237.143.202
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:35:48 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 characterright.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 782
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;characterright.com.		IN	A
+
+;; ANSWER SECTION:
+characterright.com.	180	IN	A	68.44.234.224
+characterright.com.	180	IN	A	95.24.122.44
+characterright.com.	180	IN	A	24.90.230.129
+characterright.com.	180	IN	A	82.10.48.194
+characterright.com.	180	IN	A	92.84.74.204
+characterright.com.	180	IN	A	190.144.119.61
+characterright.com.	180	IN	A	12.154.3.51
+characterright.com.	180	IN	A	41.244.65.142
+characterright.com.	180	IN	A	60.254.49.145
+characterright.com.	180	IN	A	74.210.165.165
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:35:49 2009
+;; MSG SIZE  rcvd: 196
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 chestright.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 282
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;chestright.com.			IN	A
+
+;; ANSWER SECTION:
+chestright.com.		180	IN	A	24.90.230.129
+chestright.com.		180	IN	A	93.81.10.56
+chestright.com.		180	IN	A	138.238.175.109
+chestright.com.		180	IN	A	190.144.119.61
+chestright.com.		180	IN	A	92.244.234.80
+chestright.com.		180	IN	A	69.88.210.46
+chestright.com.		180	IN	A	134.129.90.206
+chestright.com.		180	IN	A	195.174.24.89
+chestright.com.		180	IN	A	68.44.234.224
+chestright.com.		180	IN	A	95.24.122.44
+
+;; Query time: 1109 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:35:50 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 chamberright.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1365
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;chamberright.com.		IN	A
+
+;; ANSWER SECTION:
+chamberright.com.	180	IN	A	195.174.24.89
+chamberright.com.	180	IN	A	92.84.74.204
+chamberright.com.	180	IN	A	60.254.49.145
+chamberright.com.	180	IN	A	24.226.225.175
+chamberright.com.	180	IN	A	138.238.175.109
+chamberright.com.	180	IN	A	68.44.234.224
+chamberright.com.	180	IN	A	24.65.117.239
+chamberright.com.	180	IN	A	190.144.119.61
+chamberright.com.	180	IN	A	24.90.230.129
+chamberright.com.	180	IN	A	95.24.122.44
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:35:50 2009
+;; MSG SIZE  rcvd: 194
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 chapterright.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 632
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;chapterright.com.		IN	A
+
+;; ANSWER SECTION:
+chapterright.com.	180	IN	A	134.129.90.206
+chapterright.com.	180	IN	A	68.150.139.195
+chapterright.com.	180	IN	A	68.44.234.224
+chapterright.com.	180	IN	A	12.230.76.118
+chapterright.com.	180	IN	A	69.88.210.46
+chapterright.com.	180	IN	A	12.154.3.51
+chapterright.com.	180	IN	A	92.244.234.80
+chapterright.com.	180	IN	A	195.174.24.89
+chapterright.com.	180	IN	A	93.81.10.56
+chapterright.com.	180	IN	A	95.24.122.44
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:35:51 2009
+;; MSG SIZE  rcvd: 194
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 changingright.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1117
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;changingright.com.		IN	A
+
+;; ANSWER SECTION:
+changingright.com.	180	IN	A	74.210.165.165
+changingright.com.	180	IN	A	93.81.10.56
+changingright.com.	180	IN	A	95.24.122.44
+changingright.com.	180	IN	A	82.10.48.194
+changingright.com.	180	IN	A	12.154.3.51
+changingright.com.	180	IN	A	12.230.76.118
+changingright.com.	180	IN	A	190.144.119.61
+changingright.com.	180	IN	A	24.226.225.175
+changingright.com.	180	IN	A	68.44.234.224
+changingright.com.	180	IN	A	68.150.139.195
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:35:51 2009
+;; MSG SIZE  rcvd: 195
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 chairright.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2017
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;chairright.com.			IN	A
+
+;; ANSWER SECTION:
+chairright.com.		180	IN	A	68.150.139.195
+chairright.com.		180	IN	A	93.81.10.56
+chairright.com.		180	IN	A	82.10.48.194
+chairright.com.		180	IN	A	24.226.225.175
+chairright.com.		180	IN	A	134.129.90.206
+chairright.com.		180	IN	A	95.24.122.44
+chairright.com.		180	IN	A	68.44.234.224
+chairright.com.		180	IN	A	76.18.120.208
+chairright.com.		180	IN	A	24.90.230.129
+chairright.com.		180	IN	A	12.230.76.118
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:35:52 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 certainright.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 158
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;certainright.com.		IN	A
+
+;; ANSWER SECTION:
+certainright.com.	180	IN	A	69.88.210.46
+certainright.com.	180	IN	A	95.24.122.44
+certainright.com.	180	IN	A	74.210.165.165
+certainright.com.	180	IN	A	60.254.49.145
+certainright.com.	180	IN	A	76.18.120.208
+certainright.com.	180	IN	A	138.238.175.109
+certainright.com.	180	IN	A	134.129.90.206
+certainright.com.	180	IN	A	12.154.3.51
+certainright.com.	180	IN	A	12.230.76.118
+certainright.com.	180	IN	A	41.244.65.142
+
+;; Query time: 1484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:35:53 2009
+;; MSG SIZE  rcvd: 194
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 casinotreasure.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1882
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;casinotreasure.com.		IN	A
+
+;; ANSWER SECTION:
+casinotreasure.com.	300	IN	A	204.92.97.211
+casinotreasure.com.	300	IN	A	204.92.97.210
+casinotreasure.com.	300	IN	A	204.92.97.82
+
+;; AUTHORITY SECTION:
+casinotreasure.com.	300	IN	NS	ns1.domain-hoster.com.
+casinotreasure.com.	300	IN	NS	ns2.domain-hoster.com.
+
+;; ADDITIONAL SECTION:
+ns1.domain-hoster.com.	151483	IN	A	204.92.96.166
+ns2.domain-hoster.com.	151483	IN	A	207.139.24.253
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:35:54 2009
+;; MSG SIZE  rcvd: 184
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 742
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	71.172.38.60
+modern-finding.com.	300	IN	A	121.240.109.67
+modern-finding.com.	300	IN	A	168.32.84.147
+modern-finding.com.	300	IN	A	221.142.230.143
+modern-finding.com.	300	IN	A	12.52.248.82
+modern-finding.com.	300	IN	A	66.155.114.139
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	193.193.239.254
+ns1.verity-fresh.com.	172800	IN	A	200.7.17.180
+ns2.desistylish.com.	172800	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172800 IN	A	200.129.46.5
+
+;; Query time: 890 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:35:55 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1580
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+best-rx-onlinestore.com. 300	IN	A	121.240.109.67
+best-rx-onlinestore.com. 300	IN	A	168.32.84.147
+best-rx-onlinestore.com. 300	IN	A	221.142.230.143
+best-rx-onlinestore.com. 300	IN	A	12.52.248.82
+best-rx-onlinestore.com. 300	IN	A	66.155.114.139
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 172798	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 172798	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 172798	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 172798	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172784	IN	A	200.7.17.180
+ns2.desistylish.com.	172784	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172784 IN	A	200.129.46.5
+ns4.magnifindings.com.	172784	IN	A	193.193.239.254
+
+;; Query time: 1453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:36:11 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 truitef.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1195
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;truitef.com.			IN	A
+
+;; ANSWER SECTION:
+truitef.com.		600	IN	A	76.107.57.53
+truitef.com.		600	IN	A	68.53.99.184
+truitef.com.		600	IN	A	76.108.249.228
+truitef.com.		600	IN	A	76.107.57.53
+truitef.com.		600	IN	A	76.26.95.16
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:36:12 2009
+;; MSG SIZE  rcvd: 109
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cum-on-mature.tv
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cum-on-virgins.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1497
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;cum-on-virgins.com.		IN	A
+
+;; ANSWER SECTION:
+cum-on-virgins.com.	600	IN	A	76.26.95.16
+cum-on-virgins.com.	600	IN	A	68.53.99.184
+cum-on-virgins.com.	600	IN	A	76.26.95.16
+cum-on-virgins.com.	600	IN	A	68.53.99.184
+cum-on-virgins.com.	600	IN	A	76.26.95.16
+
+;; Query time: 1140 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:36:28 2009
+;; MSG SIZE  rcvd: 116
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 videoprofessor.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 961
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;videoprofessor.com.		IN	A
+
+;; ANSWER SECTION:
+videoprofessor.com.	60	IN	A	63.123.140.22
+videoprofessor.com.	60	IN	A	63.241.168.205
+
+;; Query time: 500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:36:29 2009
+;; MSG SIZE  rcvd: 68
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 educationprovider.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1274
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;educationprovider.com.		IN	A
+
+;; ANSWER SECTION:
+educationprovider.com.	60	IN	A	209.167.6.200
+educationprovider.com.	60	IN	A	209.167.6.17
+educationprovider.com.	60	IN	A	67.109.145.54
+
+;; AUTHORITY SECTION:
+educationprovider.com.	86400	IN	NS	udns2.ultradns.net.
+educationprovider.com.	86400	IN	NS	udns1.ultradns.net.
+
+;; ADDITIONAL SECTION:
+udns2.ultradns.net.	139304	IN	A	204.74.101.1
+udns1.ultradns.net.	139304	IN	A	204.69.234.1
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:36:29 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 findromance.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 163
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;findromance.com.		IN	A
+
+;; ANSWER SECTION:
+findromance.com.	60	IN	A	209.167.6.17
+findromance.com.	60	IN	A	67.109.145.54
+findromance.com.	60	IN	A	209.167.6.200
+
+;; AUTHORITY SECTION:
+findromance.com.	86400	IN	NS	udns2.ultradns.net.
+findromance.com.	86400	IN	NS	udns1.ultradns.net.
+
+;; ADDITIONAL SECTION:
+udns2.ultradns.net.	145663	IN	A	204.74.101.1
+udns1.ultradns.net.	145663	IN	A	204.69.234.1
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Apr 29 22:36:29 2009
+;; MSG SIZE  rcvd: 180
+

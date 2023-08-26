@@ -1,0 +1,631 @@
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 xcvjpinn.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 840
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;xcvjpinn.cn.			IN	A
+
+;; ANSWER SECTION:
+xcvjpinn.cn.		180	IN	A	89.134.194.164
+xcvjpinn.cn.		180	IN	A	89.136.4.113
+xcvjpinn.cn.		180	IN	A	91.154.201.78
+xcvjpinn.cn.		180	IN	A	93.89.167.143
+xcvjpinn.cn.		180	IN	A	217.156.118.71
+xcvjpinn.cn.		180	IN	A	81.195.46.67
+xcvjpinn.cn.		180	IN	A	81.198.177.131
+xcvjpinn.cn.		180	IN	A	85.65.31.57
+
+;; AUTHORITY SECTION:
+xcvjpinn.cn.		180	IN	NS	ns1.dsrwqdwq.com.
+xcvjpinn.cn.		180	IN	NS	ns2.dsrwqdwq.com.
+xcvjpinn.cn.		180	IN	NS	ns3.vrtcwnjde.com.
+xcvjpinn.cn.		180	IN	NS	ns4.dsrwqdwq.com.
+
+;; ADDITIONAL SECTION:
+ns1.dsrwqdwq.com.	168465	IN	A	86.101.67.184
+ns2.dsrwqdwq.com.	168586	IN	A	201.231.97.165
+ns3.vrtcwnjde.com.	168400	IN	A	78.131.126.24
+ns4.dsrwqdwq.com.	170481	IN	A	212.90.185.230
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:35 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 touching-unforgetable-court.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2023
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;touching-unforgetable-court.cn.	IN	A
+
+;; ANSWER SECTION:
+touching-unforgetable-court.cn.	300 IN	A	121.240.109.67
+touching-unforgetable-court.cn.	300 IN	A	12.184.45.88
+touching-unforgetable-court.cn.	300 IN	A	67.210.42.31
+touching-unforgetable-court.cn.	300 IN	A	69.134.130.230
+touching-unforgetable-court.cn.	300 IN	A	75.33.18.196
+
+;; AUTHORITY SECTION:
+touching-unforgetable-court.cn.	300 IN	NS	ns2.uniquest-professional.com.
+touching-unforgetable-court.cn.	300 IN	NS	ns3.answertruthful.com.
+touching-unforgetable-court.cn.	300 IN	NS	ns4.uniquest-pedagogue.com.
+touching-unforgetable-court.cn.	300 IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 149346 IN A	170.94.200.137
+ns3.answertruthful.com.	149346	IN	A	76.14.107.227
+ns4.uniquest-pedagogue.com. 149346 IN	A	213.210.221.37
+ns1.uniquer-pedagogue.com. 149346 IN	A	66.155.114.139
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:36 2009
+;; MSG SIZE  rcvd: 371
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 take-part-inspecialdance.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1534
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;take-part-inspecialdance.cn.	IN	A
+
+;; ANSWER SECTION:
+take-part-inspecialdance.cn. 300 IN	A	12.184.45.88
+take-part-inspecialdance.cn. 300 IN	A	67.210.42.31
+take-part-inspecialdance.cn. 300 IN	A	69.134.130.230
+take-part-inspecialdance.cn. 300 IN	A	75.33.18.196
+take-part-inspecialdance.cn. 300 IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+take-part-inspecialdance.cn. 300 IN	NS	ns1.uniquer-pedagogue.com.
+take-part-inspecialdance.cn. 300 IN	NS	ns2.uniquest-professional.com.
+take-part-inspecialdance.cn. 300 IN	NS	ns3.answertruthful.com.
+take-part-inspecialdance.cn. 300 IN	NS	ns4.uniquest-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns1.uniquer-pedagogue.com. 170058 IN	A	66.155.114.139
+ns2.uniquest-professional.com. 170058 IN A	170.94.200.137
+ns3.answertruthful.com.	170058	IN	A	76.14.107.227
+ns4.uniquest-pedagogue.com. 170058 IN	A	71.172.38.60
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:36 2009
+;; MSG SIZE  rcvd: 365
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 client-9bkuqppk5.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 714
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;client-9bkuqppk5.com.		IN	A
+
+;; ANSWER SECTION:
+client-9bkuqppk5.com.	180	IN	A	80.219.13.155
+client-9bkuqppk5.com.	180	IN	A	91.184.88.115
+client-9bkuqppk5.com.	180	IN	A	98.238.161.186
+client-9bkuqppk5.com.	180	IN	A	95.221.155.40
+client-9bkuqppk5.com.	180	IN	A	24.158.104.109
+client-9bkuqppk5.com.	180	IN	A	84.253.159.76
+client-9bkuqppk5.com.	180	IN	A	78.231.32.192
+client-9bkuqppk5.com.	180	IN	A	75.95.229.71
+client-9bkuqppk5.com.	180	IN	A	41.250.212.154
+client-9bkuqppk5.com.	180	IN	A	66.169.11.220
+
+;; Query time: 4375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:40 2009
+;; MSG SIZE  rcvd: 198
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 client-y79pkmpwf.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 306
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;client-y79pkmpwf.com.		IN	A
+
+;; ANSWER SECTION:
+client-y79pkmpwf.com.	180	IN	A	82.241.191.63
+client-y79pkmpwf.com.	180	IN	A	75.95.229.71
+client-y79pkmpwf.com.	180	IN	A	74.133.148.3
+client-y79pkmpwf.com.	180	IN	A	66.169.11.220
+client-y79pkmpwf.com.	180	IN	A	74.13.84.43
+client-y79pkmpwf.com.	180	IN	A	75.66.148.216
+client-y79pkmpwf.com.	180	IN	A	91.184.88.115
+client-y79pkmpwf.com.	180	IN	A	24.208.234.142
+client-y79pkmpwf.com.	180	IN	A	76.192.43.165
+client-y79pkmpwf.com.	180	IN	A	66.75.4.157
+
+;; Query time: 3937 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:44 2009
+;; MSG SIZE  rcvd: 198
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 read-juicy-composition.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 517
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;read-juicy-composition.cn.	IN	A
+
+;; ANSWER SECTION:
+read-juicy-composition.cn. 300	IN	A	75.33.18.196
+read-juicy-composition.cn. 300	IN	A	121.240.109.67
+read-juicy-composition.cn. 300	IN	A	12.184.45.88
+read-juicy-composition.cn. 300	IN	A	67.210.42.31
+read-juicy-composition.cn. 300	IN	A	69.134.130.230
+
+;; AUTHORITY SECTION:
+read-juicy-composition.cn. 300	IN	NS	ns2.uniquest-professional.com.
+read-juicy-composition.cn. 300	IN	NS	ns3.answertruthful.com.
+read-juicy-composition.cn. 300	IN	NS	ns4.uniquest-pedagogue.com.
+read-juicy-composition.cn. 300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 144114 IN A	170.94.200.137
+ns3.answertruthful.com.	144114	IN	A	76.14.107.227
+ns4.uniquest-pedagogue.com. 144114 IN	A	213.210.221.37
+ns1.uniquer-pedagogue.com. 144114 IN	A	66.155.114.139
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:45 2009
+;; MSG SIZE  rcvd: 361
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 li1fh.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1755
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;li1fh.eu.			IN	A
+
+;; AUTHORITY SECTION:
+eu.			600	IN	SOA	a.nic.eu. tech.eurid.eu. 904130817 3600 1800 3600000 600
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:45 2009
+;; MSG SIZE  rcvd: 81
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 l1ifj.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 127
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;l1ifj.eu.			IN	A
+
+;; AUTHORITY SECTION:
+eu.			600	IN	SOA	a.nic.eu. tech.eurid.eu. 904130817 3600 1800 3600000 600
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:46 2009
+;; MSG SIZE  rcvd: 81
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 jfineoio.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1557
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;jfineoio.cn.			IN	A
+
+;; ANSWER SECTION:
+jfineoio.cn.		180	IN	A	217.156.118.71
+jfineoio.cn.		180	IN	A	81.195.46.67
+jfineoio.cn.		180	IN	A	81.198.177.131
+jfineoio.cn.		180	IN	A	85.65.31.57
+jfineoio.cn.		180	IN	A	89.134.194.164
+jfineoio.cn.		180	IN	A	89.136.4.113
+jfineoio.cn.		180	IN	A	91.154.201.78
+jfineoio.cn.		180	IN	A	93.89.167.143
+
+;; AUTHORITY SECTION:
+jfineoio.cn.		180	IN	NS	ns4.dsrwqdwq.com.
+jfineoio.cn.		180	IN	NS	ns1.dsrwqdwq.com.
+jfineoio.cn.		180	IN	NS	ns2.dsrwqdwq.com.
+jfineoio.cn.		180	IN	NS	ns3.vrtcwnjde.com.
+
+;; ADDITIONAL SECTION:
+ns4.dsrwqdwq.com.	167666	IN	A	78.131.126.24
+ns1.dsrwqdwq.com.	170468	IN	A	190.213.98.246
+ns2.dsrwqdwq.com.	167429	IN	A	77.38.138.117
+ns3.vrtcwnjde.com.	135215	IN	A	210.125.73.214
+
+;; Query time: 2328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:48 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 l1hfl.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1455
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;l1hfl.eu.			IN	A
+
+;; AUTHORITY SECTION:
+eu.			600	IN	SOA	a.nic.eu. tech.eurid.eu. 904130817 3600 1800 3600000 600
+
+;; Query time: 109 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:53 2009
+;; MSG SIZE  rcvd: 81
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 casinotreasure.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;casinotreasure.com.		IN	A
+
+;; ANSWER SECTION:
+casinotreasure.com.	300	IN	A	204.92.97.82
+casinotreasure.com.	300	IN	A	204.92.97.211
+casinotreasure.com.	300	IN	A	204.92.97.210
+
+;; AUTHORITY SECTION:
+casinotreasure.com.	300	IN	NS	ns1.domain-hoster.com.
+casinotreasure.com.	300	IN	NS	ns2.domain-hoster.com.
+
+;; ADDITIONAL SECTION:
+ns1.domain-hoster.com.	172800	IN	A	204.92.96.166
+ns2.domain-hoster.com.	172800	IN	A	207.139.24.253
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:54 2009
+;; MSG SIZE  rcvd: 184
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 imperialcasino.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1147
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;imperialcasino.com.		IN	A
+
+;; ANSWER SECTION:
+imperialcasino.com.	300	IN	A	204.92.97.210
+imperialcasino.com.	300	IN	A	204.92.97.211
+imperialcasino.com.	300	IN	A	204.92.97.82
+
+;; AUTHORITY SECTION:
+imperialcasino.com.	300	IN	NS	ns1.domain-hoster.com.
+imperialcasino.com.	300	IN	NS	ns2.domain-hoster.com.
+
+;; ADDITIONAL SECTION:
+ns1.domain-hoster.com.	153986	IN	A	204.92.96.166
+ns2.domain-hoster.com.	153986	IN	A	207.139.24.253
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:35:54 2009
+;; MSG SIZE  rcvd: 184
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 823
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;advabnr.com.			IN	A
+
+;; ANSWER SECTION:
+advabnr.com.		600	IN	A	76.73.237.59
+advabnr.com.		600	IN	A	173.16.232.159
+advabnr.com.		600	IN	A	173.29.205.121
+advabnr.com.		600	IN	A	99.141.79.160
+advabnr.com.		600	IN	A	75.134.38.246
+advabnr.com.		600	IN	A	71.195.144.64
+advabnr.com.		600	IN	A	71.137.5.244
+advabnr.com.		600	IN	A	75.137.92.240
+advabnr.com.		600	IN	A	146.57.249.100
+advabnr.com.		600	IN	A	75.4.134.13
+advabnr.com.		600	IN	A	24.170.188.159
+advabnr.com.		600	IN	A	69.66.237.74
+advabnr.com.		600	IN	A	76.102.51.10
+advabnr.com.		600	IN	A	165.166.236.74
+
+;; AUTHORITY SECTION:
+advabnr.com.		172796	IN	NS	ns1.advabnr.com.
+advabnr.com.		172796	IN	NS	ns2.advabnr.com.
+advabnr.com.		172796	IN	NS	ns3.advabnr.com.
+advabnr.com.		172796	IN	NS	ns4.advabnr.com.
+
+;; ADDITIONAL SECTION:
+ns1.advabnr.com.	172796	IN	A	66.233.229.99
+ns2.advabnr.com.	172796	IN	A	89.228.212.197
+ns3.advabnr.com.	172796	IN	A	62.121.110.4
+ns4.advabnr.com.	172796	IN	A	217.28.146.253
+
+;; Query time: 3984 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:36:04 2009
+;; MSG SIZE  rcvd: 400
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 landcyberlocal.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1551
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;landcyberlocal.cn.		IN	A
+
+;; ANSWER SECTION:
+landcyberlocal.cn.	300	IN	A	213.120.254.75
+landcyberlocal.cn.	300	IN	A	70.91.121.99
+landcyberlocal.cn.	300	IN	A	71.172.38.60
+landcyberlocal.cn.	300	IN	A	74.172.32.50
+landcyberlocal.cn.	300	IN	A	206.210.113.47
+
+;; AUTHORITY SECTION:
+landcyberlocal.cn.	300	IN	NS	ns2.desistylish.com.
+landcyberlocal.cn.	300	IN	NS	ns3.splendidfindings.com.
+landcyberlocal.cn.	300	IN	NS	ns4.magnifindings.com.
+landcyberlocal.cn.	300	IN	NS	ns1.verity-fresh.com.
+
+;; ADDITIONAL SECTION:
+ns2.desistylish.com.	164526	IN	A	74.15.177.251
+ns3.splendidfindings.com. 164526 IN	A	61.160.217.38
+ns4.magnifindings.com.	164526	IN	A	74.172.32.50
+ns1.verity-fresh.com.	164526	IN	A	64.244.62.54
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:36:14 2009
+;; MSG SIZE  rcvd: 327
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	74.172.32.50
+best-rx-onlinestore.com. 300	IN	A	206.210.113.47
+best-rx-onlinestore.com. 300	IN	A	213.120.254.75
+best-rx-onlinestore.com. 300	IN	A	70.91.121.99
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	64.244.62.54
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	61.160.217.38
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:36:15 2009
+;; MSG SIZE  rcvd: 336
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 149
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;yourpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+yourpharmweb.com.	600	IN	A	165.166.236.74
+yourpharmweb.com.	600	IN	A	76.102.51.10
+yourpharmweb.com.	600	IN	A	71.137.5.244
+yourpharmweb.com.	600	IN	A	146.57.249.100
+yourpharmweb.com.	600	IN	A	99.141.79.160
+yourpharmweb.com.	600	IN	A	75.134.38.246
+yourpharmweb.com.	600	IN	A	69.66.237.74
+yourpharmweb.com.	600	IN	A	24.170.188.159
+yourpharmweb.com.	600	IN	A	71.195.144.64
+yourpharmweb.com.	600	IN	A	75.137.92.240
+yourpharmweb.com.	600	IN	A	76.73.237.59
+yourpharmweb.com.	600	IN	A	75.4.134.13
+yourpharmweb.com.	600	IN	A	82.42.189.145
+yourpharmweb.com.	600	IN	A	173.16.232.159
+
+;; AUTHORITY SECTION:
+yourpharmweb.com.	172799	IN	NS	ns1.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns2.yourpharmweb.com.
+yourpharmweb.com.	172799	IN	NS	ns3.yourpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.yourpharmweb.com.	172799	IN	A	75.156.145.87
+ns2.yourpharmweb.com.	172799	IN	A	67.85.69.196
+ns3.yourpharmweb.com.	172799	IN	A	212.251.99.197
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:36:15 2009
+;; MSG SIZE  rcvd: 376
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ioctl2.jp
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1938
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;ioctl2.jp.			IN	A
+
+;; ANSWER SECTION:
+ioctl2.jp.		600	IN	A	76.102.51.10
+ioctl2.jp.		600	IN	A	75.4.134.13
+ioctl2.jp.		600	IN	A	173.29.205.121
+ioctl2.jp.		600	IN	A	173.16.232.159
+ioctl2.jp.		600	IN	A	76.73.237.59
+ioctl2.jp.		600	IN	A	75.134.38.246
+ioctl2.jp.		600	IN	A	165.166.236.74
+ioctl2.jp.		600	IN	A	82.42.189.145
+ioctl2.jp.		600	IN	A	71.137.5.244
+ioctl2.jp.		600	IN	A	99.141.79.160
+ioctl2.jp.		600	IN	A	71.195.144.64
+ioctl2.jp.		600	IN	A	75.137.92.240
+ioctl2.jp.		600	IN	A	69.66.237.74
+ioctl2.jp.		600	IN	A	146.57.249.100
+
+;; AUTHORITY SECTION:
+ioctl2.jp.		86396	IN	NS	ns2.ioctl2.jp.
+ioctl2.jp.		86396	IN	NS	ns3.ioctl2.jp.
+ioctl2.jp.		86396	IN	NS	ns1.ioctl2.jp.
+
+;; ADDITIONAL SECTION:
+ns2.ioctl2.jp.		86396	IN	A	72.204.44.232
+ns3.ioctl2.jp.		86396	IN	A	68.197.137.239
+ns1.ioctl2.jp.		86396	IN	A	74.196.156.180
+
+;; Query time: 4281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:36:24 2009
+;; MSG SIZE  rcvd: 362
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 mature-porn-gate.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 159
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;mature-porn-gate.com.		IN	A
+
+;; ANSWER SECTION:
+mature-porn-gate.com.	600	IN	A	85.176.8.102
+mature-porn-gate.com.	600	IN	A	85.176.8.102
+mature-porn-gate.com.	600	IN	A	77.52.11.10
+mature-porn-gate.com.	600	IN	A	81.203.1.66
+mature-porn-gate.com.	600	IN	A	84.222.192.190
+
+;; Query time: 828 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:36:25 2009
+;; MSG SIZE  rcvd: 118
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 educationprovider.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 388
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;educationprovider.com.		IN	A
+
+;; ANSWER SECTION:
+educationprovider.com.	60	IN	A	209.167.6.17
+educationprovider.com.	60	IN	A	67.109.145.54
+educationprovider.com.	60	IN	A	209.167.6.200
+
+;; AUTHORITY SECTION:
+educationprovider.com.	86400	IN	NS	udns2.ultradns.net.
+educationprovider.com.	86400	IN	NS	udns1.ultradns.net.
+
+;; ADDITIONAL SECTION:
+udns2.ultradns.net.	130916	IN	A	204.74.101.1
+udns1.ultradns.net.	130916	IN	A	204.69.234.1
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:36:26 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 findromance.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 120
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;findromance.com.		IN	A
+
+;; ANSWER SECTION:
+findromance.com.	60	IN	A	209.167.6.17
+findromance.com.	60	IN	A	67.109.145.54
+findromance.com.	60	IN	A	209.167.6.200
+
+;; AUTHORITY SECTION:
+findromance.com.	86400	IN	NS	udns2.ultradns.net.
+findromance.com.	86400	IN	NS	udns1.ultradns.net.
+
+;; ADDITIONAL SECTION:
+udns2.ultradns.net.	51955	IN	A	204.74.101.1
+udns1.ultradns.net.	51955	IN	A	204.69.234.1
+
+;; Query time: 1375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Apr 13 22:36:27 2009
+;; MSG SIZE  rcvd: 180
+

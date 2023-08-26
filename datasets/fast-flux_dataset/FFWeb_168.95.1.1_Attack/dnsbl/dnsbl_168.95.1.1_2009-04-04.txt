@@ -1,0 +1,1464 @@
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestcouponfree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 341
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;bestcouponfree.com.		IN	A
+
+;; ANSWER SECTION:
+bestcouponfree.com.	0	IN	A	69.31.150.107
+
+;; Query time: 1171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:37:43 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 worldlovelife.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 471
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;worldlovelife.com.		IN	A
+
+;; ANSWER SECTION:
+worldlovelife.com.	0	IN	A	67.182.54.187
+
+;; Query time: 2093 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:37:45 2009
+;; MSG SIZE  rcvd: 68
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestcouponfree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 444
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;bestcouponfree.com.		IN	A
+
+;; ANSWER SECTION:
+bestcouponfree.com.	0	IN	A	68.144.172.34
+
+;; Query time: 609 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:37:46 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 iwwmkkdi.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 worshiplove.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 420
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;worshiplove.com.		IN	A
+
+;; ANSWER SECTION:
+worshiplove.com.	0	IN	A	125.31.178.130
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:38:07 2009
+;; MSG SIZE  rcvd: 64
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 iwwmkkdi.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 greatcouponclub.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 323
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;greatcouponclub.com.		IN	A
+
+;; ANSWER SECTION:
+greatcouponclub.com.	0	IN	A	69.31.150.107
+
+;; Query time: 3750 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:38:26 2009
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 adoresongs.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 101
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;adoresongs.com.			IN	A
+
+;; ANSWER SECTION:
+adoresongs.com.		0	IN	A	64.184.15.27
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:38:31 2009
+;; MSG SIZE  rcvd: 62
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourvalentinepoems.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 754
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;yourvalentinepoems.com.		IN	A
+
+;; ANSWER SECTION:
+yourvalentinepoems.com.	0	IN	A	67.176.131.24
+
+;; Query time: 4140 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:38:35 2009
+;; MSG SIZE  rcvd: 78
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 chatloveonline.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 494
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;chatloveonline.com.		IN	A
+
+;; ANSWER SECTION:
+chatloveonline.com.	0	IN	A	99.236.202.255
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:38:36 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 funnyvalentinessite.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1671
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;funnyvalentinessite.com.	IN	A
+
+;; ANSWER SECTION:
+funnyvalentinessite.com. 0	IN	A	82.47.71.62
+
+;; Query time: 4078 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:38:40 2009
+;; MSG SIZE  rcvd: 80
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 whocherish.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1825
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;whocherish.com.			IN	A
+
+;; ANSWER SECTION:
+whocherish.com.		0	IN	A	76.99.2.54
+
+;; Query time: 1453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:38:41 2009
+;; MSG SIZE  rcvd: 62
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 moms-in-office.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1638
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;moms-in-office.com.		IN	A
+
+;; ANSWER SECTION:
+moms-in-office.com.	600	IN	A	83.29.221.50
+moms-in-office.com.	600	IN	A	24.240.208.249
+moms-in-office.com.	600	IN	A	218.153.205.169
+moms-in-office.com.	600	IN	A	76.26.82.155
+moms-in-office.com.	600	IN	A	76.226.104.157
+
+;; Query time: 2109 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:38:44 2009
+;; MSG SIZE  rcvd: 116
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 moms-in-office.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 519
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;moms-in-office.com.		IN	A
+
+;; ANSWER SECTION:
+moms-in-office.com.	600	IN	A	83.29.221.50
+moms-in-office.com.	600	IN	A	24.240.208.249
+moms-in-office.com.	600	IN	A	76.226.104.157
+moms-in-office.com.	600	IN	A	76.26.82.155
+moms-in-office.com.	600	IN	A	218.153.205.169
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:38:44 2009
+;; MSG SIZE  rcvd: 116
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 youradore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1501
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;youradore.com.			IN	A
+
+;; ANSWER SECTION:
+youradore.com.		0	IN	A	70.247.217.193
+
+;; Query time: 3546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:38:48 2009
+;; MSG SIZE  rcvd: 60
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 old-and-girl.net
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;old-and-girl.net.		IN	A
+
+;; ANSWER SECTION:
+old-and-girl.net.	600	IN	A	210.148.134.181
+old-and-girl.net.	600	IN	A	77.101.159.202
+old-and-girl.net.	600	IN	A	217.217.205.2
+old-and-girl.net.	600	IN	A	79.164.94.204
+old-and-girl.net.	600	IN	A	83.29.221.50
+
+;; Query time: 4390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:38:57 2009
+;; MSG SIZE  rcvd: 114
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ms-tp01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 152
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;ms-tp01.com.			IN	A
+
+;; ANSWER SECTION:
+ms-tp01.com.		1800	IN	A	208.120.237.132
+ms-tp01.com.		1800	IN	A	212.231.236.255
+ms-tp01.com.		1800	IN	A	67.193.190.252
+ms-tp01.com.		1800	IN	A	76.112.163.235
+ms-tp01.com.		1800	IN	A	77.41.99.131
+ms-tp01.com.		1800	IN	A	79.112.26.107
+ms-tp01.com.		1800	IN	A	82.47.35.68
+ms-tp01.com.		1800	IN	A	84.126.129.97
+ms-tp01.com.		1800	IN	A	85.155.254.14
+ms-tp01.com.		1800	IN	A	88.156.177.237
+ms-tp01.com.		1800	IN	A	89.46.59.20
+ms-tp01.com.		1800	IN	A	93.172.30.119
+ms-tp01.com.		1800	IN	A	200.120.122.234
+ms-tp01.com.		1800	IN	A	201.233.45.234
+ms-tp01.com.		1800	IN	A	208.120.16.9
+
+;; AUTHORITY SECTION:
+ms-tp01.com.		1800	IN	NS	ns1.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns1.securitycheckings.net.
+ms-tp01.com.		1800	IN	NS	ns2.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	171109	IN	A	96.9.148.136
+ns1.securitycheckings.net. 171109 IN	A	96.9.148.136
+ns2.citis-group.com.	171110	IN	A	87.151.74.31
+ns2.securitycheckings.net. 171109 IN	A	92.225.119.21
+
+;; Query time: 515 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:38:58 2009
+;; MSG SIZE  rcvd: 449
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 adorepoem.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;adorepoem.com.			IN	A
+
+;; ANSWER SECTION:
+adorepoem.com.		0	IN	A	125.31.178.130
+
+;; Query time: 4953 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:03 2009
+;; MSG SIZE  rcvd: 60
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 worldnewsdot.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1983
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;worldnewsdot.com.		IN	A
+
+;; ANSWER SECTION:
+worldnewsdot.com.	0	IN	A	99.145.93.146
+
+;; Query time: 3937 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:07 2009
+;; MSG SIZE  rcvd: 66
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 codecouponsite.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 507
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;codecouponsite.com.		IN	A
+
+;; ANSWER SECTION:
+codecouponsite.com.	0	IN	A	69.242.15.30
+
+;; Query time: 62 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:07 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 youradore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 800
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;youradore.com.			IN	A
+
+;; ANSWER SECTION:
+youradore.com.		0	IN	A	208.120.217.174
+
+;; Query time: 1500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:08 2009
+;; MSG SIZE  rcvd: 60
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lovecentralonline.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1567
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;lovecentralonline.com.		IN	A
+
+;; ANSWER SECTION:
+lovecentralonline.com.	0	IN	A	67.191.210.52
+
+;; Query time: 3312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:17 2009
+;; MSG SIZE  rcvd: 76
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 funnyvalentinessite.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1109
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;funnyvalentinessite.com.	IN	A
+
+;; ANSWER SECTION:
+funnyvalentinessite.com. 0	IN	A	69.162.80.203
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:17 2009
+;; MSG SIZE  rcvd: 80
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 funnyvalentinessite.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1551
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;funnyvalentinessite.com.	IN	A
+
+;; ANSWER SECTION:
+funnyvalentinessite.com. 0	IN	A	76.183.144.112
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:23 2009
+;; MSG SIZE  rcvd: 80
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1953
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	81.57.112.210
+supermovie.ru.		180	IN	A	208.120.229.44
+supermovie.ru.		180	IN	A	75.36.132.215
+supermovie.ru.		180	IN	A	70.24.128.188
+supermovie.ru.		180	IN	A	195.174.214.232
+supermovie.ru.		180	IN	A	196.203.53.30
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	70.212.17.200
+supermovie.ru.		180	IN	A	95.221.181.1
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:23 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 adorelyric.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1056
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;adorelyric.com.			IN	A
+
+;; ANSWER SECTION:
+adorelyric.com.		0	IN	A	68.144.172.34
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:24 2009
+;; MSG SIZE  rcvd: 62
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 adoresongs.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 743
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;adoresongs.com.			IN	A
+
+;; ANSWER SECTION:
+adoresongs.com.		0	IN	A	208.120.217.174
+
+;; Query time: 171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:29 2009
+;; MSG SIZE  rcvd: 62
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 worldnewsdot.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 129
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;worldnewsdot.com.		IN	A
+
+;; ANSWER SECTION:
+worldnewsdot.com.	0	IN	A	86.13.203.91
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:29 2009
+;; MSG SIZE  rcvd: 66
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 465
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	70.24.128.188
+supermovie.ru.		180	IN	A	95.221.181.1
+supermovie.ru.		180	IN	A	75.36.132.215
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	81.57.112.210
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	195.174.214.232
+supermovie.ru.		180	IN	A	196.203.53.30
+supermovie.ru.		180	IN	A	208.120.229.44
+supermovie.ru.		180	IN	A	70.212.17.200
+
+;; Query time: 703 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:30 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 breakingfreemichigan.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1105
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;breakingfreemichigan.com.	IN	A
+
+;; ANSWER SECTION:
+breakingfreemichigan.com. 0	IN	A	66.189.54.107
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:30 2009
+;; MSG SIZE  rcvd: 82
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 worldnewseye.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1396
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;worldnewseye.com.		IN	A
+
+;; ANSWER SECTION:
+worldnewseye.com.	0	IN	A	69.162.80.203
+
+;; Query time: 4390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:40 2009
+;; MSG SIZE  rcvd: 66
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lovecentralonline.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 549
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;lovecentralonline.com.		IN	A
+
+;; ANSWER SECTION:
+lovecentralonline.com.	0	IN	A	85.85.86.205
+
+;; Query time: 3843 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:44 2009
+;; MSG SIZE  rcvd: 76
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lovecentralonline.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 517
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;lovecentralonline.com.		IN	A
+
+;; ANSWER SECTION:
+lovecentralonline.com.	0	IN	A	70.245.220.40
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:44 2009
+;; MSG SIZE  rcvd: 76
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 breakingnewsltd.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 417
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;breakingnewsltd.com.		IN	A
+
+;; ANSWER SECTION:
+breakingnewsltd.com.	0	IN	A	76.182.218.50
+
+;; Query time: 3625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:48 2009
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 breakingnewsltd.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 577
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;breakingnewsltd.com.		IN	A
+
+;; ANSWER SECTION:
+breakingnewsltd.com.	0	IN	A	86.21.5.203
+
+;; Query time: 2968 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:56 2009
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lovelifeportal.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 517
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;lovelifeportal.com.		IN	A
+
+;; ANSWER SECTION:
+lovelifeportal.com.	0	IN	A	68.144.172.34
+
+;; Query time: 1390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:57 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1140
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	217.162.32.19
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	138.238.201.197
+supermovie.ru.		180	IN	A	81.13.230.59
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	70.212.17.200
+supermovie.ru.		180	IN	A	70.24.128.188
+supermovie.ru.		180	IN	A	24.170.92.61
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	81.57.112.210
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:58 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1061
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	62.248.81.135
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	93.92.34.238
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	82.143.216.141
+acceptslim.com.		180	IN	A	58.7.168.169
+acceptslim.com.		180	IN	A	190.139.112.4
+acceptslim.com.		180	IN	A	88.148.36.213
+acceptslim.com.		180	IN	A	78.224.204.17
+acceptslim.com.		180	IN	A	200.222.60.195
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:39:58 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 405
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	82.66.22.14
+acceptslim.com.		180	IN	A	88.148.36.213
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	82.143.216.141
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	24.81.18.211
+acceptslim.com.		180	IN	A	67.164.131.90
+acceptslim.com.		180	IN	A	66.137.5.201
+acceptslim.com.		180	IN	A	173.45.210.202
+acceptslim.com.		180	IN	A	69.89.222.117
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:40:34 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 999
+;; flags: qr rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		170	IN	A	66.137.5.201
+acceptslim.com.		170	IN	A	173.45.210.202
+acceptslim.com.		170	IN	A	69.89.222.117
+acceptslim.com.		170	IN	A	82.66.22.14
+acceptslim.com.		170	IN	A	88.148.36.213
+acceptslim.com.		170	IN	A	82.191.44.66
+acceptslim.com.		170	IN	A	82.143.216.141
+acceptslim.com.		170	IN	A	138.238.175.109
+acceptslim.com.		170	IN	A	24.81.18.211
+acceptslim.com.		170	IN	A	67.164.131.90
+
+;; AUTHORITY SECTION:
+acceptslim.com.		172790	IN	NS	ns1.thingyns.com.
+acceptslim.com.		172790	IN	NS	ns2.thingyns.com.
+acceptslim.com.		172790	IN	NS	ns3.thingyns.com.
+acceptslim.com.		172790	IN	NS	ns4.thingyns.com.
+
+;; ADDITIONAL SECTION:
+ns1.thingyns.com.	159500	IN	A	71.224.214.18
+ns2.thingyns.com.	19	IN	A	71.224.214.18
+ns3.thingyns.com.	159500	IN	A	138.238.175.109
+ns4.thingyns.com.	19	IN	A	138.238.175.109
+
+;; Query time: 15 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:40:44 2009
+;; MSG SIZE  rcvd: 337
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 acceptslim.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 244
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;acceptslim.com.			IN	A
+
+;; ANSWER SECTION:
+acceptslim.com.		180	IN	A	66.137.5.201
+acceptslim.com.		180	IN	A	82.143.216.141
+acceptslim.com.		180	IN	A	24.81.18.211
+acceptslim.com.		180	IN	A	69.89.222.117
+acceptslim.com.		180	IN	A	82.66.22.14
+acceptslim.com.		180	IN	A	82.191.44.66
+acceptslim.com.		180	IN	A	88.148.36.213
+acceptslim.com.		180	IN	A	138.238.175.109
+acceptslim.com.		180	IN	A	173.45.210.202
+acceptslim.com.		180	IN	A	67.164.131.90
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:40:54 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 downloads4you.net
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1642
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	217.162.32.19
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	81.57.112.210
+supermovie.ru.		180	IN	A	24.170.92.61
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	70.212.17.200
+supermovie.ru.		180	IN	A	138.238.201.197
+supermovie.ru.		180	IN	A	81.13.230.59
+supermovie.ru.		180	IN	A	70.24.128.188
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:15 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 376
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	81.57.112.210
+supermovie.ru.		180	IN	A	24.170.92.61
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	70.24.128.188
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	138.238.201.197
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	81.13.230.59
+supermovie.ru.		180	IN	A	217.162.32.19
+supermovie.ru.		180	IN	A	70.212.17.200
+
+;; Query time: 1843 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:22 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1844
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	24.170.92.61
+supermovie.ru.		180	IN	A	217.162.32.19
+supermovie.ru.		180	IN	A	70.24.128.188
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	81.57.112.210
+supermovie.ru.		180	IN	A	70.212.17.200
+supermovie.ru.		180	IN	A	81.13.230.59
+supermovie.ru.		180	IN	A	138.238.201.197
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:22 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 supermovie.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1756
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;supermovie.ru.			IN	A
+
+;; ANSWER SECTION:
+supermovie.ru.		180	IN	A	72.241.200.127
+supermovie.ru.		180	IN	A	70.212.17.200
+supermovie.ru.		180	IN	A	217.162.32.19
+supermovie.ru.		180	IN	A	81.13.230.59
+supermovie.ru.		180	IN	A	70.24.128.188
+supermovie.ru.		180	IN	A	142.167.254.35
+supermovie.ru.		180	IN	A	138.238.201.197
+supermovie.ru.		180	IN	A	173.21.25.76
+supermovie.ru.		180	IN	A	24.170.92.61
+supermovie.ru.		180	IN	A	81.57.112.210
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:22 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 iwwmkkdi.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 125
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;iwwmkkdi.cn.			IN	A
+
+;; ANSWER SECTION:
+iwwmkkdi.cn.		180	IN	A	89.132.131.231
+iwwmkkdi.cn.		180	IN	A	90.155.165.114
+iwwmkkdi.cn.		180	IN	A	91.122.150.208
+iwwmkkdi.cn.		180	IN	A	93.89.167.143
+iwwmkkdi.cn.		180	IN	A	93.126.97.69
+iwwmkkdi.cn.		180	IN	A	219.68.190.135
+iwwmkkdi.cn.		180	IN	A	80.99.15.223
+iwwmkkdi.cn.		180	IN	A	85.122.42.234
+
+;; AUTHORITY SECTION:
+iwwmkkdi.cn.		180	IN	NS	ns2.frubjnfew.com.
+iwwmkkdi.cn.		180	IN	NS	ns3.cisunday.com.
+iwwmkkdi.cn.		180	IN	NS	ns4.cisunday.com.
+iwwmkkdi.cn.		180	IN	NS	ns1.frubjnfew.com.
+
+;; ADDITIONAL SECTION:
+ns2.frubjnfew.com.	132889	IN	A	86.57.2.47
+ns3.cisunday.com.	132889	IN	A	90.155.165.114
+ns4.cisunday.com.	132889	IN	A	116.127.181.246
+ns1.frubjnfew.com.	132889	IN	A	62.84.60.38
+
+;; Query time: 3625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:31 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ms-tp01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 358
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;ms-tp01.com.			IN	A
+
+;; ANSWER SECTION:
+ms-tp01.com.		1800	IN	A	88.156.177.237
+ms-tp01.com.		1800	IN	A	89.46.59.20
+ms-tp01.com.		1800	IN	A	93.172.30.119
+ms-tp01.com.		1800	IN	A	200.120.122.234
+ms-tp01.com.		1800	IN	A	201.233.45.234
+ms-tp01.com.		1800	IN	A	208.120.16.9
+ms-tp01.com.		1800	IN	A	208.120.237.132
+ms-tp01.com.		1800	IN	A	212.231.236.255
+ms-tp01.com.		1800	IN	A	67.193.190.252
+ms-tp01.com.		1800	IN	A	76.112.163.235
+ms-tp01.com.		1800	IN	A	77.41.99.131
+ms-tp01.com.		1800	IN	A	79.112.26.107
+ms-tp01.com.		1800	IN	A	82.47.35.68
+ms-tp01.com.		1800	IN	A	84.126.129.97
+ms-tp01.com.		1800	IN	A	85.155.254.14
+
+;; AUTHORITY SECTION:
+ms-tp01.com.		1800	IN	NS	ns2.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns2.securitycheckings.net.
+ms-tp01.com.		1800	IN	NS	ns1.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns1.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns2.securitycheckings.net. 172800 IN	A	92.225.119.21
+ns1.citis-group.com.	172799	IN	A	96.9.148.136
+ns1.securitycheckings.net. 172800 IN	A	96.9.148.136
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:32 2009
+;; MSG SIZE  rcvd: 433
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 adoresongs.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1016
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;adoresongs.com.			IN	A
+
+;; ANSWER SECTION:
+adoresongs.com.		0	IN	A	68.144.172.34
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:33 2009
+;; MSG SIZE  rcvd: 62
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestcouponfree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1794
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;bestcouponfree.com.		IN	A
+
+;; ANSWER SECTION:
+bestcouponfree.com.	0	IN	A	86.13.203.91
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:44 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 codecouponsite.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1644
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;codecouponsite.com.		IN	A
+
+;; ANSWER SECTION:
+codecouponsite.com.	0	IN	A	76.101.48.74
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:44 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 greatcouponclub.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1632
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;greatcouponclub.com.		IN	A
+
+;; ANSWER SECTION:
+greatcouponclub.com.	0	IN	A	99.184.86.6
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:44 2009
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 youradore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1195
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;youradore.com.			IN	A
+
+;; ANSWER SECTION:
+youradore.com.		0	IN	A	82.47.71.62
+
+;; Query time: 234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:45 2009
+;; MSG SIZE  rcvd: 60
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bluevalentineonline.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1544
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;bluevalentineonline.com.	IN	A
+
+;; ANSWER SECTION:
+bluevalentineonline.com. 0	IN	A	124.28.102.194
+
+;; Query time: 3000 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:53 2009
+;; MSG SIZE  rcvd: 80
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 funnyvalentinessite.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 786
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;funnyvalentinessite.com.	IN	A
+
+;; ANSWER SECTION:
+funnyvalentinessite.com. 0	IN	A	69.162.80.203
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:41:53 2009
+;; MSG SIZE  rcvd: 80
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 adorepoem.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1321
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;adorepoem.com.			IN	A
+
+;; ANSWER SECTION:
+adorepoem.com.		0	IN	A	99.145.93.146
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:42:03 2009
+;; MSG SIZE  rcvd: 60
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 worldnewseye.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1100
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;worldnewseye.com.		IN	A
+
+;; ANSWER SECTION:
+worldnewseye.com.	0	IN	A	71.226.253.39
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:42:04 2009
+;; MSG SIZE  rcvd: 66
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ms-tp01.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1711
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;ms-tp01.com.			IN	A
+
+;; ANSWER SECTION:
+ms-tp01.com.		1800	IN	A	77.41.99.131
+ms-tp01.com.		1800	IN	A	79.112.26.107
+ms-tp01.com.		1800	IN	A	82.47.35.68
+ms-tp01.com.		1800	IN	A	84.126.129.97
+ms-tp01.com.		1800	IN	A	85.155.254.14
+ms-tp01.com.		1800	IN	A	88.156.177.237
+ms-tp01.com.		1800	IN	A	89.46.59.20
+ms-tp01.com.		1800	IN	A	93.172.30.119
+ms-tp01.com.		1800	IN	A	200.120.122.234
+ms-tp01.com.		1800	IN	A	201.233.45.234
+ms-tp01.com.		1800	IN	A	208.120.16.9
+ms-tp01.com.		1800	IN	A	208.120.237.132
+ms-tp01.com.		1800	IN	A	212.231.236.255
+ms-tp01.com.		1800	IN	A	67.193.190.252
+ms-tp01.com.		1800	IN	A	76.112.163.235
+
+;; AUTHORITY SECTION:
+ms-tp01.com.		1800	IN	NS	ns1.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns1.securitycheckings.net.
+ms-tp01.com.		1800	IN	NS	ns2.citis-group.com.
+ms-tp01.com.		1800	IN	NS	ns2.securitycheckings.net.
+
+;; ADDITIONAL SECTION:
+ns1.citis-group.com.	172800	IN	A	96.9.148.136
+ns1.securitycheckings.net. 172800 IN	A	96.9.148.136
+ns2.securitycheckings.net. 172800 IN	A	92.225.119.21
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:42:04 2009
+;; MSG SIZE  rcvd: 433
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 adoresongs.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1864
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;adoresongs.com.			IN	A
+
+;; ANSWER SECTION:
+adoresongs.com.		0	IN	A	213.226.69.14
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:42:12 2009
+;; MSG SIZE  rcvd: 62
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestcouponfree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2034
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;bestcouponfree.com.		IN	A
+
+;; ANSWER SECTION:
+bestcouponfree.com.	0	IN	A	69.162.80.203
+
+;; Query time: 93 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:42:12 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 codecouponsite.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 133
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;codecouponsite.com.		IN	A
+
+;; ANSWER SECTION:
+codecouponsite.com.	0	IN	A	66.58.242.176
+
+;; Query time: 46 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:42:12 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 iwwmkkdi.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 518
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;iwwmkkdi.cn.			IN	A
+
+;; ANSWER SECTION:
+iwwmkkdi.cn.		180	IN	A	90.155.165.114
+iwwmkkdi.cn.		180	IN	A	91.122.150.208
+iwwmkkdi.cn.		180	IN	A	93.89.167.143
+iwwmkkdi.cn.		180	IN	A	93.126.97.69
+iwwmkkdi.cn.		180	IN	A	219.68.190.135
+iwwmkkdi.cn.		180	IN	A	80.99.15.223
+iwwmkkdi.cn.		180	IN	A	85.122.42.234
+iwwmkkdi.cn.		180	IN	A	89.132.131.231
+
+;; AUTHORITY SECTION:
+iwwmkkdi.cn.		180	IN	NS	ns1.frubjnfew.com.
+iwwmkkdi.cn.		180	IN	NS	ns2.frubjnfew.com.
+iwwmkkdi.cn.		180	IN	NS	ns3.cisunday.com.
+iwwmkkdi.cn.		180	IN	NS	ns4.cisunday.com.
+
+;; ADDITIONAL SECTION:
+ns1.frubjnfew.com.	132821	IN	A	62.84.60.38
+ns2.frubjnfew.com.	132821	IN	A	86.57.2.47
+ns3.cisunday.com.	132821	IN	A	90.155.165.114
+ns4.cisunday.com.	132821	IN	A	116.127.181.246
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:42:23 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 greatcouponclub.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1520
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;greatcouponclub.com.		IN	A
+
+;; ANSWER SECTION:
+greatcouponclub.com.	0	IN	A	99.145.93.146
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:42:23 2009
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 funnyvalentinessite.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1367
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;funnyvalentinessite.com.	IN	A
+
+;; ANSWER SECTION:
+funnyvalentinessite.com. 0	IN	A	67.191.210.52
+
+;; Query time: 203 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:42:38 2009
+;; MSG SIZE  rcvd: 80
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 youradore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 18
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;youradore.com.			IN	A
+
+;; ANSWER SECTION:
+youradore.com.		0	IN	A	70.247.217.193
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:42:39 2009
+;; MSG SIZE  rcvd: 60
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lovelifeportal.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 597
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;lovelifeportal.com.		IN	A
+
+;; ANSWER SECTION:
+lovelifeportal.com.	0	IN	A	71.226.253.39
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Apr 04 22:42:39 2009
+;; MSG SIZE  rcvd: 70
+

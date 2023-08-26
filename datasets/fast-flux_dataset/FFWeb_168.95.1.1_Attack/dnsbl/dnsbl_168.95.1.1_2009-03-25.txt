@@ -1,0 +1,1556 @@
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestcouponfree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 560
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;bestcouponfree.com.		IN	A
+
+;; ANSWER SECTION:
+bestcouponfree.com.	0	IN	A	24.62.238.206
+
+;; Query time: 3687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:37:38 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 olders-orgies.net
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 537
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;olders-orgies.net.		IN	A
+
+;; ANSWER SECTION:
+olders-orgies.net.	600	IN	A	83.29.244.167
+olders-orgies.net.	600	IN	A	83.135.102.26
+olders-orgies.net.	600	IN	A	82.209.230.157
+olders-orgies.net.	600	IN	A	70.128.102.254
+olders-orgies.net.	600	IN	A	78.29.204.42
+
+;; Query time: 671 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:37:49 2009
+;; MSG SIZE  rcvd: 115
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 greatcouponclub.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 240
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;greatcouponclub.com.		IN	A
+
+;; ANSWER SECTION:
+greatcouponclub.com.	0	IN	A	97.89.32.99
+
+;; Query time: 281 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:37:50 2009
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 linkworldnews.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1160
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;linkworldnews.com.		IN	A
+
+;; ANSWER SECTION:
+linkworldnews.com.	0	IN	A	67.180.35.24
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:37:50 2009
+;; MSG SIZE  rcvd: 68
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fill-moms.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 533
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;fill-moms.com.			IN	A
+
+;; ANSWER SECTION:
+fill-moms.com.		600	IN	A	79.164.89.10
+fill-moms.com.		600	IN	A	77.99.124.52
+fill-moms.com.		600	IN	A	217.217.205.2
+fill-moms.com.		600	IN	A	67.149.196.135
+fill-moms.com.		600	IN	A	218.153.205.220
+
+;; Query time: 3890 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:37:54 2009
+;; MSG SIZE  rcvd: 111
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourbreakingnew.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1876
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;yourbreakingnew.com.		IN	A
+
+;; ANSWER SECTION:
+yourbreakingnew.com.	0	IN	A	76.125.3.129
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:37:54 2009
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestcouponfree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1338
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;bestcouponfree.com.		IN	A
+
+;; ANSWER SECTION:
+bestcouponfree.com.	0	IN	A	70.135.2.140
+
+;; Query time: 812 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:37:55 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1762
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	82.131.6.88
+odwhich.cn.		180	IN	A	83.86.122.42
+odwhich.cn.		180	IN	A	83.170.205.162
+odwhich.cn.		180	IN	A	87.101.119.138
+odwhich.cn.		180	IN	A	89.133.172.111
+odwhich.cn.		180	IN	A	121.124.76.55
+odwhich.cn.		180	IN	A	62.201.113.51
+odwhich.cn.		180	IN	A	79.121.97.118
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.dneuine.com.	147725	IN	A	116.72.75.53
+ns2.teybwpnm.com.	147725	IN	A	77.89.78.3
+ns4.teybwpnm.com.	147725	IN	A	98.165.171.134
+ns1.dneuine.com.	147725	IN	A	86.57.2.47
+
+;; Query time: 1140 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:37:56 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 tntbreakingnews.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 594
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;tntbreakingnews.com.		IN	A
+
+;; ANSWER SECTION:
+tntbreakingnews.com.	0	IN	A	97.97.62.230
+
+;; Query time: 187 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:37:56 2009
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lovelifeportal.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1345
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;lovelifeportal.com.		IN	A
+
+;; ANSWER SECTION:
+lovelifeportal.com.	0	IN	A	64.245.142.140
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:37:57 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 chatloveonline.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1282
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;chatloveonline.com.		IN	A
+
+;; ANSWER SECTION:
+chatloveonline.com.	0	IN	A	82.29.158.49
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:37:57 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 linkworldnews.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 272
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;linkworldnews.com.		IN	A
+
+;; ANSWER SECTION:
+linkworldnews.com.	0	IN	A	71.88.196.6
+
+;; Query time: 453 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:37:58 2009
+;; MSG SIZE  rcvd: 68
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 hosskurnelli.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 vmodeid.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 871
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;vmodeid.com.			IN	A
+
+;; ANSWER SECTION:
+vmodeid.com.		1800	IN	A	190.245.72.2
+vmodeid.com.		1800	IN	A	200.109.36.241
+vmodeid.com.		1800	IN	A	201.83.153.244
+vmodeid.com.		1800	IN	A	217.216.89.68
+vmodeid.com.		1800	IN	A	221.126.238.52
+vmodeid.com.		1800	IN	A	71.100.197.224
+vmodeid.com.		1800	IN	A	75.118.162.91
+vmodeid.com.		1800	IN	A	79.117.84.79
+vmodeid.com.		1800	IN	A	79.175.208.140
+vmodeid.com.		1800	IN	A	82.1.160.84
+vmodeid.com.		1800	IN	A	82.22.126.227
+vmodeid.com.		1800	IN	A	82.158.58.149
+vmodeid.com.		1800	IN	A	84.121.116.138
+vmodeid.com.		1800	IN	A	88.74.48.51
+vmodeid.com.		1800	IN	A	89.46.59.20
+
+;; AUTHORITY SECTION:
+vmodeid.com.		1800	IN	NS	ns1.bus-on-line.com.
+vmodeid.com.		1800	IN	NS	ns1.americans-tool.com.
+vmodeid.com.		1800	IN	NS	ns2.bus-on-line.com.
+vmodeid.com.		1800	IN	NS	ns2.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns1.bus-on-line.com.	166433	IN	A	8.12.160.183
+ns1.americans-tool.com.	144734	IN	A	8.12.160.183
+ns2.bus-on-line.com.	166433	IN	A	205.178.14.51
+ns2.americans-tool.com.	144734	IN	A	88.31.112.44
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:38:13 2009
+;; MSG SIZE  rcvd: 443
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 iwwmkkdi.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 450
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;iwwmkkdi.cn.			IN	A
+
+;; ANSWER SECTION:
+iwwmkkdi.cn.		180	IN	A	83.170.205.162
+iwwmkkdi.cn.		180	IN	A	87.101.119.138
+iwwmkkdi.cn.		180	IN	A	89.133.172.111
+iwwmkkdi.cn.		180	IN	A	121.124.76.55
+iwwmkkdi.cn.		180	IN	A	62.201.113.51
+iwwmkkdi.cn.		180	IN	A	79.121.97.118
+iwwmkkdi.cn.		180	IN	A	82.131.6.88
+iwwmkkdi.cn.		180	IN	A	83.86.122.42
+
+;; AUTHORITY SECTION:
+iwwmkkdi.cn.		180	IN	NS	ns2.frubjnfew.com.
+iwwmkkdi.cn.		180	IN	NS	ns3.cisunday.com.
+iwwmkkdi.cn.		180	IN	NS	ns4.cisunday.com.
+iwwmkkdi.cn.		180	IN	NS	ns1.frubjnfew.com.
+
+;; ADDITIONAL SECTION:
+ns2.frubjnfew.com.	155227	IN	A	84.3.120.26
+ns3.cisunday.com.	155227	IN	A	210.121.155.68
+ns4.cisunday.com.	155227	IN	A	114.76.3.253
+ns1.frubjnfew.com.	155227	IN	A	81.9.148.135
+
+;; Query time: 2375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:38:20 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1783
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	87.101.119.138
+odwhich.cn.		180	IN	A	89.133.172.111
+odwhich.cn.		180	IN	A	121.124.76.55
+odwhich.cn.		180	IN	A	62.201.113.51
+odwhich.cn.		180	IN	A	79.121.97.118
+odwhich.cn.		180	IN	A	82.131.6.88
+odwhich.cn.		180	IN	A	83.86.122.42
+odwhich.cn.		180	IN	A	83.170.205.162
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.teybwpnm.com.	162506	IN	A	114.76.3.253
+ns4.teybwpnm.com.	162506	IN	A	89.176.85.119
+ns1.dneuine.com.	162506	IN	A	210.121.155.68
+ns2.dneuine.com.	162506	IN	A	87.101.112.192
+
+;; Query time: 671 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:38:21 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 breakingnewsltd.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1388
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;breakingnewsltd.com.		IN	A
+
+;; ANSWER SECTION:
+breakingnewsltd.com.	0	IN	A	71.8.83.145
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:38:22 2009
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 tntbreakingnews.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1794
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;tntbreakingnews.com.		IN	A
+
+;; ANSWER SECTION:
+tntbreakingnews.com.	0	IN	A	71.132.130.106
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:38:22 2009
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 densitytrim.net
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 densitytrim.net
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 densitytrim.net
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 densitytrim.net
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lovecentralonline.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 878
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;lovecentralonline.com.		IN	A
+
+;; ANSWER SECTION:
+lovecentralonline.com.	0	IN	A	89.185.197.104
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:39:22 2009
+;; MSG SIZE  rcvd: 76
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1059
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	87.101.119.138
+odwhich.cn.		180	IN	A	89.133.172.111
+odwhich.cn.		180	IN	A	121.124.76.55
+odwhich.cn.		180	IN	A	62.201.113.51
+odwhich.cn.		180	IN	A	79.121.97.118
+odwhich.cn.		180	IN	A	82.131.6.88
+odwhich.cn.		180	IN	A	83.86.122.42
+odwhich.cn.		180	IN	A	83.170.205.162
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns4.teybwpnm.com.	149990	IN	A	116.72.211.219
+ns1.dneuine.com.	149990	IN	A	86.57.2.47
+ns2.dneuine.com.	149990	IN	A	78.84.14.235
+ns2.teybwpnm.com.	149990	IN	A	92.249.182.245
+
+;; Query time: 687 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:39:33 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 tntbreakingnews.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 108
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;tntbreakingnews.com.		IN	A
+
+;; ANSWER SECTION:
+tntbreakingnews.com.	0	IN	A	66.133.235.12
+
+;; Query time: 1812 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:39:35 2009
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1888
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	121.124.76.55
+odwhich.cn.		180	IN	A	62.201.113.51
+odwhich.cn.		180	IN	A	79.121.97.118
+odwhich.cn.		180	IN	A	82.131.6.88
+odwhich.cn.		180	IN	A	83.86.122.42
+odwhich.cn.		180	IN	A	83.170.205.162
+odwhich.cn.		180	IN	A	87.101.119.138
+odwhich.cn.		180	IN	A	89.133.172.111
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns4.teybwpnm.com.	137647	IN	A	165.93.128.92
+ns1.dneuine.com.	137647	IN	A	79.122.111.64
+ns2.dneuine.com.	137647	IN	A	86.57.2.47
+ns2.teybwpnm.com.	137647	IN	A	98.165.171.134
+
+;; Query time: 3390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:39:58 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 hosskurnelli.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 whocherish.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1469
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;whocherish.com.			IN	A
+
+;; ANSWER SECTION:
+whocherish.com.		0	IN	A	88.173.208.125
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:40:14 2009
+;; MSG SIZE  rcvd: 62
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 hosskurnelli.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 mature-porn-gate.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1859
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;mature-porn-gate.com.		IN	A
+
+;; ANSWER SECTION:
+mature-porn-gate.com.	86400	IN	A	74.54.82.209
+
+;; AUTHORITY SECTION:
+mature-porn-gate.com.	172800	IN	NS	sk.s5.ans1.ns109.ztomy.com.
+mature-porn-gate.com.	172800	IN	NS	sk.s5.ans2.ns109.ztomy.com.
+
+;; ADDITIONAL SECTION:
+sk.s5.ans1.ns109.ztomy.com. 124929 IN	A	74.54.82.109
+sk.s5.ans2.ns109.ztomy.com. 124929 IN	A	74.54.83.109
+
+;; Query time: 1546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:40:30 2009
+;; MSG SIZE  rcvd: 168
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 worshiplove.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 508
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;worshiplove.com.		IN	A
+
+;; ANSWER SECTION:
+worshiplove.com.	0	IN	A	67.213.198.103
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:40:31 2009
+;; MSG SIZE  rcvd: 64
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 moms-in-office.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 839
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;moms-in-office.com.		IN	A
+
+;; ANSWER SECTION:
+moms-in-office.com.	600	IN	A	67.149.196.135
+moms-in-office.com.	600	IN	A	98.226.200.170
+moms-in-office.com.	600	IN	A	98.226.200.170
+moms-in-office.com.	600	IN	A	62.178.147.236
+moms-in-office.com.	600	IN	A	92.76.158.77
+
+;; Query time: 3890 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:40:35 2009
+;; MSG SIZE  rcvd: 116
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 olders-orgies.net
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestandonlylink2topsuccess.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1950
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;bestandonlylink2topsuccess.com.	IN	A
+
+;; ANSWER SECTION:
+bestandonlylink2topsuccess.com.	300 IN	A	69.4.188.23
+bestandonlylink2topsuccess.com.	300 IN	A	69.15.160.54
+bestandonlylink2topsuccess.com.	300 IN	A	99.190.83.110
+bestandonlylink2topsuccess.com.	300 IN	A	121.246.86.173
+bestandonlylink2topsuccess.com.	300 IN	A	206.210.113.47
+
+;; AUTHORITY SECTION:
+bestandonlylink2topsuccess.com.	300 IN	NS	ns2.classiremained.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns3.factsleading.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns4.innobrilliant.com.
+bestandonlylink2topsuccess.com.	300 IN	NS	ns1.classifiedremained.com.
+
+;; ADDITIONAL SECTION:
+ns2.classiremained.com.	172799	IN	A	70.91.121.99
+ns3.factsleading.com.	172799	IN	A	70.102.191.196
+ns4.innobrilliant.com.	172799	IN	A	75.145.2.237
+ns1.classifiedremained.com. 172799 IN	A	70.91.121.99
+
+;; Query time: 781 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:40:50 2009
+;; MSG SIZE  rcvd: 355
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 appreciating-slinky-focus.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 308
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;appreciating-slinky-focus.com.	IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1237992035 1800 900 604800 900
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:40:51 2009
+;; MSG SIZE  rcvd: 123
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 pkseio.ru
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1840
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;pkseio.ru.			IN	A
+
+;; AUTHORITY SECTION:
+ru.			3600	IN	SOA	ns.ripn.net. hostmaster.ripn.net. 4014631 7200 900 2592000 3600
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:40:51 2009
+;; MSG SIZE  rcvd: 87
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 olders-orgies.net
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fill-moms.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1384
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;fill-moms.com.			IN	A
+
+;; ANSWER SECTION:
+fill-moms.com.		600	IN	A	218.153.205.220
+fill-moms.com.		600	IN	A	67.149.196.135
+fill-moms.com.		600	IN	A	77.99.124.52
+fill-moms.com.		600	IN	A	217.217.205.2
+fill-moms.com.		600	IN	A	79.164.89.10
+
+;; Query time: 2015 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:08 2009
+;; MSG SIZE  rcvd: 111
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 chatloveonline.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1979
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;chatloveonline.com.		IN	A
+
+;; ANSWER SECTION:
+chatloveonline.com.	0	IN	A	98.226.209.218
+
+;; Query time: 2671 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:11 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1124
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	71.97.106.69
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	76.6.194.132
+passcrazymoment.cn.	300	IN	A	213.120.254.75
+passcrazymoment.cn.	300	IN	A	69.15.160.54
+passcrazymoment.cn.	300	IN	A	70.102.191.196
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 144704 IN A	200.129.46.5
+ns3.answertruthful.com.	144704	IN	A	66.132.159.62
+ns4.uniquest-pedagogue.com. 144704 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 144704 IN	A	166.155.114.139
+
+;; Query time: 3390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:14 2009
+;; MSG SIZE  rcvd: 363
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 809
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	70.102.191.196
+passcrazymoment.cn.	300	IN	A	71.97.106.69
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	76.6.194.132
+passcrazymoment.cn.	300	IN	A	213.120.254.75
+passcrazymoment.cn.	300	IN	A	69.15.160.54
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+
+;; ADDITIONAL SECTION:
+ns3.answertruthful.com.	162482	IN	A	66.132.159.62
+ns4.uniquest-pedagogue.com. 162482 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 162482 IN	A	166.155.114.139
+ns2.uniquest-professional.com. 162482 IN A	200.129.46.5
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:20 2009
+;; MSG SIZE  rcvd: 363
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fill-moms.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 915
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;fill-moms.com.			IN	A
+
+;; ANSWER SECTION:
+fill-moms.com.		600	IN	A	218.153.205.220
+fill-moms.com.		600	IN	A	77.99.124.52
+fill-moms.com.		600	IN	A	67.149.196.135
+fill-moms.com.		600	IN	A	79.164.89.10
+fill-moms.com.		600	IN	A	217.217.205.2
+
+;; Query time: 718 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:21 2009
+;; MSG SIZE  rcvd: 111
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 creampie-olders-orgies.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 64
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;creampie-olders-orgies.com.	IN	A
+
+;; ANSWER SECTION:
+creampie-olders-orgies.com. 600	IN	A	70.128.102.254
+creampie-olders-orgies.com. 600	IN	A	62.178.147.236
+creampie-olders-orgies.com. 600	IN	A	92.76.158.77
+creampie-olders-orgies.com. 600	IN	A	75.131.197.246
+creampie-olders-orgies.com. 600	IN	A	82.209.230.157
+
+;; Query time: 828 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:22 2009
+;; MSG SIZE  rcvd: 124
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 creampie-olders-orgies.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 716
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;creampie-olders-orgies.com.	IN	A
+
+;; ANSWER SECTION:
+creampie-olders-orgies.com. 600	IN	A	70.128.102.254
+creampie-olders-orgies.com. 600	IN	A	82.209.230.157
+creampie-olders-orgies.com. 600	IN	A	62.178.147.236
+creampie-olders-orgies.com. 600	IN	A	75.131.197.246
+creampie-olders-orgies.com. 600	IN	A	92.76.158.77
+
+;; Query time: 4296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:26 2009
+;; MSG SIZE  rcvd: 124
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 passcrazymoment.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1478
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;passcrazymoment.cn.		IN	A
+
+;; ANSWER SECTION:
+passcrazymoment.cn.	300	IN	A	69.15.160.54
+passcrazymoment.cn.	300	IN	A	70.102.191.196
+passcrazymoment.cn.	300	IN	A	71.97.106.69
+passcrazymoment.cn.	300	IN	A	75.33.18.196
+passcrazymoment.cn.	300	IN	A	76.6.194.132
+passcrazymoment.cn.	300	IN	A	213.120.254.75
+
+;; AUTHORITY SECTION:
+passcrazymoment.cn.	300	IN	NS	ns2.uniquest-professional.com.
+passcrazymoment.cn.	300	IN	NS	ns3.answertruthful.com.
+passcrazymoment.cn.	300	IN	NS	ns4.uniquest-pedagogue.com.
+passcrazymoment.cn.	300	IN	NS	ns1.uniquer-pedagogue.com.
+
+;; ADDITIONAL SECTION:
+ns2.uniquest-professional.com. 163590 IN A	200.129.46.5
+ns3.answertruthful.com.	163590	IN	A	66.132.159.62
+ns4.uniquest-pedagogue.com. 163590 IN	A	24.222.4.75
+ns1.uniquer-pedagogue.com. 163590 IN	A	166.155.114.139
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:27 2009
+;; MSG SIZE  rcvd: 363
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 worldnewseye.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1751
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;worldnewseye.com.		IN	A
+
+;; ANSWER SECTION:
+worldnewseye.com.	0	IN	A	67.163.152.114
+
+;; Query time: 3765 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:30 2009
+;; MSG SIZE  rcvd: 66
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 63mode.me
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1926
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;63mode.me.			IN	A
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:31 2009
+;; MSG SIZE  rcvd: 27
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 pharm-on-net.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 332
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;pharm-on-net.com.		IN	A
+
+;; Query time: 312 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:31 2009
+;; MSG SIZE  rcvd: 34
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 vmodeid.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1996
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 15, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;vmodeid.com.			IN	A
+
+;; ANSWER SECTION:
+vmodeid.com.		1800	IN	A	200.109.36.241
+vmodeid.com.		1800	IN	A	201.83.153.244
+vmodeid.com.		1800	IN	A	217.216.89.68
+vmodeid.com.		1800	IN	A	221.126.238.52
+vmodeid.com.		1800	IN	A	71.100.197.224
+vmodeid.com.		1800	IN	A	75.118.162.91
+vmodeid.com.		1800	IN	A	79.117.84.79
+vmodeid.com.		1800	IN	A	79.175.208.140
+vmodeid.com.		1800	IN	A	82.1.160.84
+vmodeid.com.		1800	IN	A	82.22.126.227
+vmodeid.com.		1800	IN	A	82.158.58.149
+vmodeid.com.		1800	IN	A	84.121.116.138
+vmodeid.com.		1800	IN	A	88.74.48.51
+vmodeid.com.		1800	IN	A	89.46.59.20
+vmodeid.com.		1800	IN	A	190.245.72.2
+
+;; AUTHORITY SECTION:
+vmodeid.com.		9	IN	NS	ns2.americans-tool.com.
+vmodeid.com.		9	IN	NS	ns1.bus-on-line.com.
+vmodeid.com.		9	IN	NS	ns2.bus-on-line.com.
+vmodeid.com.		9	IN	NS	ns1.americans-tool.com.
+
+;; ADDITIONAL SECTION:
+ns2.americans-tool.com.	152335	IN	A	88.31.112.44
+ns1.bus-on-line.com.	166156	IN	A	8.12.160.183
+ns2.bus-on-line.com.	166156	IN	A	205.178.14.51
+ns1.americans-tool.com.	152335	IN	A	8.12.160.183
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:32 2009
+;; MSG SIZE  rcvd: 443
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1509
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	62.201.113.51
+odwhich.cn.		180	IN	A	79.121.97.118
+odwhich.cn.		180	IN	A	82.131.6.88
+odwhich.cn.		180	IN	A	83.86.122.42
+odwhich.cn.		180	IN	A	83.170.205.162
+odwhich.cn.		180	IN	A	87.101.119.138
+odwhich.cn.		180	IN	A	89.133.172.111
+odwhich.cn.		180	IN	A	121.124.76.55
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns4.teybwpnm.com.	154613	IN	A	84.17.6.134
+ns1.dneuine.com.	154613	IN	A	60.254.5.142
+ns2.dneuine.com.	154613	IN	A	157.193.84.63
+ns2.teybwpnm.com.	154613	IN	A	89.201.67.203
+
+;; Query time: 3968 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:41 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1177
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	83.86.122.42
+odyears.cn.		180	IN	A	83.170.205.162
+odyears.cn.		180	IN	A	87.101.119.138
+odyears.cn.		180	IN	A	89.133.172.111
+odyears.cn.		180	IN	A	121.124.76.55
+odyears.cn.		180	IN	A	62.201.113.51
+odyears.cn.		180	IN	A	79.121.97.118
+odyears.cn.		180	IN	A	82.131.6.88
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns4.teybwpnm.com.	162300	IN	A	89.176.85.119
+ns1.dneuine.com.	162300	IN	A	210.121.155.68
+ns2.dneuine.com.	162300	IN	A	87.101.112.192
+ns2.teybwpnm.com.	162300	IN	A	114.76.3.253
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:46 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1554
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dfidgxgf.cn.			IN	A
+
+;; ANSWER SECTION:
+dfidgxgf.cn.		180	IN	A	121.124.76.55
+dfidgxgf.cn.		180	IN	A	24.66.46.17
+dfidgxgf.cn.		180	IN	A	59.21.124.47
+dfidgxgf.cn.		180	IN	A	79.121.97.118
+dfidgxgf.cn.		180	IN	A	82.131.6.88
+dfidgxgf.cn.		180	IN	A	83.86.122.42
+dfidgxgf.cn.		180	IN	A	85.66.211.196
+dfidgxgf.cn.		180	IN	A	89.133.172.111
+
+;; AUTHORITY SECTION:
+dfidgxgf.cn.		180	IN	NS	ns1.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns2.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns3.chlanded.com.
+dfidgxgf.cn.		180	IN	NS	ns4.chlanded.com.
+
+;; ADDITIONAL SECTION:
+ns1.linbknhefw.com.	143321	IN	A	210.121.155.68
+ns2.linbknhefw.com.	143321	IN	A	114.76.3.253
+ns3.chlanded.com.	143321	IN	A	87.101.112.192
+ns4.chlanded.com.	143321	IN	A	84.17.6.134
+
+;; Query time: 1015 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:41:57 2009
+;; MSG SIZE  rcvd: 327
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 iwwmkkdi.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1054
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;iwwmkkdi.cn.			IN	A
+
+;; ANSWER SECTION:
+iwwmkkdi.cn.		180	IN	A	89.133.172.111
+iwwmkkdi.cn.		180	IN	A	121.124.76.55
+iwwmkkdi.cn.		180	IN	A	62.201.113.51
+iwwmkkdi.cn.		180	IN	A	79.121.97.118
+iwwmkkdi.cn.		180	IN	A	82.131.6.88
+iwwmkkdi.cn.		180	IN	A	83.86.122.42
+iwwmkkdi.cn.		180	IN	A	83.170.205.162
+iwwmkkdi.cn.		180	IN	A	87.101.119.138
+
+;; AUTHORITY SECTION:
+iwwmkkdi.cn.		180	IN	NS	ns1.frubjnfew.com.
+iwwmkkdi.cn.		180	IN	NS	ns2.frubjnfew.com.
+iwwmkkdi.cn.		180	IN	NS	ns3.cisunday.com.
+iwwmkkdi.cn.		180	IN	NS	ns4.cisunday.com.
+
+;; ADDITIONAL SECTION:
+ns1.frubjnfew.com.	127370	IN	A	194.27.100.197
+ns2.frubjnfew.com.	127370	IN	A	209.169.163.192
+ns3.cisunday.com.	127370	IN	A	76.119.132.96
+ns4.cisunday.com.	127370	IN	A	114.76.3.253
+
+;; Query time: 796 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:03 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 breakingnewsltd.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 768
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;breakingnewsltd.com.		IN	A
+
+;; ANSWER SECTION:
+breakingnewsltd.com.	0	IN	A	70.135.2.140
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:04 2009
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 mature-porn-gate.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 999
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;mature-porn-gate.com.		IN	A
+
+;; ANSWER SECTION:
+mature-porn-gate.com.	86400	IN	A	74.54.82.209
+
+;; AUTHORITY SECTION:
+mature-porn-gate.com.	172800	IN	NS	sk.s5.ans1.ns109.ztomy.com.
+mature-porn-gate.com.	172800	IN	NS	sk.s5.ans2.ns109.ztomy.com.
+
+;; ADDITIONAL SECTION:
+sk.s5.ans1.ns109.ztomy.com. 2510 IN	A	74.54.82.109
+sk.s5.ans2.ns109.ztomy.com. 137353 IN	A	74.54.83.109
+
+;; Query time: 1546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:05 2009
+;; MSG SIZE  rcvd: 168
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 tntbreakingnews.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 405
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;tntbreakingnews.com.		IN	A
+
+;; ANSWER SECTION:
+tntbreakingnews.com.	0	IN	A	152.1.128.243
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:06 2009
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 yourbreakingnew.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1645
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;yourbreakingnew.com.		IN	A
+
+;; ANSWER SECTION:
+yourbreakingnew.com.	0	IN	A	201.231.208.14
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:06 2009
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestcouponfree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 123
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;bestcouponfree.com.		IN	A
+
+;; ANSWER SECTION:
+bestcouponfree.com.	0	IN	A	76.226.82.41
+
+;; Query time: 234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:06 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 greatcouponclub.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1225
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;greatcouponclub.com.		IN	A
+
+;; ANSWER SECTION:
+greatcouponclub.com.	0	IN	A	68.36.175.10
+
+;; Query time: 531 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:07 2009
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestcouponfree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 125
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;bestcouponfree.com.		IN	A
+
+;; ANSWER SECTION:
+bestcouponfree.com.	0	IN	A	67.127.246.37
+
+;; Query time: 234 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:07 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 codecouponsite.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1194
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;codecouponsite.com.		IN	A
+
+;; ANSWER SECTION:
+codecouponsite.com.	0	IN	A	98.202.155.153
+
+;; Query time: 3296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:10 2009
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dfidgxgf.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 667
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;dfidgxgf.cn.			IN	A
+
+;; ANSWER SECTION:
+dfidgxgf.cn.		180	IN	A	59.21.124.47
+dfidgxgf.cn.		180	IN	A	79.121.97.118
+dfidgxgf.cn.		180	IN	A	82.131.6.88
+dfidgxgf.cn.		180	IN	A	83.86.122.42
+dfidgxgf.cn.		180	IN	A	85.66.211.196
+dfidgxgf.cn.		180	IN	A	89.133.172.111
+dfidgxgf.cn.		180	IN	A	121.124.76.55
+dfidgxgf.cn.		180	IN	A	24.66.46.17
+
+;; AUTHORITY SECTION:
+dfidgxgf.cn.		180	IN	NS	ns4.chlanded.com.
+dfidgxgf.cn.		180	IN	NS	ns1.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns2.linbknhefw.com.
+dfidgxgf.cn.		180	IN	NS	ns3.chlanded.com.
+
+;; ADDITIONAL SECTION:
+ns4.chlanded.com.	143066	IN	A	84.17.6.134
+ns1.linbknhefw.com.	163634	IN	A	157.193.84.63
+ns2.linbknhefw.com.	163634	IN	A	165.93.128.92
+ns3.chlanded.com.	143066	IN	A	87.101.112.192
+
+;; Query time: 3265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:19 2009
+;; MSG SIZE  rcvd: 327
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odyears.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 867
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odyears.cn.			IN	A
+
+;; ANSWER SECTION:
+odyears.cn.		180	IN	A	62.201.113.51
+odyears.cn.		180	IN	A	79.121.97.118
+odyears.cn.		180	IN	A	82.131.6.88
+odyears.cn.		180	IN	A	83.86.122.42
+odyears.cn.		180	IN	A	83.170.205.162
+odyears.cn.		180	IN	A	87.101.119.138
+odyears.cn.		180	IN	A	89.133.172.111
+odyears.cn.		180	IN	A	121.124.76.55
+
+;; AUTHORITY SECTION:
+odyears.cn.		180	IN	NS	ns2.dneuine.com.
+odyears.cn.		180	IN	NS	ns2.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns4.teybwpnm.com.
+odyears.cn.		180	IN	NS	ns1.dneuine.com.
+
+;; ADDITIONAL SECTION:
+ns2.dneuine.com.	144979	IN	A	186.18.20.92
+ns2.teybwpnm.com.	144979	IN	A	210.121.155.68
+ns4.teybwpnm.com.	144979	IN	A	87.101.112.192
+ns1.dneuine.com.	144979	IN	A	91.122.155.90
+
+;; Query time: 2062 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:31 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 odwhich.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 905
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;odwhich.cn.			IN	A
+
+;; ANSWER SECTION:
+odwhich.cn.		180	IN	A	62.201.113.51
+odwhich.cn.		180	IN	A	79.121.97.118
+odwhich.cn.		180	IN	A	82.131.6.88
+odwhich.cn.		180	IN	A	83.86.122.42
+odwhich.cn.		180	IN	A	83.170.205.162
+odwhich.cn.		180	IN	A	87.101.119.138
+odwhich.cn.		180	IN	A	89.133.172.111
+odwhich.cn.		180	IN	A	121.124.76.55
+
+;; AUTHORITY SECTION:
+odwhich.cn.		180	IN	NS	ns1.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.dneuine.com.
+odwhich.cn.		180	IN	NS	ns2.teybwpnm.com.
+odwhich.cn.		180	IN	NS	ns4.teybwpnm.com.
+
+;; ADDITIONAL SECTION:
+ns1.dneuine.com.	158496	IN	A	81.9.148.135
+ns2.dneuine.com.	158496	IN	A	210.121.155.68
+ns2.teybwpnm.com.	158496	IN	A	91.122.157.11
+ns4.teybwpnm.com.	158496	IN	A	221.152.214.234
+
+;; Query time: 2828 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:39 2009
+;; MSG SIZE  rcvd: 322
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 worshiplove.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1487
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;worshiplove.com.		IN	A
+
+;; ANSWER SECTION:
+worshiplove.com.	0	IN	A	24.224.32.61
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:39 2009
+;; MSG SIZE  rcvd: 64
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 worldlovelife.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 105
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;worldlovelife.com.		IN	A
+
+;; ANSWER SECTION:
+worldlovelife.com.	0	IN	A	67.177.71.100
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:39 2009
+;; MSG SIZE  rcvd: 68
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 whocherish.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 98
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;whocherish.com.			IN	A
+
+;; ANSWER SECTION:
+whocherish.com.		0	IN	A	93.177.167.81
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:40 2009
+;; MSG SIZE  rcvd: 62
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bluevalentineonline.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1156
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;bluevalentineonline.com.	IN	A
+
+;; ANSWER SECTION:
+bluevalentineonline.com. 0	IN	A	66.229.102.116
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Wed Mar 25 22:42:40 2009
+;; MSG SIZE  rcvd: 80
+

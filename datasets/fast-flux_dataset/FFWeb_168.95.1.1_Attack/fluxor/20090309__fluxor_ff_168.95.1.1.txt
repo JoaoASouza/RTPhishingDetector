@@ -1,0 +1,260 @@
+
+; <<>> DiG 9.3.2rc1 <<>> laughsize.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 319
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;laughsize.com.			IN	A
+
+;; ANSWER SECTION:
+laughsize.com.		3600	IN	A	118.102.24.109
+laughsize.com.		3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+laughsize.com.		172800	IN	NS	dns5.expirenotification.com.
+laughsize.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 124670 IN	A	124.42.34.163
+dns6.expirenotification.com. 124670 IN	A	124.42.34.163
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:28:18 2009
+;; MSG SIZE  rcvd: 165
+
+; <<>> DiG 9.3.2rc1 <<>> bookthese.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 205
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;bookthese.com.			IN	A
+
+;; ANSWER SECTION:
+bookthese.com.		3600	IN	A	118.102.24.109
+bookthese.com.		3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+bookthese.com.		172800	IN	NS	dns5.expirenotification.com.
+bookthese.com.		172800	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 124670 IN	A	124.42.34.163
+dns6.expirenotification.com. 124670 IN	A	124.42.34.163
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:28:18 2009
+;; MSG SIZE  rcvd: 165
+
+; <<>> DiG 9.3.2rc1 <<>> appearwing.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 267
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;appearwing.com.			IN	A
+
+;; ANSWER SECTION:
+appearwing.com.		3600	IN	A	118.102.24.109
+appearwing.com.		3600	IN	A	60.29.240.87
+
+;; AUTHORITY SECTION:
+appearwing.com.		172799	IN	NS	dns5.expirenotification.com.
+appearwing.com.		172799	IN	NS	dns6.expirenotification.com.
+
+;; ADDITIONAL SECTION:
+dns5.expirenotification.com. 163467 IN	A	124.42.34.163
+dns6.expirenotification.com. 163467 IN	A	124.42.34.163
+
+;; Query time: 187 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:28:18 2009
+;; MSG SIZE  rcvd: 167
+
+; <<>> DiG 9.3.2rc1 <<>> tej.liftmatter.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 892
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;tej.liftmatter.com.		IN	A
+
+;; ANSWER SECTION:
+tej.liftmatter.com.	1800	IN	A	69.64.155.126
+
+;; AUTHORITY SECTION:
+liftmatter.com.		3600	IN	NS	dns1.name-services.com.
+liftmatter.com.		3600	IN	NS	dns2.name-services.com.
+liftmatter.com.		3600	IN	NS	dns3.name-services.com.
+liftmatter.com.		3600	IN	NS	dns4.name-services.com.
+liftmatter.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	147889	IN	A	98.124.192.1
+dns2.name-services.com.	147890	IN	A	216.52.184.248
+dns3.name-services.com.	147890	IN	A	98.124.193.1
+dns4.name-services.com.	147890	IN	A	69.64.145.225
+dns5.name-services.com.	147890	IN	A	70.42.37.7
+
+;; Query time: 421 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:28:19 2009
+;; MSG SIZE  rcvd: 259
+
+; <<>> DiG 9.3.2rc1 <<>> xdu.ofvisit.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1913
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;xdu.ofvisit.com.		IN	A
+
+;; ANSWER SECTION:
+xdu.ofvisit.com.	1800	IN	A	69.64.155.123
+
+;; AUTHORITY SECTION:
+ofvisit.com.		3600	IN	NS	dns1.name-services.com.
+ofvisit.com.		3600	IN	NS	dns2.name-services.com.
+ofvisit.com.		3600	IN	NS	dns3.name-services.com.
+ofvisit.com.		3600	IN	NS	dns4.name-services.com.
+ofvisit.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	128030	IN	A	98.124.192.1
+dns2.name-services.com.	128030	IN	A	216.52.184.248
+dns3.name-services.com.	128030	IN	A	98.124.193.1
+dns4.name-services.com.	128030	IN	A	69.64.145.225
+dns5.name-services.com.	128030	IN	A	70.42.37.7
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:28:19 2009
+;; MSG SIZE  rcvd: 253
+
+; <<>> DiG 9.3.2rc1 <<>> ycf.applemajor.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2015
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;ycf.applemajor.com.		IN	A
+
+;; ANSWER SECTION:
+ycf.applemajor.com.	1800	IN	A	69.64.155.127
+
+;; AUTHORITY SECTION:
+applemajor.com.		3600	IN	NS	dns1.name-services.com.
+applemajor.com.		3600	IN	NS	dns2.name-services.com.
+applemajor.com.		3600	IN	NS	dns3.name-services.com.
+applemajor.com.		3600	IN	NS	dns4.name-services.com.
+applemajor.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	155809	IN	A	98.124.192.1
+dns2.name-services.com.	155809	IN	A	216.52.184.248
+dns3.name-services.com.	155809	IN	A	98.124.193.1
+dns4.name-services.com.	155809	IN	A	69.64.145.225
+dns5.name-services.com.	155809	IN	A	70.42.37.7
+
+;; Query time: 562 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:28:19 2009
+;; MSG SIZE  rcvd: 259
+
+; <<>> DiG 9.3.2rc1 <<>> yhe.eveningher.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;yhe.eveningher.com.		IN	A
+
+;; ANSWER SECTION:
+yhe.eveningher.com.	1800	IN	A	69.64.147.214
+
+;; AUTHORITY SECTION:
+eveningher.com.		3600	IN	NS	dns1.name-services.com.
+eveningher.com.		3600	IN	NS	dns2.name-services.com.
+eveningher.com.		3600	IN	NS	dns3.name-services.com.
+eveningher.com.		3600	IN	NS	dns4.name-services.com.
+eveningher.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	207	IN	A	98.124.192.1
+dns2.name-services.com.	169083	IN	A	216.52.184.248
+dns3.name-services.com.	227	IN	A	98.124.193.1
+dns4.name-services.com.	257	IN	A	69.64.145.225
+dns5.name-services.com.	252	IN	A	70.42.37.7
+
+;; Query time: 375 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:28:20 2009
+;; MSG SIZE  rcvd: 259
+
+; <<>> DiG 9.3.2rc1 <<>> uuu.applemajor.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2001
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;uuu.applemajor.com.		IN	A
+
+;; ANSWER SECTION:
+uuu.applemajor.com.	1800	IN	A	69.64.155.127
+
+;; AUTHORITY SECTION:
+applemajor.com.		3600	IN	NS	dns1.name-services.com.
+applemajor.com.		3600	IN	NS	dns2.name-services.com.
+applemajor.com.		3600	IN	NS	dns3.name-services.com.
+applemajor.com.		3600	IN	NS	dns4.name-services.com.
+applemajor.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	275	IN	A	98.124.192.1
+dns2.name-services.com.	239	IN	A	216.52.184.248
+dns3.name-services.com.	214	IN	A	98.124.193.1
+dns4.name-services.com.	165780	IN	A	69.64.145.225
+dns5.name-services.com.	231	IN	A	70.42.37.7
+
+;; Query time: 265 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:28:20 2009
+;; MSG SIZE  rcvd: 259
+
+; <<>> DiG 9.3.2rc1 <<>> eip.eveningher.com
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 135
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;eip.eveningher.com.		IN	A
+
+;; ANSWER SECTION:
+eip.eveningher.com.	1800	IN	A	69.64.147.214
+
+;; AUTHORITY SECTION:
+eveningher.com.		3600	IN	NS	dns1.name-services.com.
+eveningher.com.		3600	IN	NS	dns2.name-services.com.
+eveningher.com.		3600	IN	NS	dns3.name-services.com.
+eveningher.com.		3600	IN	NS	dns4.name-services.com.
+eveningher.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	156767	IN	A	98.124.192.1
+dns2.name-services.com.	156767	IN	A	216.52.184.248
+dns3.name-services.com.	156767	IN	A	98.124.193.1
+dns4.name-services.com.	156767	IN	A	69.64.145.225
+dns5.name-services.com.	156767	IN	A	70.42.37.7
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Mon Mar 09 22:28:21 2009
+;; MSG SIZE  rcvd: 259
+
+; <<>> DiG 9.3.2rc1 <<>> tixmso.enginewhen.cn
+;; connection timed out; no servers could be reached

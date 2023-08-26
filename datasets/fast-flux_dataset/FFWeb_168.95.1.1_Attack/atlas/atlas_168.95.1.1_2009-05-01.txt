@@ -1,0 +1,495 @@
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 reomduin.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1234
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;reomduin.com.			IN	A
+
+;; ANSWER SECTION:
+reomduin.com.		600	IN	A	85.176.7.31
+reomduin.com.		600	IN	A	85.122.141.11
+reomduin.com.		600	IN	A	77.51.210.160
+reomduin.com.		600	IN	A	87.96.131.212
+reomduin.com.		600	IN	A	76.107.57.53
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:11 2009
+;; MSG SIZE  rcvd: 110
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dllfilemode.name
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1621
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;dllfilemode.name.		IN	A
+
+;; AUTHORITY SECTION:
+name.			300	IN	SOA	a3.nstld.com. hostmaster.nic.name. 202933830 10800 300 1209600 300
+
+;; Query time: 875 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:12 2009
+;; MSG SIZE  rcvd: 101
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dllfiledird.name
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1722
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;dllfiledird.name.		IN	A
+
+;; AUTHORITY SECTION:
+name.			300	IN	SOA	a3.nstld.com. hostmaster.nic.name. 202933830 10800 300 1209600 300
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:13 2009
+;; MSG SIZE  rcvd: 101
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 dllmodeftr.name
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 399
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;dllmodeftr.name.		IN	A
+
+;; AUTHORITY SECTION:
+name.			300	IN	SOA	a3.nstld.com. hostmaster.nic.name. 202933830 10800 300 1209600 300
+
+;; Query time: 1125 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:14 2009
+;; MSG SIZE  rcvd: 100
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cippdgtt.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1664
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;cippdgtt.cn.			IN	A
+
+;; ANSWER SECTION:
+cippdgtt.cn.		180	IN	A	85.186.112.236
+cippdgtt.cn.		180	IN	A	89.40.127.135
+cippdgtt.cn.		180	IN	A	89.134.75.251
+cippdgtt.cn.		180	IN	A	89.147.99.34
+cippdgtt.cn.		180	IN	A	92.115.42.33
+cippdgtt.cn.		180	IN	A	121.178.39.134
+cippdgtt.cn.		180	IN	A	62.84.51.128
+cippdgtt.cn.		180	IN	A	85.115.126.238
+
+;; AUTHORITY SECTION:
+cippdgtt.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+cippdgtt.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+cippdgtt.cn.		180	IN	NS	ns4.bybwqdwq.com.
+cippdgtt.cn.		180	IN	NS	ns1.bybwqdwq.com.
+
+;; ADDITIONAL SECTION:
+ns2.bysfwqdwe.com.	154459	IN	A	84.3.80.3
+ns3.bysfwqdwe.com.	154459	IN	A	93.73.149.70
+ns4.bybwqdwq.com.	154459	IN	A	78.139.21.135
+ns1.bybwqdwq.com.	154230	IN	A	219.91.213.122
+
+;; Query time: 656 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:14 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fieopowc.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 584
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;fieopowc.cn.			IN	A
+
+;; ANSWER SECTION:
+fieopowc.cn.		180	IN	A	85.115.126.238
+fieopowc.cn.		180	IN	A	85.186.112.236
+fieopowc.cn.		180	IN	A	89.40.127.135
+fieopowc.cn.		180	IN	A	89.134.75.251
+fieopowc.cn.		180	IN	A	89.147.99.34
+fieopowc.cn.		180	IN	A	92.115.42.33
+fieopowc.cn.		180	IN	A	121.178.39.134
+fieopowc.cn.		180	IN	A	62.84.51.128
+
+;; AUTHORITY SECTION:
+fieopowc.cn.		180	IN	NS	ns3.bysfwqdwe.com.
+fieopowc.cn.		180	IN	NS	ns4.bybwqdwq.com.
+fieopowc.cn.		180	IN	NS	ns1.bybwqdwq.com.
+fieopowc.cn.		180	IN	NS	ns2.bysfwqdwe.com.
+
+;; ADDITIONAL SECTION:
+ns3.bysfwqdwe.com.	154459	IN	A	93.73.149.70
+ns4.bybwqdwq.com.	154459	IN	A	78.139.21.135
+ns1.bybwqdwq.com.	154230	IN	A	219.91.213.122
+ns2.bysfwqdwe.com.	154459	IN	A	84.3.80.3
+
+;; Query time: 546 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:15 2009
+;; MSG SIZE  rcvd: 326
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lj1ff.nu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1532
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 9, ADDITIONAL: 9
+
+;; QUESTION SECTION:
+;lj1ff.nu.			IN	A
+
+;; ANSWER SECTION:
+lj1ff.nu.		900	IN	A	62.4.64.119
+lj1ff.nu.		900	IN	A	69.25.75.72
+lj1ff.nu.		900	IN	A	212.181.91.6
+
+;; AUTHORITY SECTION:
+nu.			61652	IN	NS	ns1.nus.nic.nu.
+nu.			61652	IN	NS	ns2.nus.nic.nu.
+nu.			61652	IN	NS	ns.nic.nu.
+nu.			61652	IN	NS	ns4.nus.nic.nu.
+nu.			61652	IN	NS	ns3.nus.nic.nu.
+nu.			61652	IN	NS	ns0.nus.nic.nu.
+nu.			61652	IN	NS	ns0.telia.nic.nu.
+nu.			61652	IN	NS	ns5.nus.nic.nu.
+nu.			61652	IN	NS	ns0.de.nic.nu.
+
+;; ADDITIONAL SECTION:
+ns1.nus.nic.nu.		147634	IN	A	156.154.101.13
+ns2.nus.nic.nu.		147634	IN	A	156.154.102.13
+ns.nic.nu.		147634	IN	A	69.25.75.70
+ns4.nus.nic.nu.		147634	IN	A	156.154.104.13
+ns3.nus.nic.nu.		147634	IN	A	156.154.103.13
+ns0.nus.nic.nu.		147634	IN	A	156.154.100.13
+ns0.telia.nic.nu.	147634	IN	A	212.181.91.4
+ns5.nus.nic.nu.		147634	IN	A	156.154.105.13
+ns0.de.nic.nu.		147634	IN	A	62.4.64.120
+
+;; Query time: 93 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:15 2009
+;; MSG SIZE  rcvd: 404
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 ij1ff.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1973
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;ij1ff.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1241188494 1800 900 604800 900
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:15 2009
+;; MSG SIZE  rcvd: 103
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 hh1f.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1891
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;hh1f.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1241188494 1800 900 604800 900
+
+;; Query time: 156 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:16 2009
+;; MSG SIZE  rcvd: 102
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 lj1ff.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1636
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;lj1ff.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1241188494 1800 900 604800 900
+
+;; Query time: 31 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:16 2009
+;; MSG SIZE  rcvd: 103
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 casinotreasure.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 691
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;casinotreasure.com.		IN	A
+
+;; ANSWER SECTION:
+casinotreasure.com.	300	IN	A	204.92.97.82
+casinotreasure.com.	300	IN	A	204.92.97.211
+casinotreasure.com.	300	IN	A	204.92.97.210
+
+;; AUTHORITY SECTION:
+casinotreasure.com.	300	IN	NS	ns1.domain-hoster.com.
+casinotreasure.com.	300	IN	NS	ns2.domain-hoster.com.
+
+;; ADDITIONAL SECTION:
+ns1.domain-hoster.com.	150531	IN	A	204.92.96.166
+ns2.domain-hoster.com.	150531	IN	A	207.139.24.253
+
+;; Query time: 296 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:16 2009
+;; MSG SIZE  rcvd: 184
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 920
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	149.75.200.5
+modern-finding.com.	300	IN	A	221.142.230.143
+modern-finding.com.	300	IN	A	12.52.248.82
+modern-finding.com.	300	IN	A	65.255.81.199
+modern-finding.com.	300	IN	A	85.35.237.155
+modern-finding.com.	300	IN	A	121.240.109.67
+
+;; AUTHORITY SECTION:
+modern-finding.com.	172799	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	172799	IN	NS	ns2.desistylish.com.
+modern-finding.com.	172799	IN	NS	ns3.splendidfindings.com.
+modern-finding.com.	172799	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172799	IN	A	193.95.98.238
+ns2.desistylish.com.	172799	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172799 IN	A	200.129.46.5
+ns4.magnifindings.com.	172799	IN	A	193.193.239.254
+
+;; Query time: 1484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:18 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 517
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;loadingofjoy.cn.		IN	A
+
+;; ANSWER SECTION:
+loadingofjoy.cn.	300	IN	A	65.255.81.199
+loadingofjoy.cn.	300	IN	A	85.35.237.155
+loadingofjoy.cn.	300	IN	A	121.240.109.67
+loadingofjoy.cn.	300	IN	A	149.75.200.5
+loadingofjoy.cn.	300	IN	A	221.142.230.143
+loadingofjoy.cn.	300	IN	A	12.52.248.82
+
+;; AUTHORITY SECTION:
+loadingofjoy.cn.	300	IN	NS	ns1.verity-fresh.com.
+loadingofjoy.cn.	300	IN	NS	ns2.desistylish.com.
+loadingofjoy.cn.	300	IN	NS	ns3.splendidfindings.com.
+loadingofjoy.cn.	300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172789	IN	A	193.95.98.238
+ns2.desistylish.com.	172789	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172789 IN	A	200.129.46.5
+ns4.magnifindings.com.	172789	IN	A	193.193.239.254
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:28 2009
+;; MSG SIZE  rcvd: 339
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 486
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	65.255.81.199
+best-rx-onlinestore.com. 300	IN	A	85.35.237.155
+best-rx-onlinestore.com. 300	IN	A	121.240.109.67
+best-rx-onlinestore.com. 300	IN	A	149.75.200.5
+best-rx-onlinestore.com. 300	IN	A	221.142.230.143
+best-rx-onlinestore.com. 300	IN	A	12.52.248.82
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	193.95.98.238
+ns2.desistylish.com.	172800	IN	A	99.24.1.248
+ns3.splendidfindings.com. 172800 IN	A	200.129.46.5
+ns4.magnifindings.com.	172800	IN	A	193.193.239.254
+
+;; Query time: 671 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:29 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 butelor.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 213
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;butelor.com.			IN	A
+
+;; ANSWER SECTION:
+butelor.com.		600	IN	A	219.60.172.72
+butelor.com.		600	IN	A	24.240.211.230
+butelor.com.		600	IN	A	116.81.70.10
+butelor.com.		600	IN	A	172.162.82.86
+butelor.com.		600	IN	A	76.107.57.53
+
+;; Query time: 734 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:30 2009
+;; MSG SIZE  rcvd: 109
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 truitef.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 822
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;truitef.com.			IN	A
+
+;; ANSWER SECTION:
+truitef.com.		600	IN	A	76.107.57.53
+truitef.com.		600	IN	A	116.81.70.10
+truitef.com.		600	IN	A	76.107.57.53
+truitef.com.		600	IN	A	76.107.57.53
+truitef.com.		600	IN	A	76.107.57.53
+
+;; Query time: 1171 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:31 2009
+;; MSG SIZE  rcvd: 109
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cum-on-mature.tv
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 166
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;cum-on-mature.tv.		IN	A
+
+;; ANSWER SECTION:
+cum-on-mature.tv.	600	IN	A	76.107.57.53
+cum-on-mature.tv.	600	IN	A	172.162.82.86
+cum-on-mature.tv.	600	IN	A	99.235.6.227
+cum-on-mature.tv.	600	IN	A	116.81.70.10
+cum-on-mature.tv.	600	IN	A	77.99.124.52
+
+;; Query time: 3640 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:39 2009
+;; MSG SIZE  rcvd: 114
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cum-on-virgins.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1491
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;cum-on-virgins.com.		IN	A
+
+;; ANSWER SECTION:
+cum-on-virgins.com.	600	IN	A	212.152.39.196
+cum-on-virgins.com.	600	IN	A	84.123.243.41
+cum-on-virgins.com.	600	IN	A	83.138.233.26
+cum-on-virgins.com.	600	IN	A	92.235.156.61
+cum-on-virgins.com.	600	IN	A	68.205.254.93
+
+;; Query time: 781 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:35:40 2009
+;; MSG SIZE  rcvd: 116
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 returnmexie.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 uetrrnmexe.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached

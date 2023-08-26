@@ -1,0 +1,282 @@
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 www.servefill.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 174
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;www.servefill.com.		IN	A
+
+;; ANSWER SECTION:
+www.servefill.com.	1800	IN	A	69.64.147.215
+
+;; AUTHORITY SECTION:
+servefill.com.		3600	IN	NS	dns1.name-services.com.
+servefill.com.		3600	IN	NS	dns2.name-services.com.
+servefill.com.		3600	IN	NS	dns3.name-services.com.
+servefill.com.		3600	IN	NS	dns4.name-services.com.
+servefill.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	137	IN	A	98.124.192.1
+dns2.name-services.com.	139	IN	A	69.64.157.18
+dns3.name-services.com.	131	IN	A	98.124.193.1
+dns4.name-services.com.	247	IN	A	69.64.145.225
+dns5.name-services.com.	257	IN	A	70.42.37.7
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 00:02:17 2009
+;; MSG SIZE  rcvd: 257
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 whcdeb.speeddegree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 701
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;whcdeb.speeddegree.com.		IN	A
+
+;; ANSWER SECTION:
+whcdeb.speeddegree.com.	300	IN	A	63.119.44.197
+
+;; AUTHORITY SECTION:
+speeddegree.com.	300	IN	NS	ns.buydomains.com.
+speeddegree.com.	300	IN	NS	this-domain-for-sale.com.
+
+;; ADDITIONAL SECTION:
+ns.buydomains.com.	110528	IN	A	63.119.44.93
+this-domain-for-sale.com. 110528 IN	A	128.121.3.72
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 00:02:18 2009
+;; MSG SIZE  rcvd: 173
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 eqse.speeddegree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1221
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;eqse.speeddegree.com.		IN	A
+
+;; ANSWER SECTION:
+eqse.speeddegree.com.	300	IN	A	63.119.44.197
+
+;; AUTHORITY SECTION:
+speeddegree.com.	300	IN	NS	ns.buydomains.com.
+speeddegree.com.	300	IN	NS	this-domain-for-sale.com.
+
+;; ADDITIONAL SECTION:
+ns.buydomains.com.	128408	IN	A	63.119.44.93
+this-domain-for-sale.com. 118083 IN	A	128.121.3.72
+
+;; Query time: 390 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 00:02:18 2009
+;; MSG SIZE  rcvd: 169
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 iwz.speeddegree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2036
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;iwz.speeddegree.com.		IN	A
+
+;; ANSWER SECTION:
+iwz.speeddegree.com.	300	IN	A	63.119.44.197
+
+;; AUTHORITY SECTION:
+speeddegree.com.	300	IN	NS	ns.buydomains.com.
+speeddegree.com.	300	IN	NS	this-domain-for-sale.com.
+
+;; ADDITIONAL SECTION:
+ns.buydomains.com.	4688	IN	A	63.119.44.93
+this-domain-for-sale.com. 151019 IN	A	128.121.3.72
+
+;; Query time: 343 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 00:02:19 2009
+;; MSG SIZE  rcvd: 167
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 owa.drawdecide.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 212
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;owa.drawdecide.com.		IN	A
+
+;; ANSWER SECTION:
+owa.drawdecide.com.	1800	IN	A	69.64.147.214
+
+;; AUTHORITY SECTION:
+drawdecide.com.		3600	IN	NS	dns1.name-services.com.
+drawdecide.com.		3600	IN	NS	dns2.name-services.com.
+drawdecide.com.		3600	IN	NS	dns3.name-services.com.
+drawdecide.com.		3600	IN	NS	dns4.name-services.com.
+drawdecide.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	170275	IN	A	98.124.192.1
+dns2.name-services.com.	170275	IN	A	69.64.157.18
+dns3.name-services.com.	170275	IN	A	98.124.193.1
+dns4.name-services.com.	170275	IN	A	69.64.145.225
+dns5.name-services.com.	170275	IN	A	70.42.37.7
+
+;; Query time: 218 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 00:02:19 2009
+;; MSG SIZE  rcvd: 259
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 oeuhbo.speeddegree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 130
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;oeuhbo.speeddegree.com.		IN	A
+
+;; ANSWER SECTION:
+oeuhbo.speeddegree.com.	300	IN	A	63.119.44.197
+
+;; AUTHORITY SECTION:
+speeddegree.com.	300	IN	NS	ns.buydomains.com.
+speeddegree.com.	300	IN	NS	this-domain-for-sale.com.
+
+;; ADDITIONAL SECTION:
+ns.buydomains.com.	157594	IN	A	63.119.44.93
+this-domain-for-sale.com. 145977 IN	A	128.121.3.72
+
+;; Query time: 718 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 00:02:20 2009
+;; MSG SIZE  rcvd: 173
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 iwi.speeddegree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 786
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;iwi.speeddegree.com.		IN	A
+
+;; ANSWER SECTION:
+iwi.speeddegree.com.	300	IN	A	63.119.44.197
+
+;; AUTHORITY SECTION:
+speeddegree.com.	300	IN	NS	ns.buydomains.com.
+speeddegree.com.	300	IN	NS	this-domain-for-sale.com.
+
+;; ADDITIONAL SECTION:
+ns.buydomains.com.	113592	IN	A	63.119.44.93
+this-domain-for-sale.com. 151433 IN	A	128.121.3.72
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 00:02:20 2009
+;; MSG SIZE  rcvd: 167
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 omixp.speeddegree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 5
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;omixp.speeddegree.com.		IN	A
+
+;; ANSWER SECTION:
+omixp.speeddegree.com.	300	IN	A	63.119.44.197
+
+;; AUTHORITY SECTION:
+speeddegree.com.	300	IN	NS	ns.buydomains.com.
+speeddegree.com.	300	IN	NS	this-domain-for-sale.com.
+
+;; ADDITIONAL SECTION:
+ns.buydomains.com.	171728	IN	A	63.119.44.93
+this-domain-for-sale.com. 3246	IN	A	128.121.3.72
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 00:02:21 2009
+;; MSG SIZE  rcvd: 171
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 xeaei.speeddegree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 522
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;xeaei.speeddegree.com.		IN	A
+
+;; ANSWER SECTION:
+xeaei.speeddegree.com.	300	IN	A	63.119.44.197
+
+;; AUTHORITY SECTION:
+speeddegree.com.	300	IN	NS	ns.buydomains.com.
+speeddegree.com.	300	IN	NS	this-domain-for-sale.com.
+
+;; ADDITIONAL SECTION:
+ns.buydomains.com.	137463	IN	A	63.119.44.93
+this-domain-for-sale.com. 149579 IN	A	128.121.3.72
+
+;; Query time: 781 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 00:02:22 2009
+;; MSG SIZE  rcvd: 171
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 se.speeddegree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1360
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;se.speeddegree.com.		IN	A
+
+;; ANSWER SECTION:
+se.speeddegree.com.	300	IN	A	63.119.44.197
+
+;; AUTHORITY SECTION:
+speeddegree.com.	300	IN	NS	ns.buydomains.com.
+speeddegree.com.	300	IN	NS	this-domain-for-sale.com.
+
+;; ADDITIONAL SECTION:
+ns.buydomains.com.	150284	IN	A	63.119.44.93
+this-domain-for-sale.com. 137630 IN	A	128.121.3.72
+
+;; Query time: 671 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Sat Mar 28 00:02:22 2009
+;; MSG SIZE  rcvd: 165
+

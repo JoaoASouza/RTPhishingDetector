@@ -1,0 +1,312 @@
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 www.austintation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1702
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;www.austintation.com.		IN	A
+
+;; ANSWER SECTION:
+www.austintation.com.	1800	IN	A	69.64.147.209
+
+;; AUTHORITY SECTION:
+austintation.com.	3600	IN	NS	dns1.name-services.com.
+austintation.com.	3600	IN	NS	dns2.name-services.com.
+austintation.com.	3600	IN	NS	dns3.name-services.com.
+austintation.com.	3600	IN	NS	dns4.name-services.com.
+austintation.com.	3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	147220	IN	A	98.124.192.1
+dns2.name-services.com.	147220	IN	A	69.64.157.18
+dns3.name-services.com.	147220	IN	A	98.124.193.1
+dns4.name-services.com.	147220	IN	A	69.64.145.225
+dns5.name-services.com.	147220	IN	A	70.42.37.7
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:41:54 2009
+;; MSG SIZE  rcvd: 263
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 www.chekguia.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 937
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;www.chekguia.com.		IN	A
+
+;; ANSWER SECTION:
+www.chekguia.com.	1800	IN	A	69.64.155.126
+
+;; AUTHORITY SECTION:
+chekguia.com.		3600	IN	NS	dns1.name-services.com.
+chekguia.com.		3600	IN	NS	dns2.name-services.com.
+chekguia.com.		3600	IN	NS	dns3.name-services.com.
+chekguia.com.		3600	IN	NS	dns4.name-services.com.
+chekguia.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	147999	IN	A	98.124.192.1
+dns2.name-services.com.	147999	IN	A	69.64.157.18
+dns3.name-services.com.	147999	IN	A	98.124.193.1
+dns4.name-services.com.	147999	IN	A	69.64.145.225
+dns5.name-services.com.	147999	IN	A	70.42.37.7
+
+;; Query time: 437 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:41:54 2009
+;; MSG SIZE  rcvd: 255
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 www.chektierra.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 154
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;www.chektierra.com.		IN	A
+
+;; ANSWER SECTION:
+www.chektierra.com.	1800	IN	A	69.64.155.120
+
+;; AUTHORITY SECTION:
+chektierra.com.		3600	IN	NS	dns1.name-services.com.
+chektierra.com.		3600	IN	NS	dns2.name-services.com.
+chektierra.com.		3600	IN	NS	dns3.name-services.com.
+chektierra.com.		3600	IN	NS	dns4.name-services.com.
+chektierra.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	75	IN	A	98.124.192.1
+dns2.name-services.com.	211	IN	A	69.64.157.18
+dns3.name-services.com.	73	IN	A	98.124.193.1
+dns4.name-services.com.	87	IN	A	69.64.145.225
+dns5.name-services.com.	87	IN	A	70.42.37.7
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:41:55 2009
+;; MSG SIZE  rcvd: 259
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 www.cheaptmundo.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 684
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;www.cheaptmundo.com.		IN	A
+
+;; ANSWER SECTION:
+www.cheaptmundo.com.	1800	IN	A	69.64.155.125
+
+;; AUTHORITY SECTION:
+cheaptmundo.com.	3600	IN	NS	dns1.name-services.com.
+cheaptmundo.com.	3600	IN	NS	dns2.name-services.com.
+cheaptmundo.com.	3600	IN	NS	dns3.name-services.com.
+cheaptmundo.com.	3600	IN	NS	dns4.name-services.com.
+cheaptmundo.com.	3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	162031	IN	A	98.124.192.1
+dns2.name-services.com.	136719	IN	A	69.64.157.18
+dns3.name-services.com.	169313	IN	A	98.124.193.1
+dns4.name-services.com.	159	IN	A	69.64.145.225
+dns5.name-services.com.	165687	IN	A	70.42.37.7
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:41:55 2009
+;; MSG SIZE  rcvd: 261
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 www.byche.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2001
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;www.byche.com.			IN	A
+
+;; ANSWER SECTION:
+www.byche.com.		1800	IN	A	69.64.155.124
+
+;; AUTHORITY SECTION:
+byche.com.		3600	IN	NS	dns1.name-services.com.
+byche.com.		3600	IN	NS	dns2.name-services.com.
+byche.com.		3600	IN	NS	dns3.name-services.com.
+byche.com.		3600	IN	NS	dns4.name-services.com.
+byche.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	149079	IN	A	98.124.192.1
+dns2.name-services.com.	149079	IN	A	69.64.157.18
+dns3.name-services.com.	149079	IN	A	98.124.193.1
+dns4.name-services.com.	149079	IN	A	69.64.145.225
+dns5.name-services.com.	149079	IN	A	70.42.37.7
+
+;; Query time: 406 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:41:56 2009
+;; MSG SIZE  rcvd: 249
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 www.servefill.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 926
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;www.servefill.com.		IN	A
+
+;; ANSWER SECTION:
+www.servefill.com.	1800	IN	A	69.64.155.124
+
+;; AUTHORITY SECTION:
+servefill.com.		3600	IN	NS	dns1.name-services.com.
+servefill.com.		3600	IN	NS	dns2.name-services.com.
+servefill.com.		3600	IN	NS	dns3.name-services.com.
+servefill.com.		3600	IN	NS	dns4.name-services.com.
+servefill.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	147098	IN	A	98.124.192.1
+dns2.name-services.com.	165190	IN	A	69.64.157.18
+dns3.name-services.com.	172590	IN	A	98.124.193.1
+dns4.name-services.com.	168867	IN	A	69.64.145.225
+dns5.name-services.com.	150714	IN	A	70.42.37.7
+
+;; Query time: 484 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:41:56 2009
+;; MSG SIZE  rcvd: 257
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 whcdeb.speeddegree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1073
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;whcdeb.speeddegree.com.		IN	A
+
+;; ANSWER SECTION:
+whcdeb.speeddegree.com.	3600	IN	A	63.119.44.197
+
+;; AUTHORITY SECTION:
+speeddegree.com.	3600	IN	NS	ns.buydomains.com.
+speeddegree.com.	3600	IN	NS	this-domain-for-sale.com.
+
+;; ADDITIONAL SECTION:
+ns.buydomains.com.	1221	IN	A	63.119.44.93
+this-domain-for-sale.com. 146904 IN	A	128.121.3.72
+
+;; Query time: 671 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:41:57 2009
+;; MSG SIZE  rcvd: 173
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 eqse.speeddegree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2028
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;eqse.speeddegree.com.		IN	A
+
+;; ANSWER SECTION:
+eqse.speeddegree.com.	3600	IN	A	63.119.44.197
+
+;; AUTHORITY SECTION:
+speeddegree.com.	3600	IN	NS	ns.buydomains.com.
+speeddegree.com.	3600	IN	NS	this-domain-for-sale.com.
+
+;; ADDITIONAL SECTION:
+ns.buydomains.com.	144526	IN	A	63.119.44.93
+this-domain-for-sale.com. 144526 IN	A	128.121.3.72
+
+;; Query time: 578 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:41:58 2009
+;; MSG SIZE  rcvd: 169
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 iwz.speeddegree.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1821
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;iwz.speeddegree.com.		IN	A
+
+;; ANSWER SECTION:
+iwz.speeddegree.com.	3600	IN	A	63.119.44.197
+
+;; AUTHORITY SECTION:
+speeddegree.com.	3600	IN	NS	ns.buydomains.com.
+speeddegree.com.	3600	IN	NS	this-domain-for-sale.com.
+
+;; ADDITIONAL SECTION:
+ns.buydomains.com.	148664	IN	A	63.119.44.93
+this-domain-for-sale.com. 148664 IN	A	128.121.3.72
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:41:58 2009
+;; MSG SIZE  rcvd: 167
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 owa.drawdecide.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 649
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 5, ADDITIONAL: 5
+
+;; QUESTION SECTION:
+;owa.drawdecide.com.		IN	A
+
+;; ANSWER SECTION:
+owa.drawdecide.com.	1800	IN	A	69.64.147.213
+
+;; AUTHORITY SECTION:
+drawdecide.com.		3600	IN	NS	dns1.name-services.com.
+drawdecide.com.		3600	IN	NS	dns2.name-services.com.
+drawdecide.com.		3600	IN	NS	dns3.name-services.com.
+drawdecide.com.		3600	IN	NS	dns4.name-services.com.
+drawdecide.com.		3600	IN	NS	dns5.name-services.com.
+
+;; ADDITIONAL SECTION:
+dns1.name-services.com.	147995	IN	A	98.124.192.1
+dns2.name-services.com.	147995	IN	A	69.64.157.18
+dns3.name-services.com.	147995	IN	A	98.124.193.1
+dns4.name-services.com.	147995	IN	A	69.64.145.225
+dns5.name-services.com.	147995	IN	A	70.42.37.7
+
+;; Query time: 359 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Fri May 01 22:41:58 2009
+;; MSG SIZE  rcvd: 259
+

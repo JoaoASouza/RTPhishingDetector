@@ -1,0 +1,452 @@
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 construct-trusting-world.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fhi11.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 830
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;fhi11.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1240497312 1800 900 604800 900
+
+;; Query time: 46 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:35:25 2009
+;; MSG SIZE  rcvd: 103
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 besideright.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1067
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;besideright.com.		IN	A
+
+;; ANSWER SECTION:
+besideright.com.	180	IN	A	202.129.22.90
+besideright.com.	180	IN	A	74.210.129.10
+besideright.com.	180	IN	A	86.4.20.212
+besideright.com.	180	IN	A	157.252.151.49
+besideright.com.	180	IN	A	84.243.28.179
+besideright.com.	180	IN	A	74.63.192.226
+besideright.com.	180	IN	A	24.226.225.175
+besideright.com.	180	IN	A	68.180.113.4
+besideright.com.	180	IN	A	172.162.139.159
+besideright.com.	180	IN	A	128.151.135.198
+
+;; Query time: 328 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:35:26 2009
+;; MSG SIZE  rcvd: 193
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fhj1l.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 12
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;fhj1l.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1240497312 1800 900 604800 900
+
+;; Query time: 140 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:35:26 2009
+;; MSG SIZE  rcvd: 103
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 fhi1l.eu
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 112
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;fhi1l.eu.			IN	A
+
+;; AUTHORITY SECTION:
+eu.			10800	IN	SOA	a.nic.eu. tech.eurid.eu. 904231822 3600 1800 3600000 600
+
+;; Query time: 62 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:35:26 2009
+;; MSG SIZE  rcvd: 81
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bendright.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1010
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;bendright.com.			IN	A
+
+;; ANSWER SECTION:
+bendright.com.		180	IN	A	202.129.22.90
+bendright.com.		180	IN	A	67.175.46.251
+bendright.com.		180	IN	A	86.4.20.212
+bendright.com.		180	IN	A	68.180.113.4
+bendright.com.		180	IN	A	138.238.175.109
+bendright.com.		180	IN	A	116.111.200.179
+bendright.com.		180	IN	A	95.172.113.221
+bendright.com.		180	IN	A	24.207.68.171
+bendright.com.		180	IN	A	189.54.75.41
+bendright.com.		180	IN	A	157.252.151.49
+
+;; Query time: 3750 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:35:30 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 belowright.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 76
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;belowright.com.			IN	A
+
+;; ANSWER SECTION:
+belowright.com.		180	IN	A	95.172.113.221
+belowright.com.		180	IN	A	86.4.20.212
+belowright.com.		180	IN	A	81.84.103.220
+belowright.com.		180	IN	A	72.242.236.154
+belowright.com.		180	IN	A	24.207.68.171
+belowright.com.		180	IN	A	202.129.22.90
+belowright.com.		180	IN	A	81.56.250.159
+belowright.com.		180	IN	A	89.252.28.209
+belowright.com.		180	IN	A	74.210.165.165
+belowright.com.		180	IN	A	84.243.28.179
+
+;; Query time: 593 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:35:31 2009
+;; MSG SIZE  rcvd: 192
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 belongright.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 888
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;belongright.com.		IN	A
+
+;; ANSWER SECTION:
+belongright.com.	180	IN	A	95.172.113.221
+belongright.com.	180	IN	A	72.242.236.154
+belongright.com.	180	IN	A	86.4.20.212
+belongright.com.	180	IN	A	68.180.113.4
+belongright.com.	180	IN	A	74.63.192.226
+belongright.com.	180	IN	A	76.89.34.75
+belongright.com.	180	IN	A	81.218.137.68
+belongright.com.	180	IN	A	81.84.103.220
+belongright.com.	180	IN	A	202.129.22.90
+belongright.com.	180	IN	A	74.210.129.10
+
+;; Query time: 625 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:35:31 2009
+;; MSG SIZE  rcvd: 193
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 behindright.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 214
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;behindright.com.		IN	A
+
+;; ANSWER SECTION:
+behindright.com.	180	IN	A	164.113.97.28
+behindright.com.	180	IN	A	81.56.250.159
+behindright.com.	180	IN	A	24.76.236.21
+behindright.com.	180	IN	A	157.252.151.49
+behindright.com.	180	IN	A	138.238.175.109
+behindright.com.	180	IN	A	128.151.135.198
+behindright.com.	180	IN	A	89.45.136.55
+behindright.com.	180	IN	A	86.4.20.212
+behindright.com.	180	IN	A	74.63.192.226
+behindright.com.	180	IN	A	67.175.46.251
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:35:32 2009
+;; MSG SIZE  rcvd: 193
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 beltright.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 528
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 10, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;beltright.com.			IN	A
+
+;; ANSWER SECTION:
+beltright.com.		180	IN	A	74.63.192.226
+beltright.com.		180	IN	A	86.104.128.136
+beltright.com.		180	IN	A	24.207.68.171
+beltright.com.		180	IN	A	89.45.136.55
+beltright.com.		180	IN	A	81.56.250.159
+beltright.com.		180	IN	A	72.242.236.154
+beltright.com.		180	IN	A	89.252.28.209
+beltright.com.		180	IN	A	164.113.97.28
+beltright.com.		180	IN	A	202.131.190.199
+beltright.com.		180	IN	A	68.180.113.4
+
+;; Query time: 765 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:35:33 2009
+;; MSG SIZE  rcvd: 191
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 imperialcasino.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 949
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 2, ADDITIONAL: 2
+
+;; QUESTION SECTION:
+;imperialcasino.com.		IN	A
+
+;; ANSWER SECTION:
+imperialcasino.com.	300	IN	A	204.92.97.211
+imperialcasino.com.	300	IN	A	204.92.97.210
+imperialcasino.com.	300	IN	A	204.92.97.82
+
+;; AUTHORITY SECTION:
+imperialcasino.com.	300	IN	NS	ns1.domain-hoster.com.
+imperialcasino.com.	300	IN	NS	ns2.domain-hoster.com.
+
+;; ADDITIONAL SECTION:
+ns1.domain-hoster.com.	172296	IN	A	204.92.96.166
+ns2.domain-hoster.com.	172296	IN	A	207.139.24.253
+
+;; Query time: 250 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:35:33 2009
+;; MSG SIZE  rcvd: 184
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 advabnr.com
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 modern-finding.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 432
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;modern-finding.com.		IN	A
+
+;; ANSWER SECTION:
+modern-finding.com.	300	IN	A	71.172.38.60
+modern-finding.com.	300	IN	A	74.44.82.40
+modern-finding.com.	300	IN	A	74.172.32.50
+modern-finding.com.	300	IN	A	149.75.200.5
+modern-finding.com.	300	IN	A	216.226.133.199
+modern-finding.com.	300	IN	A	58.186.12.179
+
+;; AUTHORITY SECTION:
+modern-finding.com.	300	IN	NS	ns4.magnifindings.com.
+modern-finding.com.	300	IN	NS	ns1.verity-fresh.com.
+modern-finding.com.	300	IN	NS	ns2.desistylish.com.
+modern-finding.com.	300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172799	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	74.44.82.40
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	200.129.46.5
+
+;; Query time: 765 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:35:49 2009
+;; MSG SIZE  rcvd: 342
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 thinkaboutus.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 loadingofjoy.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 landcyberlocal.cn
+; (1 server found)
+;; global options:  printcmd
+;; connection timed out; no servers could be reached
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 world-widinnovation.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 688
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;world-widinnovation.com.	IN	A
+
+;; ANSWER SECTION:
+world-widinnovation.com. 300	IN	A	58.186.12.179
+world-widinnovation.com. 300	IN	A	71.172.38.60
+world-widinnovation.com. 300	IN	A	74.44.82.40
+world-widinnovation.com. 300	IN	A	74.172.32.50
+world-widinnovation.com. 300	IN	A	149.75.200.5
+world-widinnovation.com. 300	IN	A	216.226.133.199
+
+;; AUTHORITY SECTION:
+world-widinnovation.com. 300	IN	NS	ns4.magnifindings.com.
+world-widinnovation.com. 300	IN	NS	ns1.verity-fresh.com.
+world-widinnovation.com. 300	IN	NS	ns2.desistylish.com.
+world-widinnovation.com. 300	IN	NS	ns3.splendidfindings.com.
+
+;; ADDITIONAL SECTION:
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+ns1.verity-fresh.com.	172799	IN	A	74.44.82.40
+ns2.desistylish.com.	172799	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172799 IN	A	200.129.46.5
+
+;; Query time: 718 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:36:35 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 best-rx-onlinestore.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 874
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 6, AUTHORITY: 4, ADDITIONAL: 4
+
+;; QUESTION SECTION:
+;best-rx-onlinestore.com.	IN	A
+
+;; ANSWER SECTION:
+best-rx-onlinestore.com. 300	IN	A	74.44.82.40
+best-rx-onlinestore.com. 300	IN	A	74.172.32.50
+best-rx-onlinestore.com. 300	IN	A	149.75.200.5
+best-rx-onlinestore.com. 300	IN	A	216.226.133.199
+best-rx-onlinestore.com. 300	IN	A	58.186.12.179
+best-rx-onlinestore.com. 300	IN	A	71.172.38.60
+
+;; AUTHORITY SECTION:
+best-rx-onlinestore.com. 300	IN	NS	ns1.verity-fresh.com.
+best-rx-onlinestore.com. 300	IN	NS	ns2.desistylish.com.
+best-rx-onlinestore.com. 300	IN	NS	ns3.splendidfindings.com.
+best-rx-onlinestore.com. 300	IN	NS	ns4.magnifindings.com.
+
+;; ADDITIONAL SECTION:
+ns1.verity-fresh.com.	172800	IN	A	74.44.82.40
+ns2.desistylish.com.	172800	IN	A	74.15.177.251
+ns3.splendidfindings.com. 172800 IN	A	200.129.46.5
+ns4.magnifindings.com.	172800	IN	A	74.172.32.50
+
+;; Query time: 500 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:36:35 2009
+;; MSG SIZE  rcvd: 352
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 cum-on-virgins.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1979
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;cum-on-virgins.com.		IN	A
+
+;; ANSWER SECTION:
+cum-on-virgins.com.	600	IN	A	62.178.147.236
+cum-on-virgins.com.	600	IN	A	85.70.93.169
+cum-on-virgins.com.	600	IN	A	92.76.158.14
+cum-on-virgins.com.	600	IN	A	83.36.238.225
+cum-on-virgins.com.	600	IN	A	217.217.207.175
+
+;; Query time: 468 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:36:36 2009
+;; MSG SIZE  rcvd: 116
+
+
+; <<>> DiG 9.3.2rc1 <<>> @168.95.1.1 bestpharmweb.com
+; (1 server found)
+;; global options:  printcmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 1169
+;; flags: qr aa rd ra; QUERY: 1, ANSWER: 14, AUTHORITY: 3, ADDITIONAL: 3
+
+;; QUESTION SECTION:
+;bestpharmweb.com.		IN	A
+
+;; ANSWER SECTION:
+bestpharmweb.com.	600	IN	A	24.23.113.132
+bestpharmweb.com.	600	IN	A	216.144.105.172
+bestpharmweb.com.	600	IN	A	69.247.161.254
+bestpharmweb.com.	600	IN	A	74.41.48.50
+bestpharmweb.com.	600	IN	A	75.185.56.208
+bestpharmweb.com.	600	IN	A	76.22.226.55
+bestpharmweb.com.	600	IN	A	70.136.31.99
+bestpharmweb.com.	600	IN	A	76.97.143.24
+bestpharmweb.com.	600	IN	A	99.190.74.145
+bestpharmweb.com.	600	IN	A	4.181.22.82
+bestpharmweb.com.	600	IN	A	173.51.157.94
+bestpharmweb.com.	600	IN	A	76.97.149.29
+bestpharmweb.com.	600	IN	A	72.241.121.187
+bestpharmweb.com.	600	IN	A	70.238.58.97
+
+;; AUTHORITY SECTION:
+bestpharmweb.com.	172792	IN	NS	ns1.bestpharmweb.com.
+bestpharmweb.com.	172792	IN	NS	ns2.bestpharmweb.com.
+bestpharmweb.com.	172792	IN	NS	ns3.bestpharmweb.com.
+
+;; ADDITIONAL SECTION:
+ns1.bestpharmweb.com.	172792	IN	A	70.154.82.100
+ns2.bestpharmweb.com.	172792	IN	A	99.242.5.254
+ns3.bestpharmweb.com.	172792	IN	A	70.82.24.172
+
+;; Query time: 2937 msec
+;; SERVER: 168.95.1.1#53(168.95.1.1)
+;; WHEN: Thu Apr 23 22:36:44 2009
+;; MSG SIZE  rcvd: 376
+
