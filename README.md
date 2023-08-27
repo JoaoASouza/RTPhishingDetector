@@ -4,13 +4,13 @@ Ferramenta de treinamento e avaliação de cGANs para geração de dados sintét
 
 ## Preparação e Execução
 
-### 1. Clonar o repositório 
+1. Clonar o repositório 
    ```bash
     git clone https://github.com/JoaoASouza/RTPhishingDetector.git
     cd RTPhishingDetector
     ```
 
-### 2. Instalar dependências
+2. Instalar dependências
     ```bash
     pip3 install -r requirements.txt
     ```
@@ -21,7 +21,7 @@ Ferramenta de treinamento e avaliação de cGANs para geração de dados sintét
     pip install -r requirements.txt
     ```
 
-### 3. Executar a ferramenta: 
+3. Executar a ferramenta: 
 
     ```bash
     python3 classify.py
@@ -37,29 +37,29 @@ Ferramenta de treinamento e avaliação de cGANs para geração de dados sintét
 
 Para incremento do dataset são necessários 3 etapas:
 
-### 1. Obter URLs de phishing a partir das blacklists
+1. Obter URLs de phishing a partir das blacklists
     ```bash
     python3 get_phishing_URLs.py
     ```
-    As URLs obtitas ficarão salvas no arquivo "phishing_urls_phishtank_{data_atual}" dentro do diretório "lists"
+    * As URLs obtitas ficarão salvas no arquivo "phishing_urls_phishtank_{data_atual}" dentro do diretório "lists"
 
-### 2. Obter URLs legítimas
-    Primeiramente é necessário baixar a página html do MOZ disponível em https://moz.com/top500 e substituir o arquivo "moztop500.html"
-    Em seguida deve-se executar o script
+2. Obter URLs legítimas
+    * Primeiramente é necessário baixar a página html do MOZ disponível em https://moz.com/top500 e substituir o arquivo "moztop500.html"
+    * Em seguida deve-se executar o script
     ```bash
     python3 get_legitimate_URLs.py
     ```
-    As URLs obtitas ficarão salvas no arquivo "legitimate_urls_moz_{data_atual}" dentro do diretório "lists"
+    * As URLs obtitas ficarão salvas no arquivo "legitimate_urls_moz_{data_atual}" dentro do diretório "lists"
 
-### 3. Obter os atributos das URLs
+3. Obter os atributos das URLs
     ```bash
     python3 get_URL_attrs.py
     ```
-    Dentro do arquivo "get_URL_attrs.py" modificar a flag LEGITIMATE_DATA para True caso se deseje obter os dados das URLs legítimas ou para False no caso de URLs de phishing
-    Caso se deseje utilizar o conjunto completo de fetures modificar a flag USE_EXTERN_TOOLS para True
-    Os dados ficarão salvos nos arquivos "out{data_atual}.csv" ou "out{data_atual}_legitimate.csv" (dependendo da flag LEGITIMATE_DATA) dentro do diretório "datasets"
+    * Dentro do arquivo "get_URL_attrs.py" modificar a flag LEGITIMATE_DATA para True caso se deseje obter os dados das URLs legítimas ou para False no caso de URLs de phishing
+    * Caso se deseje utilizar o conjunto completo de fetures modificar a flag USE_EXTERN_TOOLS para True
+    * Os dados ficarão salvos nos arquivos "out{data_atual}.csv" ou "out{data_atual}_legitimate.csv" (dependendo da flag LEGITIMATE_DATA) dentro do diretório "datasets"
 
-### 4. Executar o script para unir os todos os arquivos do diretório "datasets"
+4. Executar o script para unir os todos os arquivos do diretório "datasets"
     ```bash
     python3 build_dataset.py
     ```
