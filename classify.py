@@ -61,20 +61,20 @@ def get_model(model_name):
     if model_name == "bayes":
         return GaussianNB()
     
-    if model_name == "decision_tree":
+    if model_name == "dt":
         return DecisionTreeClassifier(random_state=SEED)
     
     if model_name == "knn":
         return KNeighborsClassifier(n_neighbors=3)
 
-    if model_name == "random_forest":
+    if model_name == "rf":
         return RandomForestClassifier(random_state=SEED)
 
     if model_name == "svm":
-        return SVC()
+        return SVC(random_state=SEED)
 
 
-data = pd.read_csv("./datasets/dataset.csv", sep=',')
+data = pd.read_csv("./datasets/dataset_eq.csv", sep=',')
 
 dataframe = data.copy()
 dataframe = dataframe.astype({
@@ -137,7 +137,7 @@ sn.heatmap(
         }
     ).corr()
 )
-# plt.show()
+plt.show()
 features_dataframe = features_dataframe.drop(columns=['has_DNS_record'])
 # sn.heatmap(features_dataframe.corr())
 # plt.show()
@@ -192,10 +192,20 @@ models_names = [
     "mlp",
     "bayes",
     "knn",
-    "decision_tree",
-    "random_forest",
+    "dt",
+    "rf",
     "svm"
 ]
+
+x = []
+y_acc = []
+y_acc_err = []
+y_prec = []
+y_prec_err = []
+y_f1 = []
+y_f1_err = []
+y_rec = []
+y_rec_err = []
 
 for model_name in models_names:
 
@@ -218,8 +228,45 @@ for model_name in models_names:
     # columns = [ 'Malicioso', 'Legitimo']
     # pp_matrix_from_data(Y_test, Y_predicted, columns=columns)
 
+    x.append(model_name.upper())
+
     print("\n>>>", model_name.upper())
     print("ACCURACY = {:.2f} +- {:.2f}".format(100*accuracy.mean(), 100*accuracy.std()))
+    y_acc.append(accuracy.mean())
+    y_acc_err.append(accuracy.std())
     print("PRECISION = {:.2f} +- {:.2f}".format(100*precision.mean(), 100*precision.std()))
+    y_prec.append(precision.mean())
+    y_prec_err.append(precision.std())
     print("RECALL = {:.2f} +- {:.2f}".format(100*recall.mean(), 100*recall.std()))
+    y_rec.append(recall.mean())
+    y_rec_err.append(recall.std())
     print("F1 = {:.2f} +- {:.2f}".format(100*f1.mean(), 100*f1.std()))
+    y_f1.append(f1.mean())
+    y_f1_err.append(f1.std())
+
+fig, axs = plt.subplots(2, 2)
+
+# plt.rcParams.update({'font.size': 20})
+
+axs[0, 0].errorbar(x, y_acc, y_acc_err, fmt='o', markerfacecolor='#4287f5', markeredgecolor='black', ecolor='black', capsize=5)
+axs[0, 0].set_title('Acurácia')
+axs[0, 0].grid()
+axs[0, 0].set(ylim=[.89 if USE_EXTERN_TOOLS else .7, 1])
+
+axs[0, 1].errorbar(x, y_prec, y_prec_err, fmt='o', markerfacecolor='#bf100a', markeredgecolor='black', ecolor='black', capsize=5)
+axs[0, 1].set_title('Precisão')
+axs[0, 1].grid()
+axs[0, 1].set(ylim=[.89 if USE_EXTERN_TOOLS else .7, 1])
+
+axs[1, 0].errorbar(x, y_rec, y_rec_err, fmt='o', markerfacecolor='#48b330', markeredgecolor='black', ecolor='black', capsize=5)
+axs[1, 0].set_title('Recall')
+axs[1, 0].grid()
+axs[1, 0].set(ylim=[.89 if USE_EXTERN_TOOLS else .7, 1])
+
+axs[1, 1].errorbar(x, y_f1, y_f1_err, fmt='o', markerfacecolor='#bfaa0a', markeredgecolor='black', ecolor='black', capsize=5)
+axs[1, 1].set_title('F1')
+axs[1, 1].grid()
+axs[1, 1].set(ylim=[.89 if USE_EXTERN_TOOLS else .7, 1])
+
+# fig.suptitle("Pontuação dos modelos")
+plt.show()
