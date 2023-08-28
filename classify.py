@@ -20,7 +20,7 @@ from sklearn.metrics import accuracy_score, f1_score, recall_score, precision_sc
 
 SEED = 12345
 USE_PCA = True
-USE_EXTERN_TOOLS = False
+USE_EXTERN_TOOLS = True
 
 extern_attributes = [
     'domain_age',
@@ -139,20 +139,6 @@ sn.heatmap(
 )
 plt.show()
 features_dataframe = features_dataframe.drop(columns=['has_DNS_record'])
-# sn.heatmap(features_dataframe.corr())
-# plt.show()
-
-# remove atributos que dependem de serviços externos
-# features_dataframe = features_dataframe.drop(columns=[
-#     'domain_age',
-#     'page_rank',
-#     'has_DNS_record',
-#     'A_records',
-#     'avg_ttl',
-#     'asn_count',
-#     'AAAA_records',
-#     'avg_AAAA_ttl',
-# ])
 
 if (not USE_EXTERN_TOOLS):
     for column in extern_attributes:
@@ -179,12 +165,7 @@ X_train, X_test, Y_train, Y_test = train_test_split(X_scaled, Y, train_size=0.75
 if (USE_PCA):
 
     n_components = 15 if USE_EXTERN_TOOLS else 5
-
     pca = PCA(n_components=n_components, random_state=SEED)
-    # pca.fit(X_train)
-    # X_train_PCA = pca.transform(X_train)
-    # X_test_PCA = pca.transform(X_test)
-
     pca.fit(X_scaled)
     X_transformed_PCA = pca.transform(X_scaled)
 
@@ -214,19 +195,14 @@ for model_name in models_names:
     metrics = ['accuracy', 'precision', 'f1', 'recall']
 
     if (model_name == "bayes"):
-        # model.fit(X_transformed_PCA, Y_train.ravel())
         scores = cross_validate(model, X_transformed_PCA, Y.ravel(), cv=5, scoring=metrics)
     else:
-        # model.fit(X_scaled, Y.ravel())
         scores = cross_validate(model, X_scaled, Y.ravel(), cv=5, scoring=metrics)
 
     accuracy = scores['test_accuracy']
     precision = scores['test_precision']
     f1 = scores['test_f1']
     recall = scores['test_recall']
-
-    # columns = [ 'Malicioso', 'Legitimo']
-    # pp_matrix_from_data(Y_test, Y_predicted, columns=columns)
 
     x.append(model_name.upper())
 
@@ -244,29 +220,35 @@ for model_name in models_names:
     y_f1.append(f1.mean())
     y_f1_err.append(f1.std())
 
+
+plt.rcParams.update({
+    'font.size': 20,
+    'axes.labelsize': 20,
+    'axes.titlesize': 20,
+    'xtick.labelsize': 20,
+    'ytick.labelsize': 20
+})
+
 fig, axs = plt.subplots(2, 2)
 
-# plt.rcParams.update({'font.size': 20})
-
-axs[0, 0].errorbar(x, y_acc, y_acc_err, fmt='o', markerfacecolor='#4287f5', markeredgecolor='black', ecolor='black', capsize=5)
+axs[0, 0].errorbar(x, y_acc, y_acc_err, fmt='o', markerfacecolor='#4287f5', markeredgecolor='black', ecolor='black', capsize=10, markersize=10, markeredgewidth=2)
 axs[0, 0].set_title('Acurácia')
 axs[0, 0].grid()
 axs[0, 0].set(ylim=[.89 if USE_EXTERN_TOOLS else .7, 1])
 
-axs[0, 1].errorbar(x, y_prec, y_prec_err, fmt='o', markerfacecolor='#bf100a', markeredgecolor='black', ecolor='black', capsize=5)
+axs[0, 1].errorbar(x, y_prec, y_prec_err, fmt='o', markerfacecolor='#bf100a', markeredgecolor='black', ecolor='black', capsize=10, markersize=10, markeredgewidth=2)
 axs[0, 1].set_title('Precisão')
 axs[0, 1].grid()
 axs[0, 1].set(ylim=[.89 if USE_EXTERN_TOOLS else .7, 1])
 
-axs[1, 0].errorbar(x, y_rec, y_rec_err, fmt='o', markerfacecolor='#48b330', markeredgecolor='black', ecolor='black', capsize=5)
+axs[1, 0].errorbar(x, y_rec, y_rec_err, fmt='o', markerfacecolor='#48b330', markeredgecolor='black', ecolor='black', capsize=10, markersize=10, markeredgewidth=2)
 axs[1, 0].set_title('Recall')
 axs[1, 0].grid()
 axs[1, 0].set(ylim=[.89 if USE_EXTERN_TOOLS else .7, 1])
 
-axs[1, 1].errorbar(x, y_f1, y_f1_err, fmt='o', markerfacecolor='#bfaa0a', markeredgecolor='black', ecolor='black', capsize=5)
+axs[1, 1].errorbar(x, y_f1, y_f1_err, fmt='o', markerfacecolor='#bfaa0a', markeredgecolor='black', ecolor='black', capsize=10, markersize=10, markeredgewidth=2)
 axs[1, 1].set_title('F1')
 axs[1, 1].grid()
 axs[1, 1].set(ylim=[.89 if USE_EXTERN_TOOLS else .7, 1])
 
-# fig.suptitle("Pontuação dos modelos")
 plt.show()
