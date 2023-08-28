@@ -74,7 +74,7 @@ def get_model(model_name):
         return SVC(random_state=SEED)
 
 
-data = pd.read_csv("./datasets/dataset_eq.csv", sep=',')
+data = pd.read_csv("./datasets/dataset.csv", sep=',')
 
 dataframe = data.copy()
 dataframe = dataframe.astype({
