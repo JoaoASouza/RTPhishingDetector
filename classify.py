@@ -1,6 +1,5 @@
 import numpy as np
 import pandas as pd
-from pretty_confusion_matrix import pp_matrix_from_data
 
 import seaborn as sn
 import matplotlib.pyplot as plt

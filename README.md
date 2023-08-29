@@ -72,3 +72,13 @@ A ferramenta foi executada e testada na prática nos seguintes ambientes:
    Kernel Version = 5.4.0-155-generic<br/>
    Python = 3.9.13 <br/>
    Módulos Python conforme [requirements](requirements.txt).
+
+2. Lubuntu 22.04.1 LTS x86_64<br/>
+   Kernel Version = 5.15.0-43-generic<br/>
+   Python = 3.10.12 <br/>
+   Módulos Python conforme [requirements](requirements.txt).
+
+3. Kali GNU/Linux Rolling x86_64<br/>
+   Kernel Version = 5.18.0-kali5-amd64<br/>
+   Python = 3.10.5 <br/>
+   Módulos Python conforme [requirements](requirements.txt).
